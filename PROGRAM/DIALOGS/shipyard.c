@@ -24,12 +24,35 @@ void ProcessDialogEvent()
 		case "fetch quest":
 			Preprocessor_Add("gender", GetMyAddressForm(NPChar, PChar, ADDR_GENDER, false, false)); // DeathDaisy
 			d.Text = DLG_TEXT[1] + NPChar.fetch_quest.amount + " " + XI_ConvertString(Goods[sti(NPChar.fetch_quest.good)].name) + DLG_TEXT[2] + NPChar.fetch_quest.money + DLG_TEXT[3]  + NPChar.fetch_quest.expire;
-			Link.l1 = DLG_TEXT[4];
-			Link.l1.go = "agree fetch";
-			Link.l2 = DLG_TEXT[5];
-			Link.l2.go = "decline fetch";
+         Link.l1 = DLG_TEXT[4];
+         Link.l1.go = "agree fetch";
+         Link.l2 = DLG_TEXT[5];
+         Link.l2.go = "decline fetch";
+         // Peter Norton - PChar already has the cargo -->
+         if (GetCargoGoods(PChar, sti(NPChar.fetch_quest.good)) >= sti(NPChar.fetch_quest.amount))
+         {
+            Link.l3 = DLG_TEXT[17];
+            Link.l3.go = "deliver cargo":
+         }
+         // <-- PN
 		break;
-		
+
+      // Peter Norton - separate from the "PChar already has the cargo" dialog to avoid improper insertion in QB -->
+      case "deliver cargo":
+			d.Text = DLG_TEXT[13];
+			Link.l1 = DLG_TEXT[7];
+			Link.l1.go = "exit";
+			//reward etc
+			AddMoneyToCharacter(PChar,sti(NPChar.fetch_quest.money));
+			ChangeCharacterReputation(PChar, 2);
+			if(AUTO_SKILL_SYSTEM) { AddPartyExpChar(pchar, "Commerce", 100*makeint(PChar.rank)); }
+			else { AddPartyExp(pchar, 100*makeint(PChar.rank)); }
+			RemoveCharacterGoods(PChar,sti(NPChar.fetch_quest.good),sti(NPChar.fetch_quest.amount));
+			//Levis Unlock Perk
+			if(CheckCharacterPerkLocked(Pchar, "InstantRepair")) UnlockPerkCharacter(PChar ,"InstantRepair");
+      break;
+      // <-- PN
+
 		case "fetch quest more runs":
 			d.Text = DLG_TEXT[15];
 			Link.l1 = DLG_TEXT[9];
