@@ -1,0 +1,10 @@
+title=Os canhões de Mona
+text.t1=Tenho que explodir os canhões da #sisland_Isla Mona#... Me dando esse tipo de missão, devo ser o mercenário mais valioso do Vice-Almirante. Eu deveria aproveitar isso no futuro... Mas por enquanto, vamos encontrar Pelágio em #sisland_Antigua#.
+text.t2=Esta missão não é fácil, mas o Almirante quer me testar. Vamos para #sisland_Guadeloupe# fazer alguns furos no casco do Belleville.
+text.t3=Feito! Vamos voltar para #sisland_Antigua# e encontrar o Almirante novamente.
+text.t4=Uma nova missão, mas esta em #sisland_Khael Roa#. O Capitão Tripper será meu parceiro. Esperemos que não tenha que esperar muitos meses antes de ir para #sisland_Isla Mona#.
+text.t5=Quando estávamos saindo da ilha, um navio de guerra francês nos atacou. Felizmente, graças à ajuda do Capitão Tripper, venci a batalha. Vamos a toda velocidade para #sisland_Antigua#, #sisland_Khael Roa# é muito perigoso.
+text.t6=Finalmente!! Recebi uma missão na Ilha Mona. Preciso falar com Wilfred Larner, o capitão do navio mercante.
+text.t7=Uma grande explosão! Os britÃ¢nicos sofrerão esta perda por muito tempo. O Vice-Almirante Benavides ficará muito satisfeito pelo facto de a missão ter sido um sucesso total. Se ele estiver feliz, ficarei mais rico.
+text.t8=Me arrependo de ter falado a missão para #sisland_Khael Roa#. Agora, a minha missão é capturar o orgulho da frota francesa - La Couronne. Que péssima sorte! Esperemos que os ingleses me ajudem nesta tarefa.
+text.t9=Sim! La Couronne é minha. Vamos atracar este incrível navio em Havana. Devo apresentar pessoalmente o navio ao vice-almirante Benavides, por isso devo estar no comando dele.

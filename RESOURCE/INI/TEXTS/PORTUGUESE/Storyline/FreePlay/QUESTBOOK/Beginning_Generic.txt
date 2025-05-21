@@ -1,0 +1,3 @@
+title=Um novo começo
+text.t1=Finalmente cheguei em #stown#. Agora vou fazer os preparativos necessários antes de partirmos para o mar para a nossa próxima viagem.
+text.t2=Finalmente consegui meu novo barco - um lindo #sshiptype# que chamei de #sshipname#. Agora, parto para o mar em busca do meu novo sonho como capitão.

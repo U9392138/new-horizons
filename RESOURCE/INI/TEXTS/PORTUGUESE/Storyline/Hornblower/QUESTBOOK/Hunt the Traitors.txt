@@ -1,0 +1,11 @@
+title=Caça os traidores.
+text.t1=Wolfe pode estar em um saveiro chamado 'Loup-Garou' perto de #sisland_Falaise de Fleur#. Não gosto da ideia de procurá-lo na cidade, por isso tentarei encontrar este navio no mar, perto da ilha.
+text.t2=Capturei Thomas Wolfe a bordo de uma chalupa francesa roubada. Eu deveria levá-lo para a prisão de #sGreenford#.
+text.t3=Wolfe está trancado com segurança.
+text.t4=Agora preciso pedir ao comandante da prisão que liberte Wolfe.
+text.t5=Wolfe foi libertado sob minha custódia. Agora navegaremos para Boca de Yuman em #sisland_Hispaniola#.
+text.t6=Wolfe diz que Quelp irá encontrá-lo perto de um moinho de vento.
+text.t7=Quelp planejou atacar Eleuthera usando Voltigeurs franceses disfarçados em uniforme britÃ¢nico para que a América declarasse guerra à Grã-Bretanha. Quelp e Wolfe estão mortos, mas Sharpe acha que há mais Voltigeurs por perto. Mas onde? Não na praia, obviamente...
+text.t8=Matamos o resto dos Voltigeurs e capturamos seu oficial. Agora de volta a Bridgetown. O Almirante Pellew certamente estará interessado nestes eventos!
+text.t9=O Tenente Sharpe e os Homens Escolhidos estão partindo para a Europa, então provavelmente não os veremos novamente. Enquanto isso, devo me reportar ao Almirante do QG Naval. Eu também deveria visitar minha esposa.
+text.t10=Enquanto estávamos em terra, uma fragata de patrulha francesa encontrou o 'Atropos'. Depois que voltamos a bordo, nós a derrotamos.

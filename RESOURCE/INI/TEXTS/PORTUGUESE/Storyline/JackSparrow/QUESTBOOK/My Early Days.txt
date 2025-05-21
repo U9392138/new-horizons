@@ -1,0 +1,17 @@
+title=Meus primeiros dias
+text.t1=Bem, aqui estou eu, solto e livre, e pronto para fazer meu nome e fortuna. O melhor lugar para encontrar uma aventura, que possa servir aos meus propósitos, será a taverna que estou pensando, então vou ver o que os destroços do porto aqui têm à venda, falar com alguns personagens, depois vou vá para a taverna.
+text.t2=Parece que posso ganhar algum dinheiro fácil aqui. Quanto problema poderia ser ajudar uma donzela em perigo?
+text.t3=Então, vamos para #sGreenford#. Posso ir por terra ou por mar. De qualquer forma, não deve demorar muito, mas sei que a senhora estará mais segura se formos por mar.
+text.t4=A Taverna parece um lugar lógico para começar, então deveríamos ir para lá.
+text.t5=Então, é #sisland_Quebradas Costillas# preciso procurar a família da senhorita Brin. Eu sei que há um assentamento pirata lá.
+text.t6=Então agora tenho a opção #sisland_Quebradas Costillas# ou Gray Rock Bay. Bem, a baía está mais perto, mas prometi ajudar Annabella. Decisões decisões.
+text.t7=Agora estou trabalhando com o Imposto de Renda! E ela quer ir para #sTortuga# fora da ilha #sisland_Hispaniola# sob uma bandeira pirata. Espero que isso não fique complicado.
+text.t8=Perdi meu navio! Eu tenho os diamantes, alguns dos quais posso usar para comprar um novo até encontrar Shaypen novamente. Talvez eu devesse ir para #sisland_Quebradas Costillas# afinal, mas preciso de um novo navio e, nesse caso, deveria voltar primeiro para #sOxbay#. Mais decisões.
+text.t9=Descobrimos que Brinkley está indo para uma ilha holandesa. Bootstrap Bill diz para navegar para #sWillemstad# em #sisland_Curacao#.
+text.t10=Então agora agredi um agente fiscal. Isso não vai ficar bem. Ã melhor ver o que posso descobrir sobre a família Brin no assentamento pirata.
+text.t11=Conheci meu pai depois de muitos anos. Ele é um pirata e está preocupado com algo que vai acontecer aqui e quer minha ajuda. Não tenho certeza sobre isso, não sou um pirata. Fui informado sobre problemas que estão por vir. Muita informação para o momento. Acho que irei para #sOxbay# em #sisland_Oxbay# e levarei a vida como ela se apresenta.
+text.t12=Conheci Thomas, o Terror. Ele parece ser um membro da Irmandade. Devemos navegar juntos para #sOxbay#. Ele disse para navegarmos leste-sudeste ao sairmos do porto até chegarmos a #sisland_Redmond#. Passe por bombordo e navegue ESE para #sisland_Oxbay#.
+text.t13=Aqui estou eu, livre e livre de fantasias, e pronto para fazer meu nome e fortuna. Preciso conversar com algumas pessoas aqui no porto, ver o que os mercadores têm, depois ir até a taverna em busca de uma aventura.
+text.t14=vazio.
+text.t15=vazio.
+text.t16=vazio.

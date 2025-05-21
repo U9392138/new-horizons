@@ -1,0 +1,11 @@
+title=Missão Secundária - Contrabando de ópio para mim.
+text.t1=Adquiri um pouco de ópio. Há boas chances de os contrabandistas se interessarem por isso. Eu deveria perguntar a eles sobre isso.
+text.t2=Os contrabandistas me contaram sobre o contrabando de ópio. Tenho uma lista de clientes no Caribe e eles me deram um livro para explicar como funciona.
+text.t3=Eu deveria reportar esta lista de clientes que tenho ao governador. Ele pode estar muito interessado!
+text.t4=Preciso ter cuidado. Parece que os contrabandistas mantêm contacto próximo entre si. Quando eu faço algo errado, isso afetará meu relacionamento com eles.
+text.t5=Aprendi que o contrabando de ópio não é tão fácil quanto parecia. Um guarda aproximou-se de mim e perguntou-me sobre as mercadorias que transportava. Eu lidei com a situação, no entanto.
+text.t6=Agora sei como funciona o contrabando de ópio no Caribe. Escrevi um relatório para entregar ao governador.
+text.t7=O governador ficou surpreso ao ver a lista com todos os compradores de ópio. Ele acha que será útil combater os contrabandistas.
+text.t8=O governador ficou satisfeito ao ver o relatório e recebi uma bela recompensa. Devo investigar mais para ver se consigo encontrar mais pistas.
+text.t9=Eu terminei a tarefa do governador por enquanto, mas pode haver mais no futuro!
+text.t10=Os contrabandistas me disseram que este ópio tem alguns efeitos estranhos. Se eu quiser saber mais sobre isso, devo perguntar a alguém que entende muito de medicina.

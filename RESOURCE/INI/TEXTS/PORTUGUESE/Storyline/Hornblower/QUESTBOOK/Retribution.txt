@@ -1,0 +1,12 @@
+title=Retribuição.
+text.t1=Fui inocentado da acusação de motim. Infelizmente Archie confessou um crime que não cometeu. Sharpe e eu vamos rastrear o Tenente Quelp em #sisland_Cayman#.
+text.t2=Sharpe tem certeza de ter visto um aspirante sair correndo da taverna. Mas não tenho certeza. Conhecemos o Tenente Quelp que tentou se explicar. O capitão Harvey ordenou que eu navegasse para #sSt John's# em #sisland_Antigua#.
+text.t3=.
+text.t4=.
+text.t5=.
+text.t6=.
+text.t7=.
+text.t8=.
+text.t9=.
+text.t10=.
+text.t11=.

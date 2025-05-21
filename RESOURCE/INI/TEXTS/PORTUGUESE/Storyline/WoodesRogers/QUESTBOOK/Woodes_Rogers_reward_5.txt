@@ -1,0 +1,6 @@
+title=Quinta recompensa de Woodes Rogers
+text.t1=Há uma chave no tanque de melaço. Eu tenho que tirar isso de lá de alguma forma. Rogers mencionou o Shop Office - tenho que passar por lá.
+text.t2=De onde vêm essas pistolas? A quem eles pertenceram - piratas que aceitaram a anistia de Woodes Rogers? Esta arma muito longa tem a assinatura 'Richards'. Acho que é hora de entrar novamente na grande residência de Rogers...
+text.t3=
+text.t4=
+text.t5=

@@ -1,0 +1,17 @@
+string DLG_TEXT[15] = {
+"O que você está fazendo a bordo do meu navio? Saia ou usarei você como isca para pescar tubarões!",
+"Tudo bem, mantenha sua camisa. Vou.",
+"Qual o significado disso?",
+"Estamos aqui para procurar ",
+", que acreditamos estar mantido prisioneiro a bordo de seu navio.",
+"Absurdo! Não temos prisioneiros neste navio. Qual o seu nome? Vou reportá-lo ao próximo governador espanhol que encontrar.",
+"Eu sou Carlos Ardenta. Fique à vontade para relatar o que quiser, mas como você pode ver pelo meu companheiro, contamos com a assistência do governador de #sWillemstad#.",
+"Então vou reportar a ele também. Isto é um ultraje!",
+"Você tem a liberdade de reportar a quem quiser, desde que ainda esteja em liberdade quando isso terminar. Se você realmente não tem ",
+" então vamos pedir desculpas e ir embora. Mas se você tentar sair do porto antes de terminarmos, o forte recebeu ordem de afundar este navio.",
+"Não sei como você conseguiu essa pessoa a bordo do meu navio. Mas você sabe tão bem quanto eu que #spronoun# não estava aqui antes de você embarcar.",
+"Não é isso que diremos ao governador. E em quem ele acreditará, na filha de um colega governador ou em algum capitão inglês qualquer?",
+"Não é isso que diremos ao governador. E em quem ele acreditará, no filho de um colega governador ou em algum capitão inglês qualquer?",
+"Então, qual é o seu jogo?",
+"Isso você poderá descobrir no devido tempo. Se você se comportar, será libertado em paz. Caso contrário, você será libertado em pedaços. E agora, com licença, tenho que relatar o sucesso do resgate de ",
+}

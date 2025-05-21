@@ -1,0 +1,17 @@
+string DLG_TEXT[15] = {
+".....",
+".....",
+"Suponho que você esteja trabalhando para a Señora Carranza...",
+"Você tem razão.",
+"Então, dê-me o resgate, senhor.",
+"Espere meu amigo! Quero ver o marido dela antes.",
+"Não, cara. Você me dá o resgate primeiro e eu te acompanho até o lugar onde ele está.",
+"Tudo bem, deixe-me explicar. Não estou aqui para pagar. Se você quiser viver, vai me dizer onde ele está agora!",
+"Você está brincando! Caramba! Vá para o inferno!",
+"Parar! Você ganhou. Deixe-me vivo e direi onde você pode encontrá-lo.",
+"Isso é melhor. Então?",
+"Ele está preso em uma casa perto do cais #sTortuga#. Não tem como não encontrar. A porta é sempre guardada por dois homens.",
+"Quem é o líder deles?",
+"Um pirata francês, Capitão Robert Acre. Ele passou seus últimos anos sequestrando pessoas ricas no Caribe.",
+"Bem, vou parar o negócio dele. Sobre você, espero que não esteja mentindo. Caso contrário, voltarei e matarei você definitivamente. Agora vá embora!",
+};

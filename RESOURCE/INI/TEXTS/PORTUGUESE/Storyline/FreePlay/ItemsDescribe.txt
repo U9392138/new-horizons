@@ -1,0 +1,213 @@
+itmname_SpanishLetter	{Carta Espanhola}
+itmdescr_SpanishLetter
+{
+Este documento, assinado pelo vice-almirante Salvatore, prova que o 'Vogelstruijs' transporta munições para a conquista de #sRedmond# e deve entregar a carga a #sSanto Domingo#.
+}
+itmname_Letter_Lafitte	{Carta ao Capitão Jean Lafitte}
+itmdescr_Letter_Lafitte
+{
+This letter written by the Governor of #sisland_Eleuthera# aims to inform Captain Jean Lafitte I'll be his partner in this mission against the British.
+}
+itmname_time_bomb	{Bomba-relógio}
+itmdescr_time_bomb
+{
+Ã uma granada grande com um pavio longo. Um modelo básico, mas muito eficaz.
+}
+
+itmname_engineer_letter1	{Carta}
+itmdescr_engineer_letter1
+{
+Uma letra. Para mim!
+}
+
+itmname_engineer_letter2	{Carta}
+itmdescr_engineer_letter2
+{
+Isso é tão emocionante.
+}
+
+itmname_engineer_letter3	{Carta}
+itmdescr_engineer_letter3
+{
+Ok, vamos ver agora...
+}
+
+itmname_mapLibrary		{Mapa da biblioteca de Cartagena}
+itmdescr_mapLibrary
+{
+Ã um labirinto enorme!
+}
+
+itmname_port_stock		{Estoque}
+itmdescr_port_stock
+{
+Forma muito estranha de coronha de arma.
+}
+
+itmname_port_metal		{Parte metálica}
+itmdescr_port_metal
+{
+Difícil dizer onde isso vai dar.
+}
+
+itmname_port_rest		{Parte metálica}
+itmdescr_port_rest
+{
+Eu não tenho ideia do que é isso.
+}
+
+itmname_port_magazine		{Revista}
+itmdescr_port_magazine
+{
+O carregador redondo tem lugar para cinco tiros. Ã suposto girar!
+}
+
+itmname_port_barrel		{Barril}
+itmdescr_port_barrel
+{
+O cano de grande calibre é alargado no cano. Para uso de metralha.
+}
+
+itmname_port_mechanism		{Mecanismo}
+itmdescr_port_mechanism
+{
+Uma corda de queima lenta presa a uma alavanca curva. Esta nova arma usa o antigo matchlock!
+}
+
+itmname_port_2			{Arma em construção}
+itmdescr_port_2
+{
+
+}
+
+itmname_port_3			{Arma em construção}
+itmdescr_port_3
+{
+
+}
+
+itmname_port_4			{Arma em construção}
+itmdescr_port_4
+{
+
+}
+
+itmname_port_5			{Arma em construção}
+itmdescr_port_5
+{
+
+}
+
+itmname_portugize		{Portugizar}
+itmdescr_portugize
+{
+Esta nova invenção possui um carregador giratório com cinco tiros. Carregado com metralhadoras, causa danos a vários inimigos ao mesmo tempo.
+}
+
+itmname_port_tools		{Ferramentas}
+itmdescr_port_tools
+{
+Um conjunto de ferramentas de reparo para pistolas e rifles.
+}
+
+itmname_book21F			{Livro de Estatutos}
+itmdescr_book21F
+{
+Resumo dos estatutos das Ãndias Ocidentais BritÃ¢nicas. A capa está gasta, mas já foi aberta?
+}
+
+itmname_book22F			{A Armada Espanhola}
+itmdescr_book22F
+{
+A derrota da Armada - a história de uma testemunha ocular. Martin Frobisher, comandante da fragata Triumph.
+}
+
+itmname_book23F			{O navio real Wasa}
+itmdescr_book23F
+{
+O segredo por trás do desastre. Cálculos originais de Henrik Hybertsson agora publicados.
+}
+
+itmname_book24F			{Piratas Notórios}
+itmdescr_book24F
+{
+Uma história geral dos roubos e assassinatos dos piratas mais notórios. Dois volumes carregados de capitães piratas históricos e contemporÃ¢neos e sua tripulação. Pelo capitão Charles Johnson.
+}
+
+itmname_book26F			{O Esqueleto Humano}
+itmdescr_book26F
+{
+Um manual para todos os 206 ossos de um ser humano. Fotos.
+}
+
+itmname_book27F			{Químico}
+itmdescr_book27F
+{
+Um trabalho alemão de química publicado em Leipzig em 1729. Parece que é sobre minerais e vegetais?
+}
+
+itmname_book28F			{lolita}
+itmdescr_book28F
+{
+Um livro interessante sobre um tema um tanto delicado. Fornecido com fechadura à prova de crianças.
+}
+
+itmname_book29F			{As Flores do Mal}
+itmdescr_book29F
+{
+Poemas do famoso poeta Charles Baudelaire. Edição francesa.
+}
+
+itmname_book31F			{Uma nova viagem ao redor do mundo}
+itmdescr_book31F
+{
+O livro Dampier agora está reparado.
+}
+
+itmname_book33F			{Geografia}
+itmdescr_book33F
+{
+Um livro escolar antigo e muito básico, talvez em alguma dessas línguas nórdicas?
+}
+
+itmname_book34F			{Coleção de Livros}
+itmdescr_book34F
+{
+Contém: A frota prateada espanhola, o comércio de açúcar e rum no Caribe, Nassau uma visão econômica.
+}
+
+itmname_book35F			{Mercúrio}
+itmdescr_book35F
+{
+Cura e cura com o perigoso mas magnífico metal líquido.
+}
+
+itmname_book36F			{O Bug Dourado}
+itmdescr_book36F
+{
+Um fascinante conto mais longo sobre o tesouro enterrado do Capitão Kidd. Autor Edgar Allan Poe.
+}
+
+itmname_poker_invite1		{Convite}
+itmdescr_poker_invite1
+{
+Um convite para o torneio de pôquer realizado em Grand Turk. Há uma taxa de inscrição de 20.000, mas o vencedor recebe 75% de todas as apostas mais um troféu.
+}
+
+itmname_poker_invite2		{Convite}
+itmdescr_poker_invite2
+{
+Um convite para o torneio de pôquer Double R's. Como sempre, há uma taxa de inscrição de 20.000, mas o vencedor recebe 75% de todas as apostas mais um troféu.
+}
+
+itmname_bladetrophy		{Troféu}
+itmdescr_bladetrophy
+{
+O mini Troféu que ganhei no torneio de pôquer. Não tem muito valor como arma.
+}
+
+itmname_plans_copy		{Planos secretos}
+itmdescr_plans_copy
+{
+Uma cópia dos planos secretos detalhando as ações futuras de uma frota inimiga.
+}

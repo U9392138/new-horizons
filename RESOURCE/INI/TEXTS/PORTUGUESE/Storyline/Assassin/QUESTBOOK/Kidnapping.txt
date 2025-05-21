@@ -1,0 +1,14 @@
+title=Um sequestro
+text.t1=O enviado do Rei perdido no Caribe! Cabeças vão rolar quando o Rei descobrir. Cabe a mim ajudar a encontrá-lo. Preciso falar com o governador de #sSanto Domingo# da ilha #sisland_Hispaniola#.
+text.t2=Minha tarefa é pesquisar todos os locais da costa norte de #sisland_Hispaniola#. Preciso fazer buscas em cada ancoradouro ao longo da costa e esperar encontrar uma pista.
+text.t3=Finalmente encontrei alguém, um soldado espanhol! Ele estava em uma praia escondida com o navio afundado perto da costa. O enviado foi sequestrado pelo pirata Roche Brasiliano... Não é uma boa notícia para as autoridades.
+text.t4=Chegou a hora de pedir ajuda em #sHavana# em #sisland_Cuba#.
+text.t5=Serei ajudado por Nicholas Butcher em minha missão. Ele é um mercenário experiente e inteligente. Ele confirma que o proprietário de uma plantação em #sisland_Guadeloupe#, chamado Renouart Baumont, poderia nos ajudar.
+text.t6=Talvez eu tenha uma pista sólida sobre a Roche. Ele conhece uma prostituta em #sCharlestown# em #sisland_Quebradas Costillas# chamada Lady Gaga, espero que ele a conheça muito bem.
+text.t7=Apesar de sua cara de pôquer, posso lê-la. Vamos lá fora preparar um plano.
+text.t8=Caramba! A propósito, falhei em minha tentativa e na missão.
+text.t9=Preciso ir a #sWillemstad# em #sisland_Curacao# e procurar mais informações sobre a Roche.
+text.t10=Parece que Roche mora em um vilarejo perto da cidade. Vamos verificar isso!
+text.t11=O enviado está a caminho com Nicholas Butcher, mas minha missão não terminou, devo capturar Roche. Ele saiu da Ilha, precisarei procurar o navio dele no mar. Aquele soldado em #sisland_Hispaniola# disse que tem um galeão preto rápido chamado 'Quick Death', para onde ele iria em uma viagem curta?
+text.t12=Feito! Capturei Roche Brasiliano, ferido na batalha mas ainda vivo. Vamos para #sHavana# em #sisland_Cuba#, o vice-almirante estará esperando....Irei impressioná-lo muito se atracar durante o dia para que todos possam ver...
+text.t13=Um mês deixei o vice-almirante Benavides. Chegou a hora de voltar a Havana e vê-lo novamente. Ele deve ter uma nova missão para mim.

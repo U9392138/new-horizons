@@ -1,0 +1,12 @@
+title=Navio roubado!
+text.t1=Aquele maldito cavaleiro maltês, Jaoquin de Masse, foi e roubou o #suncursed_ship#. Não sei se algum dia verei isso novamente.
+text.t2=Aquele cachorro Barbossa levou meu navio, meu mapa e minha bússola. Agora preciso descobrir como sair desta ilha.
+text.t3=Conheci um grupo de contrabandistas e concordei em navegar em seu barco para #sTortuga#, na costa de #sisland_Hispaniola#.
+text.t4=Quando saí da taberna olhei para a minha bússola, vi que apontava para o barco da Anamaria, tenho a certeza que a posso emprestar.
+text.t5=Ao sair do porto, minha bússola começou a apontar para #sisland_Redmond# (depois de apontar para uma garrafa de rum). Vou navegar para #sRedmond# e ver se consigo outro navio. Pelo menos isso será um passo para recuperar o #scursed_ship#.
+text.t6=Chegamos a #sTortuga#. Vou dar uma olhada na taverna para ver o que está acontecendo aqui e ter uma ideia do que fazer a seguir.
+text.t7=Outro navio foi roubado de mim! Desta vez, ao chegar em #sTortuga# na costa de #sisland_Hispaniola#, saí da taverna e a encontrei navegando para longe da ilha.
+text.t8=Esse é um navio interessante. Talvez eu dê uma olhada, ou talvez veja se Henry, o mendigo, tem algum conselho para mim primeiro.
+text.t9=Falei com Henry e decidi falar com os soldados no cais sobre os navios no porto.
+text.t10=Falei com Henry e decidi ir ver o Governador Weatherby na Residência para ver o que ele pode oferecer.
+text.t11=Falei com Henry e decidi desistir de perseguir o #scursed_ship# e partir por conta própria.

@@ -1,0 +1,16 @@
+string DLG_TEXT[13] = {
+"Olá senhor.",
+"Posso te fazer uma pergunta? Procuro um homem chamado Jean-Bart Lafin. Por alguma coincidência particular você o viu?",
+"Talvez. Quem é você?",
+"Eu sou ",
+"e meu amigo aqui é o Capitão Chevalle.",
+"Cavalle? Ele é o capitão de Jean-Bart, não é?",
+"Então você conhece esse cara em particular que estamos procurando?",
+"De fato sim. Sinto muito por ser tão cauteloso. Jean-Bart chegou aqui há alguns dias, depois de passar vários dias na selva, tentando desviar das patrulhas holandesas. Ele não está muito acostumado a estar em terra.",
+"Então, onde ele está agora? Ele conseguiu encontrar um navio para levá-lo daqui?",
+"Não, ele não fez isso. Não há muitos navios que navegam para #sQuebradas Costillas# daqui, considerando que #sisland_Aruba# é apenas uma pequena ilha com muito pouco tráfego. Jean-Bart insistiu em encontrar um navio para #sQuebradas Costillas# ou ficar aqui. Ele não aceitaria um navio para outro porto. Ele geralmente mora na minha casa, mas no momento está passeando fora da cidade. Não é prudente, considerando que ele está sendo procurado pelas autoridades, mas não consegui impedi-lo de ir.",
+"Muito obrigado pela sua ajuda para nós. E também um grande agradecimento por ajudar Jean-Bart.",
+"Não gosto muito do governo, por isso fico feliz com cada oportunidade de ajudar piratas e contrabandistas.",
+"Isso é muito útil e gentil da sua parte. Muito obrigado meu e do meu amigo francês aqui.",
+"",
+};

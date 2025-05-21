@@ -1,0 +1,5 @@
+title=Missão Genérica - Ajudando o #stype# de #stown#.
+text.t1=O #stype# de #stown# me pediu para pegar #damount# #sgood# de algum lugar e entregar para ele por #dmoney# moedas de ouro. Mas tenho que entregar antes de #sdate# ou não receberei nada.
+text.t2=Entreguei uma parte do valor mas ainda devo entregar o restante.
+text.t3=Concluí a tarefa.
+text.t4=Não consegui entregar a mercadoria a tempo.

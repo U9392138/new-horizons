@@ -1,0 +1,3 @@
+title=Tutorial - Contrate alguns tripulantes na taverna
+text.t1=Infelizmente, algumas mãos foram perdidas em batalha. Eu deveria encontrar uma taverna para contratar mais tripulantes antes de partir.
+text.t2=Feito!

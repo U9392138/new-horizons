@@ -1,0 +1,17 @@
+string DLG_TEXT[15] = {
+"Está na hora de zarparmos.",
+"Acordado.",
+"A menos que eu esteja enganado, você é o capitão que esperávamos conhecer. Obrigado pela ajuda! Se não fosse por você, eu estaria descansando no fundo do mar com o resto da minha tripulação.",
+"Verdadeiro. Mas por que você decidiu lançar âncora aqui? Tenho ordens para acompanhá-lo até #sIsla Muelle#.",
+"Tive que colocar um passageiro em terra. Eu também tenho ordens, você vê.",
+"Não me disseram nada sobre isso - mas é justo. É problema seu, não meu.",
+"Isso mesmo, ",
+". Cada um de nós tem seus deveres e não precisamos discuti-los.",
+"De fato. Podemos partir agora? Gostaria de colocar você e seu navio em segurança o mais rápido possível.",
+"Nada me prende aqui agora",
+"Ótimo! Não vamos perder mais tempo então!",
+"Isso não será possível. Não posso entrar na sua frota porque você já tem #snumships# navios.",
+"Oh! Espere aqui, então. Vou atracar ou vender um dos meus navios.",
+"Agora é possível me juntar a você. Eu gostaria de navegar o mais rápido possível.",
+"Você ainda tem muitos navios. Não posso me juntar à sua frota.",
+};

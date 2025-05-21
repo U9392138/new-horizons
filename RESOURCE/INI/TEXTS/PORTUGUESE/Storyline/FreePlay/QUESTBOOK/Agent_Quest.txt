@@ -1,0 +1,15 @@
+title=Investigue o '#sship#'
+text.t1=Governador #sgovernor# de #stown# em #sisland# me deu uma missão. Devo investigar o '#sship#', um navio #snation# conhecido por estar no porto de #sport1# em #sisland1#. Devo descobrir para onde vai o navio e quais são os planos do inimigo.
+text.t2=Ordenei que meu navio navegasse de volta para #slocationfromsea#. Enquanto isso, encontrarei uma maneira de entrar no '#sship#'.
+text.t3=Eu me infiltrei com sucesso no '#sship#' e agora estou escondido em segurança no porão de carga. Agora só preciso esperar até que o navio chegue ao seu destino.
+text.t4=Eu não estava tão bem escondido quanto pensava. Um guarda veio revistar o porão e me encontrou. Eu tive que matá-lo. Ele agora está enfiado em uma das caixas.
+text.t5=Um guarda veio revistar o porão, mas eu estava bem escondido e ele não me viu.
+text.t6=O navio parece ter atracado. Hora de sair do porão e tentar sair do navio...
+text.t7=O '#sship#' chegou a #stown#. Agora preciso descobrir o que ela está fazendo aqui. Pode haver alguma informação útil na prefeitura. Para invadir, precisarei matar todos os guardas próximos à entrada, de preferência sem chamar a atenção. Então precisarei arrombar a fechadura da porta porque a porta ficará trancada à noite, e não sou estúpido o suficiente para tentar fazer isso durante o dia!
+text.t8=O '#sship#' chegou a #stown#. Agora preciso descobrir o que ela está fazendo aqui. Pode haver algumas informações úteis na casa do chefe pirata. Para invadir, precisarei matar todos os guardas próximos à entrada, de preferência sem chamar a atenção. Então precisarei arrombar a fechadura da porta porque a porta ficará trancada à noite, e não sou estúpido o suficiente para tentar fazer isso durante o dia!
+text.t9=Encontrei! Um plano completo do que a frota #snation# montada estará fazendo. Fiz uma cópia e deixei o original onde o encontrei, para que não saibam que o seu plano secreto já não é secreto. Agora devo voltar para #stown#. Talvez os contrabandistas locais me ajudem â por um preço alto, sem dúvida.
+text.t10=Um contrabandista me levará de volta para #stown#. Eu deveria estar em #sshore# amanhã à noite.
+text.t11=Ã hora de ir para #sshore#. Ã melhor não deixar o contrabandista esperando. Se ele for embora sem mim, ficarei preso aqui pelo resto da vida, o que pode não demorar muito!
+text.t12=Como o navegador do contrabandista está doente, devo guiar o navio para o #sport#. Lá eu deveria me reportar ao governador #sgovernor# com minha cópia dos planos do inimigo.
+text.t13=O governador #sgovernor# teve o prazer de receber a cópia dos planos da #snation#. As nossas próprias forças serão agora capazes de estragar esses planos de forma bastante eficaz.
+text.t14=Cheguei tarde demais. O contrabandista se foi. Agora estou preso em #sisland#. <Dica: se o estaleiro local tiver algo à venda, você poderá comprar um navio - se o estaleiro local fizer negócios com você. Caso contrário, este jogo acabou!>

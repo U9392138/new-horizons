@@ -1,0 +1,16 @@
+title=Meu primeiro navio
+text.t1=Fui transferido para o Infatigável sob o comando do Capitão Pellew por causa do problema Clayton. Felizmente, Archie também foi transferido.
+text.t2=Tive outro desentendimento com Jack Simpson. Eu preciso cuidar dele. O Capitão me encarregou do navio que devo navegar para #sCharlestown#, que fica na ilha de #sisland_Quebradas Costillas#. O curso é SE.
+text.t3=Chegamos a #sCharlestown#. Agora devo consertar o navio. Também precisamos de pólvora.
+text.t4=O capitão Pellew nos informou que recebemos ordens para bloquear navios franceses em #sisland_Falaise de Fleur#. Em particular devemos encontrar o "Téméraire". Será SSE daqui até passarmos por #sisland_Guadeloupe#, depois SSW para #sisland_Falaise de Fleur#.
+text.t5=Afundamos o Téméraire. Nossas ordens agora são navegar para #sCharlestown#.
+text.t6=Recebi ordens para uma reunião com o Capitão Sawyer na Taverna.
+text.t7=Devemos pegar o navio para #sGreenford# para pegar alguns oficiais. Buscaremos o Capitão quando voltarmos.
+text.t8=Depois de uma viagem miserável desde Inglaterra no Justinian, devido ao enjoo marítimo e à intimidação de Simpson, estamos agora nas Caraíbas. Lamentavelmente, devo permanecer no Justinian sob o comando de Simpson.
+text.t9=Kennedy, Clayton e eu iremos a uma reunião informativa no QG Naval. Ele está localizado na cidade principal daqui.
+text.t10=Outro ataque não provocado de Simpson. Vou desafiá-lo para um duelo quando chegar a hora certa, para que ele não possa fugir.
+text.t11=Eu reuni os oficiais. Agora podemos voltar para #sCharlestown#.
+text.t12=Clayton morto! Desafiei Simpson para um duelo, mas Clayton me nocauteou e tomou meu lugar, mas foi morto. Simpson está dizendo que nós dois o atacamos, o que é mentira. Eu só preciso ser paciente. Minha vez chegará. Enquanto isso navegamos para #sRedmond# em #sisland_Redmond#.
+text.t13=Oh céus! Fiquei doente novamente esta manhã, por isso estou atrasado para uma reunião na Academia Naval. É melhor eu encontrá-lo e rapidamente.
+text.t14=Devemos ir ao Estaleiro e colocar armas maiores no navio.
+text.t15=Os canhões maiores terão sido instalados quando partirmos para o mar. Devemos agora navegar para Anse Casse Bois em #sisland_Guadeloupe#, onde desembarcaremos suprimentos para nossos agentes.

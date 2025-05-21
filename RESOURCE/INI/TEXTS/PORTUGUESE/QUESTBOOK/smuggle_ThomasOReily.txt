@@ -1,0 +1,3 @@
+title=Missão Secundária - Thomas O'Reily, o contrabandista?
+text.t1=Parece que esse personagem de Thomas O'Reily está fazendo todos os tipos de negócios duvidosos, suspeito que os contrabandistas não gostarão nada disso. Poderia contar a eles que o vi também lidando com nativos. Eles podem achar isso interessante.
+text.t2=Relatei aos contrabandistas o que sabia sobre Thomas O'Reily. Eles me agradeceram pela informação e disseram-me que cuidariam disso.

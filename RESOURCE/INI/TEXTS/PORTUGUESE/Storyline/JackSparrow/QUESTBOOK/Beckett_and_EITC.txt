@@ -1,0 +1,9 @@
+title=Em negócios com Beckett e a East India Trading Company
+text.t1=Meu próximo trabalho é ir para #sisland_Antiqua# para comprar mercadorias, vendê-las em #sGreenford# em #sisland_Oxbay#, comprar ouro e depois voltar para #sRedmond#.
+text.t2=Meu próximo trabalho é ir para #sisland_Antiqua# comprar mercadorias, vendê-las em #sGreenford# em #sisland_Oxbay# e comprar ouro com o dinheiro. Além disso, ir para a cidade de #sOxbay# para espionar o governador e depois voltar para #sRedmond#.
+text.t3=Concluí com sucesso minha primeira corrida pela Empresa. Contou como dois, #sisland_Antiqua# e #sGreenford# em #sisland_Oxbay#, então recebi o dobro! Isso não faz sentido, já que o valor do ouro certamente não traz lucro suficiente para cobrir o que Sir Cutler está me pagando.
+text.t4=Estou indo para #sisland_Oxbay# para pegar um pacote do proprietário do estaleiro em #sOxbay#. Talvez eu tenha que passar por #sGreenford# e atravessar a ilha por terra.
+text.t5=Recebi o pacote de Owen McDorey.
+text.t6=Recebi o pacote de Owen McDorey. Costurei-o no forro da minha jaqueta por segurança.
+text.t7=Recebi um pacote para Lord Beckett do #sisland_Antiqua# Victualler. Abri-o com cuidado para poder selá-lo novamente sem que ninguém soubesse que estava aberto. Parece fazer parte de um mapa asteca.
+text.t8=Estou indo para #sisland_Falaise de Fleur# para pegar um pacote do dono do estaleiro de lá. Também tenho que afundar uma escolta francesa.

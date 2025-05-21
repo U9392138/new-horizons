@@ -1,0 +1,16 @@
+title=Mulher Misteriosa
+text.t1=Fui abordado por uma mulher que quer que eu a encontre em Gray Rock Bay, com meu navio.
+text.t2=Conheci a mulher misteriosa. Acontece que ela é uma agente fiscal. Decidi ajudá-la, então precisamos ir para #sTortuga# na costa de #sisland_Hispaniola#.
+text.t3=Conheci a mulher misteriosa. Acontece que ela é uma agente fiscal. Decidi não ajudá-la, ela roubou meu navio e fui preso pela Guarda Municipal. De qualquer forma, consegui sair dessa, então preciso decidir se volto para #sOxbay# ou vou para o acampamento pirata em #sisland_Quebradas Costillas# para procurar a Srta. Brin.
+text.t4=Decidi não conhecer a mulher misteriosa de Gray Rock Bay. Mas, eu encontrei ela na ilha pirata e a nocauteei. Agora vamos para a Taverna para tentar ver o que está acontecendo aqui.
+text.t5=Chegamos a #sTortuga# e encontramos um oficial chamado Bootstrap Bill Turner. Precisamos navegar para #sisland_Quebradas Costillas# agora, pois ele diz que foi para lá que a mulher Brinkley foi.
+text.t6=Não posso sair sem fazer algo para ajudar na #sOxbay#, então trabalharei para a Empresa e para o Governador. Espero não ter assumido muito, pois não há como voltar atrás.
+text.t7=Precisamos encontrar um contrabandista de diamantes chamado Eastwood. Ele está em algum lugar aqui na ilha.
+text.t8=Bootstrap nos deixou para se juntar ao navio de Barbossa. Precisamos voltar para #sOxbay# em #sisland_Oxbay# e encontrar Brock.
+text.t9=Outra mulher misteriosa. Esta quer que eu a encontre em Lighthouse Bay algum dia.
+text.t10=Nosso relacionamento acabou. Mas eu me saí muito bem no geral.
+text.t11=Eu caí em uma armadilha. Brock ainda está em #sisland_Oxbay#. Precisamos voltar e encontrá-lo.
+text.t12=vazio.
+text.t13=vazio.
+text.t14=vazio.
+text.t15=vazio.

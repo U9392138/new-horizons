@@ -1,0 +1,21 @@
+string DLG_TEXT[18] = {
+"Boa sorte.",
+"Eu terei que encontrar sozinho então.",
+"O que você está fazendo na minha casa?",
+"Hum, não sabe?",
+"Eu te vi hoje na cidade e te achei muito atraente, então pensei, talvez pudesse te fazer uma visita?",
+"Roubando alguns papéis muito importantes para o Contre-Amirale, e como você me pegou, terei que te matar!",
+"Nada! E eu tenho 500 ouro aqui para provar isso.",
+"Você está tentando me roubar! Guardas!",
+"Não é bom.",
+"Você, seu #sbastard# imundo, você está aqui para me estuprar! Jan, Jan, me ajude! Esse #sgender# quer me estuprar!",
+"Mon Dieu, não era isso que significava. Por favor, não grite assim!",
+"Por favor, não me mate, eu te darei qualquer coisa!",
+"Tarde demais, desculpe!",
+"O que você tem para oferecer?",
+"350 ouro, isso é tudo que tenho! Ah, e aqui tem algumas joias também, isso é tudo, por favor não me mate!",
+"Não, não o suficiente. Diga adeus!",
+"Obrigado! Agora lembre-se, eu não estava aqui!",
+"Ai, 500 ouro?! Não, você está certo, você não estava fazendo absolutamente nada aqui. Tchau, gentil #ssir# que nunca conheci!",
+
+};

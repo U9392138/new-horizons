@@ -1,0 +1,7 @@
+title=Abra o nicho
+text.t1=Não preciso mais do cano para manter a escotilha aberta.
+text.t2=Atrás da escotilha de metal há um baú colocado no nicho da parede.
+text.t3=Existem criaturas más na Mina. Eles têm medo de fogo aberto e não veem nada de bom.
+text.t4=Encontrei um machado que obviamente foi usado para cortar cabeças. Ã isso que devo fazer?
+text.t5=As mercadorias que vendem na Loja de Antiguidades foram roubadas?!! De qualquer forma, acho que está de volta à mina novamente.
+text.t6=Não tenho certeza do que fazer com a caveira - mas vou tentar no steplock.

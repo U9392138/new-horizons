@@ -1,0 +1,17 @@
+title=Missão Secundária - Ajude a igreja.
+text.t1=#sFatherBernard# é o chefe da igreja em #sRedmond# em #sisland_Redmond#. Ele me pediu para encontrar evidências para provar se o padre chamado #sFatherJerald# é culpado ou não. Ele mora na cidade de #sGreenford# em #sisland_Oxbay#, e as pessoas dizem que ele está cheio de pecados e que se esqueceu de Deus. Isso não deve demorar muito. Vou verificar na taverna primeiro.
+text.t2=#sSimonHanpool# é taverneiro em #sGreenford# em #sisland_Oxbay#. Conversei com ele e ele não tinha ideia de que tais rumores estavam circulando sobre #sFatherJerald#. Segundo suas palavras, #sFatherJerald# é um bom sacerdote e cumpre seus deveres sem falta. A seguir, para falar com os padres.
+text.t3=O assistente do #sFatherJerald# deu provas da culpa do padre. Suspeito que ele queira assumir a posição de #sJerald#. Essa ambição o fez inventar essa história?
+text.t4=#sFatherJerald# afirma que não é culpado. E eu o acho muito convincente. Acho que algo está errado aqui. Preciso falar com a mulher envolvida.
+text.t5=Fiz uma oferta ao padre para comprar as cartas e ele concordou imediatamente. Isso não prova que ele é culpado?
+text.t6=Fiz uma oferta ao padre para comprar as cartas e ele concordou imediatamente. Não sei se ele é culpado ou não, então posso contar ao #sFatherBernard# o que eu quiser.
+text.t7=A garçonete confirmou que realmente recebeu várias cartas de amor de #sFatherJerald#. Não tenho certeza se confio nela; ela tem um pouco de prostituta na maneira como age. Falarei novamente com o taverneiro.
+text.t8=O dono da taverna ainda tem certeza de que #sFatherJerald# não é culpado. Ele afirma que as cartas foram escritas por outra pessoa chamada Yedam Kinne. Ele é holandês, mora aqui nesta ilha e pode falsificar a caligrafia de qualquer pessoa. Segundo o taverneiro, ele viu Kinne e o assistente do padre juntos há vários dias. Talvez alguns moradores possam me dizer onde encontrar esse holandês.
+text.t9=Yedam Kinne afirma que não teve nada a ver com essas cartas. #sFatherJerald# é culpado?
+text.t10=Yedam Kinne confessou que foi ele quem escreveu as cartas. Isso significa que #sFatherJerald# é inocente e seu assistente é quem causou todos esses problemas.
+text.t11=Eu tive que matar aquele holandês teimoso. Infelizmente, agora não há como saber se ele escreveu essas cartas ou não. Talvez o taverneiro tenha obtido alguma informação da garçonete?
+text.t12=O taverneiro me disse que a garota que disse que #sFatherJerald# supostamente a assediou, na verdade trabalhava para a assistente de #sJerald#. Então, essas cartas são falsificações. De volta agora a #sRedmond# em #sisland_Redmond# com a prova.
+text.t13=Voltei para #sRedmond# em #sisland_Redmond# e consegui persuadir #sFatherBernard# que #sFatherJerald# é inocente. Ele me agradeceu e pediu para visitá-lo mais tarde para minha próxima tarefa.
+text.t14=Voltei para #sRedmond# em #sisland_Redmond# e disse ao #sFatherBernard# que #sFatherJerald# é culpado. Ele me agradeceu e pediu para visitá-lo mais tarde para minha próxima tarefa.
+text.t15=O assistente do #sFatherJerald# deu provas da culpa do padre. Suspeito que ele só queira assumir a posição de #sJerald#. Preciso encaminhá-lo ao Padre Bernard. Talvez ele possa torná-lo chefe do Templo. Esta posição ainda está aberta.
+text.t16=A garçonete confirmou que realmente recebeu várias cartas de amor de #sFatherJerald#.

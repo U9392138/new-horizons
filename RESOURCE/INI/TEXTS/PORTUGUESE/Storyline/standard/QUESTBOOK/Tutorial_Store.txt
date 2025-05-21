@@ -1,0 +1,3 @@
+title=Tutorial - Venda carga para o comerciante local
+text.t1=Eu deveria encontrar um lojista e vender mercadorias (#sgoods#) do meu porão de carga. Isso me trará dinheiro para reparos e contratação de equipe.
+text.t2=Feito!

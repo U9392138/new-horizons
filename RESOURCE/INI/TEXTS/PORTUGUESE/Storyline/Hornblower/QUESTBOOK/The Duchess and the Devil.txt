@@ -1,0 +1,9 @@
+title=A Duquesa e o Diabo.
+text.t1=Tenho que levar a Duquesa de Wharfedale para a Inglaterra e também levar alguns documentos secretos. Devemos nos preparar para o mar.
+text.t2=Fomos capturados pelos espanhóis e colocados na prisão. Preciso olhar em volta e pensar em uma maneira de escapar.
+text.t3=Encontrei Archie, mas ele está mal. Não posso deixá-lo aqui, então escapar está fora de questão por enquanto.
+text.t4=A Duquesa apareceu na prisão. Podemos dar um passeio juntos na praia, pois preciso saber se ela ainda está com meus documentos. Precisamos ir até a costa para que os guardas não nos ouçam conversando.
+text.t5=Fui convidado para jantar com Don e a Duquesa.
+text.t6=A Duquesa foi embora e ainda está com meus documentos.
+text.t7=A Duquesa e os documentos estão seguros. A tripulação e eu devemos retornar à prisão, pois dei minha palavra de que retornaríamos.
+text.t8=Fomos libertados pelos espanhóis. Temos que ir à praia para voltar ao 'Indy'.

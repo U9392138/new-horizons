@@ -1,0 +1,8 @@
+title=Bibliotecário
+text.t1=Recebi seis livros de Selkirk para colocar de volta em seus devidos lugares.
+text.t2=Agora há aquele livro de Dampier para consertar.
+text.t3=Eu tenho que devolver o livro consertado de Dampier à estante - seria 'Viagens'.
+text.t4=Rogers me deu três livros em troca do livro de Dampier.
+text.t5=Devo entregar "Notorious Pirates" a Rogers.
+text.t6=A corrente e as algemas estão bloqueando a prateleira de Química para que eu possa abri-la.
+text.t7=Não me interesso tanto por Poesia â posso usar este saco de livros de outra forma?

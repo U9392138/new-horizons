@@ -1,0 +1,9 @@
+sea_aim_title
+{
+Círculo de mira de canhão
+}
+
+sea_aim_info
+{
+     O Círculo de Mira de Canhão aparecerá no centro da tela enquanto o jogador estiver no convés do navio somente se for possível fazer uma salva de canhão na direção de visão do jogador. Se algum alvo entrar na zona onde pode ser coberto pela salva de canhões, o círculo de mira começa a pulsar, mudando seu tamanho. A mira também mostra o tipo de alvo com sua cor. Se o alvo for amigo, o círculo de mira será verde. E se o alvo for hostil, o círculo de mira pisca em vermelho, enquanto a cor normal do círculo de mira é marrom.
+}

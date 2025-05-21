@@ -1,0 +1,14 @@
+title=Missão Genérica - Tesouro Perdido em #sisland#.
+text.t1=Um baú de tesouro está escondido em algum lugar na selva perto da placa e das duas estradas.
+text.t2=Um baú de tesouro está escondido em algum lugar na masmorra #sOxbay#.
+text.t3=Na margem da Pedra Leviathan, você pode acessar uma gruta onde o tesouro está escondido.
+text.t4=Pelo buraco no penhasco você pode acessar uma caverna onde o tesouro está escondido.
+text.t5=Encontre o naufrágio em uma praia em #sisland_Turks#. O tesouro está em um baú em algum lugar dos destroços.
+text.t6=Na costa selvagem da Bahia de San Antonio. Em frente às falésias. O tesouro está escondido perto da grande rocha.
+text.t7=Depois da ponte e da caverna de Sandy Point, encontre a pequena pedra perto de uma árvore.
+text.t8=Desembarque em Cayman Kai. O tesouro está escondido em uma caverna na selva.
+text.t9=Desembarque em Sand Bluff. Há uma entrada escondida para uma caverna em algum lugar da selva. O tesouro está escondido na caverna.
+text.t10=Um baú de tesouro está escondido em algum lugar na praia de Boca de Hubon.
+text.t11=Um baú de tesouro está escondido nas ruínas do farol.
+text.t12=Uma caverna, hein? Talvez eu precise de uma picareta.
+text.t13=Parece que uma pá pode ser útil.

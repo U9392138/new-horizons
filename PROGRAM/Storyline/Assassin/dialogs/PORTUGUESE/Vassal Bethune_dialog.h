@@ -1,0 +1,17 @@
+string DLG_TEXT[15] = {
+"......",
+"......",
+"Amigo, você não vê que quero beber sozinho esse excelente rum?",
+"Não se preocupe, estou apenas procurando por Vassal Bethune.",
+"Não o procure porque ele está na sua frente. O que você quer?",
+"Ouvi dizer que você recruta piratas e o salário é muito bom.",
+"Sim, mas não qualquer um. Apenas bons lutadores.",
+"Você tem sorte porque eu sou bom. Estive no exército holandês por muitos anos.",
+"Realmente? Se você for tão bom quanto diz, meu chefe ficará feliz em conhecê-lo. Mas preciso avisá-lo - ele não gosta de ficar desapontado.",
+"Ele não estará. A propósito, quem é seu chefe?",
+"Eu não posso te dizer isso ainda. Você saberá disso quando o conhecer. Você tem um navio?",
+"Sim. ela está atracada no porto.",
+"Nesse caso, leve-me para #sRedmond# se quiser conhecê-lo.",
+"Tudo bem para #sRedmond#, é isso.",
+"Estamos perto da casa dele. Me siga.",
+};

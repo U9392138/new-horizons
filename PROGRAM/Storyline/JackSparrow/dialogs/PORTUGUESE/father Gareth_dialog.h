@@ -1,0 +1,18 @@
+string DLG_TEXT[15] = {
+"Sim? Como posso ajudá-lo?",
+"...",
+"Você parece um homem honesto. Talvez você seja exatamente o homem que procuramos. Por que você não fala com o chefe da igreja?",
+"Talvez eu faça isso.",
+"Eu espero que você possa. Gostaria de saber tudo o que você sabe sobre a morte do mensageiro.",
+"As Hordas de Demônios estão dentro de mim, pois meu nome é Legião e somos MUITOS!",
+"Eu removerei sua presença contaminada do templo de nosso Senhor!!",
+"Você veio ao homem certo. Fui eu quem encontrou o pobre rapaz - embora apenas a tempo de ouvir seus últimos suspiros e administrar a extrema-unção.",
+"Posso fazer algumas perguntas sobre os últimos minutos do seu acólito?",
+"Sim claro. O que você gostaria de saber, meu filho?",
+"Ele falou? Você notou algo estranho nas palavras dele? Ou no seu entorno?",
+"Tudo o que ele conseguiu dizer em seu último suspiro foi algo sobre homens com máscaras pretas, armados com punhais. Ele também tinha um amuleto satanista, uma estrela de cinco pontas, bem apertado em sua mão. Suponho que ele lutou contra seus assassinos, infelizmente, sem sucesso. Eu me culpo por ter enviado o rapaz nesta missão; ele era muito jovem e inexperiente. Mas não tínhamos ideia do que estávamos enfrentando.",
+"Bem, uma coisa é aparente. Seus oponentes estão dispostos a matar para garantir que esta carta não seja entregue.",
+"Sim, meu filho, posso ajudá-lo?",
+"Eu espero que você possa. Gostaria de saber tudo o que você sabe sobre a morte do mensageiro.",
+"",
+};

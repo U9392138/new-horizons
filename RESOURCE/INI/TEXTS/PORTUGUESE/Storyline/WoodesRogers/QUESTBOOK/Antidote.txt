@@ -1,0 +1,3 @@
+title=Antídoto
+text.t1=Tenho que encontrar este medicamento.
+text.t2=Feito!

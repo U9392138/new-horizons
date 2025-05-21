@@ -1,0 +1,3 @@
+title=Tutorial - Compre uma nova luneta
+text.t1=Parece que minha luneta também já viu dias melhores. Talvez haja um substituto disponível.
+text.t2=Feito!

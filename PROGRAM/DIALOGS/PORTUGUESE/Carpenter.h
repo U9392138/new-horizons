@@ -1,0 +1,21 @@
+string DLG_TEXT[18] = {
+"Sim capitão! Que bom ver você por aqui!",
+"Sim, amigo! Você é o carpinteiro, não é?",
+"Sim capitão! Pronto para pedidos!",
+"Bem, precisamos de pranchas para reparar o nosso navio. Esta selva parece estar cheia de árvores boas!",
+"Por hoje, leve seus melhores homens com você e vá para a selva cortar algumas árvores e fazer tábuas para reparos.",
+"Sim, capitão, as pranchas serão abordadas o mais rápido possível!",
+"Obrigado. Faça seu relato assim que retornar!",
+"Eu mudei de ideia!",
+"Bem, quais são as suas ordens, capitão?",
+"Agora não, cara, por favor!",
+"Capitão, cortamos e embarcamos ",
+" pranchas hoje ",
+"mas ",
+" homens foram mortos pela selva selvagem ou desapareceram..",
+"Recuso-me a negociar com uma pessoa com a sua reputação e relações. Agora saia, ",
+", antes de chamar os guardas.",
+"Muito bem.",
+"Você precisa de um uniforme melhor.",
+
+};

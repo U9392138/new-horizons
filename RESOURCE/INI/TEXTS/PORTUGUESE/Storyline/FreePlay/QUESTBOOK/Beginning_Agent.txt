@@ -1,0 +1,7 @@
+title=Escondido em #stown#
+text.t1=Cheguei à #sisland# sob o disfarce de uma bandeira falsa e devo provocar o máximo de problemas que puder. Primeiro, o #sofficer# me disse que eu deveria localizar #sname#, cujo nome verdadeiro é #sname2# e que provavelmente está na taverna local. Se me perguntarem sobre meu navio, devo dizer que estava infestado de cupins, mas me livrei deles e reparei os danos.
+text.t2=#sname# realmente perguntou sobre meu navio, ficou satisfeito com minha resposta e confirmou a identidade de #spronoun3# fornecendo o nome verdadeiro de #spronoun3# como #sname2#.
+text.t3=Devo agora mover meu navio, pois as autoridades de #snation# estarão procurando por #sname2# tentando embarcar em um navio no porto principal.
+text.t4=#sname2# quer ser levado para #sdestination#.
+text.t5=Chegamos em segurança ao nosso destino. Aceitei uma Carta de Marca da #snation#. Agora, para continuar minhas próprias atividades secretas...
+text.t6=Chegamos em segurança ao nosso destino. Recebi algum dinheiro como recompensa. Agora, para continuar minhas próprias atividades secretas...

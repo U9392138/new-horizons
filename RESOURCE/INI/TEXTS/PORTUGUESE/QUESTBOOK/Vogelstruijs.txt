@@ -1,0 +1,11 @@
+title=Missão Secundária - Vogelstruijs
+text.t1=Contra-almirante Cesar Beauregard ordenou que eu interceptasse um contrabandista holandês carregado de munição para os espanhóis, para retomar #sRedmond#. Segundo fontes do Contre-Amirale, o navio chama-se 'Vogelstruijs' e está atracado em #sDouwesen#.
+text.t2=Um estivador em #sDouwesen# me disse que o capitão do 'Vogelstruijs' mora em uma casa em algum lugar aqui em #sDouwesen#. Talvez eu devesse visitá-lo e procurar algumas pistas.
+text.t3=Encontrei! Isso é ainda melhor que um diário de bordo, ele guardava os documentos oficiais no armário! Que criminoso horrível.
+text.t4=Droga, fui pego pela esposa do capitão! Ela chamou os guardas! Eu tive que matá-los. De agora em diante, devo ter muito mais cuidado quando estiver perto de holandeses.
+text.t5=Droga, fui pego pela esposa do capitão! Ela gritou que eu queria estuprá-la. Mas foi ela quem cometeu o adultério, ela enviou seu amante secreto atrás de mim. Eu o matei, então ela não pode mais trair o marido.
+text.t6=Droga, fui pego pela esposa do capitão! Tive que matá-la, não posso deixar testemunhas.
+text.t7=Droga, fui pego pela esposa do capitão! Ameacei matá-la, ela começou a me implorar e até me deu dinheiro e algumas joias. Eu deveria tentar isso com mais frequência!
+text.t8=Tudo resolvido. Devo agora levar esta informação ao Contre-Amirale.
+text.t9=Isso foi uma explosão! Eu me pergunto quantos barris de pólvora os 'Vogelstruijs transportaram. Agora voltemos ao Contre-Amirale.
+text.t10=Ele ficou muito feliz com a notícia do fim dos 'Vogelstruijs'. Ele me deu as outras 2.500 moedas de oito e me disse que eu estava livre para ir.

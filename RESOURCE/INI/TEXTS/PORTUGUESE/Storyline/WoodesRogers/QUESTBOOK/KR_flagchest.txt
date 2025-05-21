@@ -1,0 +1,11 @@
+title=Flagchest - Proprietário do estaleiro
+text.t1=O Estaleiro fica na Cidade Baixa de Nueva Suecia. A placa diz 'Astillero'.
+text.t2=Se eu conseguisse alcançar a campainha da porta do estaleiro - talvez o proprietário pense que é um alarme de incêndio?
+text.t3=Um Flagchest é vendido ao proprietário do Estaleiro.
+text.t4=Eu tenho o Baú da Bandeira.
+text.t5=
+text.t6=
+text.t7=
+text.t8=
+text.t9=
+text.t10=

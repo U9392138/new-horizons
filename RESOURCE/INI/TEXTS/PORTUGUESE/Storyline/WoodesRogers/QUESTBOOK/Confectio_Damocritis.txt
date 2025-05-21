@@ -1,0 +1,6 @@
+title=Confectio Damocritis
+text.t1=Tenho que encontrar este medicamento.
+text.t2=Vou pegar esse remédio em troca de... um violino!!
+text.t3=Sim, um violino â espero que o boticário fique feliz com ele.
+text.t4=Feito!
+text.t5=O contramestre, Sr. Pope, está no porto para se encontrar com o boticário de Greenford.

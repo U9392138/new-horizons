@@ -1,0 +1,226 @@
+Balls {Balas de Canhão}
+Balls_descr
+{
+O tipo mais comum de munição de canhão, essas pesadas bolas de ferro fundido causam dano sólido aos navios inimigos. Dano: Casco-#f.2DamageHull#, Velas-#f.2DamageRig#, Tripulação-#f.2DamageCrew#
+}
+
+
+Grapes {Chumbos}
+Grapes_descr
+{
+Agrupamentos de tiros de ferro disparados de canhões para varrer os conveses de um navio inimigo a curta distância, com efeito terrível na tripulação. Dano: Casco-#f.2DamageHull#, Velas-#f.2DamageRig#, Tripulação-#f.2DamageCrew#
+}
+
+
+Knippels {Quebra-Mastros}
+Knippels_descr
+{
+Bolas de ferro fundido conectadas por uma corrente grossa. Usado para destruir as velas e mastros do navio inimigo. Dano: Casco-#f.2DamageHull#, Velas-#f.2DamageRig#, Tripulação-#f.2DamageCrew#
+}
+
+
+Bombs {Bombas}
+Bombs_descr
+{
+Recheadas com pólvora, essas balas de canhão causam grande dano ao casco do navio inimigo. Dano: Casco-#f.2DamageHull#, Velas-#f.2DamageRig#, Tripulação-#f.2DamageCrew#
+}
+
+
+Sailcloth {Lona}
+Sailcloth_descr
+{
+Tecido durável que você pode usar para reparar suas velas.
+}
+
+
+Planks {Pranchas}
+Planks_descr
+{
+Você pode consertar buracos no casco do seu navio com estas pranchas de madeira.
+}
+
+
+Wheat {Trigo}
+Wheat_descr
+{
+Usado para fazer pão e fermentar várias bebidas alcoólicas.
+}
+
+
+Ebony {Ébano}
+Ebony_descr
+{
+Um tipo raro e valioso de madeira preta, de particular dureza e densidade.
+}
+
+Chocolate {Chocolate}
+Chocolate_descr
+{
+A iguaria favorita de mulheres nobres mimadas em todo o mundo.
+}
+
+
+Sugar {Açúcar}
+Sugar_descr
+{
+A coisa mais doce do mundo.
+}
+
+
+Wine {Vinho}
+Wine_descr
+{
+Suco de uva fermentado, apreciado por muitos por seu sabor fino e qualidades intoxicantes.
+}
+
+
+Linen {Linho}
+Linen_descr
+{
+Um tecido usado para fazer roupas.
+}
+
+
+Rum {Rum}
+Rum_descr
+{
+A falta desta boa bebida durante uma longa viagem pode facilmente levar a uma revolta.
+}
+
+
+Tobacco {Tabaco}
+Tobacco_descr
+{
+O tesouro aromático do Novo Mundo.
+}
+
+
+Coffee {Café}
+Coffee_descr
+{
+Grãos de café são usados para preparar uma bebida tônica amarga.
+}
+
+
+Mahogany {Mogno}
+Mahogany_descr
+{
+Um tipo precioso de madeira com uma cor avermelhada característica.
+}
+
+
+Cinnamon {Canela}
+Cinnamon_descr
+{
+Nações inteiras foram massacradas apenas para possuir esta especiaria.
+}
+
+
+Copra {Copra}
+Copra_descr
+{
+Núcleo de coco seco.
+}
+
+
+Paprika {Páprica}
+Paprika_descr
+{
+Pimenta doce, ingrediente de muitas saladas.
+}
+
+
+Fruits {Frutas}
+Fruits_descr
+{
+Várias frutas de plantas tropicais.
+}
+
+
+Ale {Cerveja}
+Ale_descr
+{
+Uma bebida alcoólica leve feita de lúpulo e malte.
+}
+
+
+Silk {Seda}
+Silk_descr
+{
+Um tecido fino, leve e extremamente caro.
+}
+
+
+Clothes {Roupas}
+Clothes_descr
+{
+Roupas de saco grosseiras para o povo simples das colônias.
+}
+
+
+Cotton {Algodão}
+Cotton_descr
+{
+Matéria-prima usada para fazer tecidos.
+}
+
+
+Sandal {Sândalo}
+Sandal_descr
+{
+Um tipo precioso de madeira. Usado para fins decorativos e para a produção de incenso.
+}
+
+
+Leather {Couro}
+Leather_descr
+{
+Peles de animais curtidas.
+}
+
+
+Oil {Óleo}
+Oil_descr
+{
+Óleo de oliva é usado no preparo de muitos pratos diferentes.
+}
+
+Gunpowder {Pólvora}
+Gunpowder_descr
+{
+Inventada na China, a pólvora é necessária para os canhões de um navio. Sem ela, eles ficarão silenciosos como os peixes. O capitão precisará garantir que ainda há pólvora em seu porão de carga e reabastecer regularmente o suprimento. Você pode lançar um barril com 300 unidades como mina anti-navio (Tecla 9 no mar).
+}
+
+// from SLiB by Jack Davidson -->
+
+Gold {Ouro}
+Gold_descr
+{
+Ouro. Um metal precioso amarelo extraído das minas do arquipélago.
+}
+
+Silver {Prata}
+Silver_descr
+{
+Prata. Um metal precioso branco extraído das minas do arquipélago.
+}
+
+Bricks {Tijolos}
+Bricks_descr
+{
+Blocos de construção grandes moldados de argila e pedras e usados para a construção de fortes e edifícios urbanos.
+}
+
+// from SLiB by Jack Davidson <--
+
+Medicines {Medicamentos}
+Medicines_descr
+{
+Medicamentos necessários para o tratamento de qualquer doença. Eles ajudarão a resgatar os feridos e curar os membros da tripulação doentes durante a navegação.
+}
+
+Ration {Comida}
+Ration_descr
+{
+Queijo, pão, maçãs, carne salgada... Tudo o que é possível comer.
+}

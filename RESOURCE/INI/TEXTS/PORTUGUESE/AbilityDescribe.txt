@@ -1,0 +1,406 @@
+Remarks	{Observações}
+none	{Nenhum}
+Requires	{Requer}
+Rank	{Classificação mínima}
+TimeDuration	{Dura por}
+TimeDelay	{Pode ser usado todos}
+NegativeTimeDelay	{Pode ser usado apenas uma vez}
+timeunit	{segundo}
+Unlocked	{Você desbloqueou a habilidade:}
+Locked		{Este benefício precisa ser desbloqueado primeiro}
+
+BasicDefence	{Defesa básica}
+perkBasicDefence
+{
+Os blocos do personagem são 25% mais difíceis de perfurar e o dano corpo a corpo ao personagem é reduzido em 10%.
+}
+
+AdvancedDefence	{Defesa avançada}
+perkAdvancedDefence
+{
+Os blocos do personagem são 50% mais difíceis de perfurar e o dano corpo a corpo ao personagem é reduzido em 20%.
+}
+perkAdvancedDefenceLocked
+{
+Você pode encontrar essa sabedoria em um livro.\nOs blocos do personagem são 50% mais difíceis de perfurar e o dano corpo a corpo ao personagem é reduzido em 20%.
+}
+
+Toughness	{Dureza}
+perkToughness
+{
+O personagem ganha um bônus de 10% no máximo de pontos de vida, regenera pontos de vida mais rápido e tem uma resistência natural a venenos que reduz em 50% o dano de veneno causado ao personagem.
+}
+perkToughnessLocked
+{
+Os salteadores da selva podem te ensinar isso.\nO personagem ganha um bônus de 10% de pontos de vida, \nregeneração mais rápida e resistência natural a venenos
+}
+
+CriticalHit	{Acerto crítico}
+perkCriticalHit
+{
+A chance do personagem acertar um acerto crítico em combate corpo a corpo aumenta para 10%.
+}
+
+SwordplayProfessional	{Esgrimista Profissional}
+perkSwordplayProfessional
+{
+Os ataques corpo a corpo do personagem são 25% mais difíceis de bloquear, a chance de acertar um acerto crítico aumenta para 25% e o dano corpo a corpo ao personagem reduz em 30%.
+}
+perkSwordplayProfessionalLocked
+{
+Termine o treinamento de espada mais alto com sua tripulação no convés.\nOs ataques corpo a corpo do personagem são 25% mais difíceis de bloquear, a chance de acertar um acerto crítico aumenta para 25% e o dano corpo a corpo ao personagem reduz em 30%.
+}
+
+Rush	{Turbo}
+perkRush
+{
+Os ataques corpo a corpo do personagem causam mais danos, mas são mais difíceis de bloquear. O efeito dura 30 segundos.
+}
+
+Gunman	{Pistoleiro}
+perkGunman
+{
+O personagem maneja melhor uma pistola - recarregar é 10% mais rápido, a precisão aumenta em 5% e a chance de acertar um acerto crítico aumenta em 5%. O personagem pode usar pistola de cano duplo e todos os conjuntos de pistolas de suporte.
+}
+
+
+GunProfessional	{Pistoleiro Profissional}
+perkGunProfessional
+{
+O personagem é um profissional de pistola - recarregar é 50% mais rápido e a precisão aumenta em 10% e a chance de acertar um acerto crítico aumenta em 10%. O personagem pode usar pistola de cano quádruplo.
+}
+
+perkGunProfessionalLocked
+{
+Encontre um livro para desbloquear.\nO personagem é um profissional de pistola - recarregar é 50% mais rápido e a precisão aumenta em 25% e a chance de acertar um acerto crítico aumenta para 15%. O personagem pode usar pistola de cano quádruplo.
+}
+
+ImproveAiming	{Pistoleiro especialista}
+perkImproveAiming
+{
+O personagem é um pistoleiro experiente o que aumenta a precisão \nem 20% e a chance de acertar um acerto crítico em 15%. Pressione \nTab para mirar manualmente usando o modo de primeira pessoa.
+}
+
+perkImproveAimingLocked
+{
+Conclua uma missão para um armeiro para ativar esta capacidade.\nO personagem é um pistoleiro experiente o que aumenta a precisão \nem 20% e a chance de acertar um acerto crítico em 15%. Pressione \nTab para mirar manualmente usando o modo de primeira pessoa.
+}
+
+GunFighter	{Mestre Pistoleiro}
+perkGunFighter
+{
+O personagem agora é um pistoleiro experiente e um líder pirata experiente. O personagem pode usar um extraordinário conjunto de pistolas.
+}
+
+ImprovePotions	{Poções Eficazes}
+perkImprovePotions
+{
+As poções de cura serão 10% mais eficazes para todo o grupo.
+}
+perkImprovePotionsLocked
+{
+Ajude o boticário quando ele precisar de algum produto | As poções de cura serão 10% mais eficazes para todo o grupo.
+}
+
+DefendPoison	{Resistência a veneno}
+perkDefendPoison
+{
+Seu grupo tem melhor resistência a venenos devido aos melhores remédios disponíveis.
+}
+
+ShipTurnRateUp	{Manobrabilidade}
+perkShipTurnRateUp
+{
+A manobrabilidade do navio do personagem é aumentada em 15%.
+}
+
+ShipSpeedUp	{Aumento de velocidade}
+perkShipSpeedUp
+{
+A velocidade do navio do personagem aumenta em 15%.
+}
+
+Turn180	{Virar com Âncora}
+perkTurn180
+{
+O navio do personagem pode iniciar uma curva rápida de 90 graus abaixando a âncora de um lado enquanto se move. Isso pode ser feito uma vez a cada três minutos. 
+Use a tecla "K" seguida das teclas para alternância de aceleração de tempo para escolher o lado para virar.
+}
+perkTurn180Locked
+{
+Aprenda isso sendo civilizado com o capitão de navio inimigo.\nO navio do personagem pode iniciar uma curva rápida de 90 graus abaixando a âncora de um lado enquanto se move. Isso pode ser feito uma vez a cada três minutos. Use a tecla "K" seguida das teclas para alternância de aceleração de tempo para escolher o lado para virar.
+}
+
+
+SandbankManeuver	{Senso de Canal}
+perkSandbankManeuver
+{
+O navio do personagem fica protegido dos perigos de atravessar recifes e baixios por 60 segundos, proporcionando ao personagem a oportunidade de escapar de águas perigosas sem sofrer grandes danos.
+}
+
+StormProfessional	{Navegador de Tempestades}
+perkStormProfessional
+{
+O dano que o navio do personagem sofre com tempestades e tornados é reduzido em 40%.
+}
+
+SailingProfessional	{Lobo do mar}
+perkSailingProfessional
+{
+A velocidade e manobrabilidade do navio do personagem aumentaram em 20%. No mapa mundi, o personagem tem 50% de chance de pular um encontro aleatório. Nesse caso, um ícone "Pular encontro" aparece e a tecla "Enter" pode ser pressionada para pular o encontro.
+}
+
+BasicDamageControl	{Controle de Danos}
+perkBasicDamageControl
+{
+O navio do personagem sofre 15% menos dano ao casco causado pelo fogo inimigo. Também permite que o personagem execute exercícios de incêndio se o navio estiver em chamas.
+}
+
+AdvancedDamageControl	{Controle de Danos Avançado}
+perkAdvancedDamageControl
+{
+O navio do personagem sofre 25% menos dano ao casco causado pelo fogo inimigo.
+}
+perkAdvancedDamageControlLocked	
+{
+Encontre um livro para desbloquear,\nO navio do personagem sofre 25% menos dano ao casco causado pelo fogo inimigo.
+}
+
+ProfessionalDamageControl	{Controle de Danos Profissional}
+perkProfessionalDamageControl
+{
+O navio do personagem sofre 40% menos dano ao casco do fogo inimigo e tem uma chance drasticamente reduzida de ser atingido criticamente.
+}
+
+
+BasicFirstAid	{Primeiros Socorros}
+perkBasicFirstAid	
+{
+O navio do personagem sofre 15% menos dano à tripulação causado pelo fogo inimigo. Também evitará 15% dos danos causados por saraivadas de mosquete.
+}
+
+
+AdvancedFirstAid	{Primeiros Socorros Avançado}
+perkAdvancedFirstAid	
+{
+O navio do personagem sofre 30% menos dano à tripulação causado pelo fogo inimigo. Também evitará 30% dos danos causados por saraivadas de mosquete.
+}
+
+Rigging		{Reparador}
+perkRigging
+{
+O navio do personagem sofre 20% menos dano de vela causado pelo fogo inimigo.
+}
+
+
+RiggingAdvance	{Mestre da Vela}
+perkRiggingAdvance	
+{
+O navio do personagem sofre 40% menos dano de vela causado pelo fogo inimigo.
+}
+
+FastReload	{Recarregamento rápido}
+perkFastReload
+{
+Os canhões dos navios recarregam 20% mais rápido.
+}
+
+ImmediateReload	{Pré-recarregar}
+perkImmediateReload
+{
+Os canhões dos navios recarregam 50% mais rápido, mas a habilidade só pode ser usada uma vez a cada cinco minutos.
+}
+perkImmediateReloadLocked
+{
+Aprenda isso sendo civilizado com o capitão de navio inimigo.\nOs canhões dos navios recarregam 50% mais rápido, mas a habilidade só pode ser usada uma vez a cada cinco minutos.
+}
+
+
+HullDamageUp	{Maior dano ao navio}
+perkHullDamageUp
+{
+O dano ao navio inimigo aumenta em 15%.
+}
+
+SailsDamageUp	{Maior dano à vela}
+perkSailsDamageUp
+{
+O dano às velas inimigas aumenta em 15%.
+}
+
+CrewDamageUp	{Maior dano à tripulação}
+perkCrewDamageUp
+{
+O dano à tripulação inimiga aumenta em 15%.
+}
+
+CriticalShoot	{Tiro Crítico}
+perkCriticalShoot
+{
+O personagem ganha 5% de chance de que uma saraivada cause dano crítico a um navio inimigo.
+}
+
+LongRangeShoot	{Maior alcance de Disparo}
+perkLongRangeShoot
+{
+O alcance dos canhões do navio foi aumentado em 15%.
+}
+
+CannonProfessional	{Canhoneiro Profissional}
+perkCannonProfessional
+{
+O dano dos canhões aos navios inimigos aumentou em 30% e a probabilidade de acerto crítico aumentou para 15%.
+}
+perkCannonProfessionalLocked
+{
+Encontre um livro para desbloquear.\nO dano dos canhões aos navios inimigos aumentou em 30% e a probabilidade de acerto crítico aumentou para 15%.
+}
+
+LongRangeGrappling	{Embarque de longo alcance}
+perkLongRangeGrappling
+{
+A faixa em que o embarque pode ser iniciado é aumentada em 15%.
+}
+perkLongRangeGrapplingLocked
+{
+Aprenda isso sendo civilizado com o capitão de navio inimigo.\nA faixa em que o embarque pode ser iniciado é aumentada em 15%.
+}
+
+
+MusketsShoot	{Salva de mosquete}
+perkMusketsShoot
+{
+Pouco antes de embarcar em um navio inimigo, a tripulação do personagem dispara mosquetes. Esta salva mata parte da tripulação inimiga, dependendo do tamanho da tripulação do personagem, sem quaisquer bônus de defesa.
+}
+
+GrapplingProfessional	{Mestre de embarque}
+perkGrapplingProfessional
+{
+A faixa na qual o embarque pode ser iniciado é aumentada em 25%. A velocidade e o ângulo de fechamento não importam mais.
+}
+
+InstantBoarding	{Embarque instantâneo}
+perkInstantBoarding
+{
+Uma vez por batalha, o personagem pode embarcar instantaneamente em um navio inimigo próximo escolhido.
+}
+
+Troopers	{Tropa de desembarque}
+perkTroopers
+{
+Envie um navio da frota para enfraquecer ou capturar um forte. A eficácia depende do número de tripulantes e da experiência do capitão.
+Também permite desembarcar tropas em cidades inimigas sem fortes, desde que não haja mais navios inimigos ao redor da ilha.
+}
+perkTroopersLocked
+{
+Ganhe a confiança de um governador para ativar essa capacidade.\nEnvie um navio da frota para enfraquecer ou capturar um forte.\nTambém permite desembarcar tropas em cidades inimigas.
+}
+
+LightRepair	{Reparos de emergência}
+perkLightRepair
+{
+Esta habilidade permite que a tripulação do \npersonagem conserte lentamente o navio até \n10% do HP máximo quando o navio estiver perto \nde afundar. Isso não requer nenhum recurso.
+}
+
+InstantRepair	{Reparos rápidos}
+perkInstantRepair
+{
+Quando não está travado em uma batalha, a tripulação do personagem pode reparar instantaneamente o navio até um máximo de 90% do HP máximo. Isso requer pranchas e lona e não repara mastros ou tripulantes caídos.
+}
+perkInstantRepairLocked
+{
+Ajude o estaleiro quando ele precisar com materiais.\nQuando não está travado em uma batalha, a tripulação do personagem pode reparar instantaneamente o navio até um máximo de 90% do HP máximo. Isso requer pranchas e lona e não repara mastros ou tripulantes caídos.
+}
+
+Cooking	{Aulas de culinária}
+perkCooking
+{
+Seu consumo de alimentos por dia será reduzido em 10%.
+}
+
+HighStakes	{Alto risco}
+perkHighStakes
+{
+Isso permite que você faça apostas mais altas enquanto joga.
+Você também pode jogar com os guardas para obter o cronograma de patrulha.
+}
+
+Disguiser {Mestre do disfarce}
+perkDisguiser 
+{
+Você é um mestre disfarçado, o que reduz em 10% a chance de sua bandeira falsa ser detectada.
+}
+
+ImproveSmuggling	{Fugir da Guarda Costeira}
+perkImproveSmuggling
+{
+Há uma grande chance de que, se a guarda costeira o encontrar, eles estarão em um grupo menor do que o normal. E a chance de eles encontrarem você é reduzida em 5%.
+}
+perkImproveSmugglingLocked
+{
+Inspecione os corpos da guarda costeira para ver o que eles têm.\nHá uma grande chance de que, se a guarda costeira o encontrar, \neles estarão em um grupo menor do que o normal. E a chance de \neles encontrarem você é reduzida em 5%.
+}
+
+AdvanceSmuggling	{Contrabando Avançado}
+perkAdvanceSmuggling
+{
+Os contrabandistas gostam tanto de você que pagarão 15% a mais pelas suas mercadorias. E a chance de a guarda costeira encontrar você é reduzida em mais 10%. A chance de navios da guarda costeira aparecerem após serem capturados também é reduzida em 50%.
+}
+
+BasicCommerce	{Comércio Básico}
+perkBasicCommerce
+{
+O personagem ganha 10% de desconto na compra de mercadorias nas lojas.
+}
+perkBasicCommerceLocked
+{
+Conclua uma missão de comboio na taverna.\nO personagem ganha 10% de desconto \nna compra de mercadorias nas lojas.
+}
+
+AdvancedCommerce	{Comércio Avançado}
+perkAdvancedCommerce
+{
+O personagem ganha 20% de desconto na compra \nde mercadorias e um bônus de 5% na venda \nde mercadorias nas lojas.
+}
+perkAdvancedCommerceLocked
+{
+Ajude o Alfaiate quando ele precisar de materiais.\nO personagem ganha 20% de desconto na compra \nde mercadorias e um bônus de 5% na venda \nde mercadorias nas lojas.
+}
+
+Trustworthy	{Confiável}
+perkTrustworthy
+{
+O personagem tem a opção de comprar e vender produtos contrabandeados \nem todas as lojas... Infelizmente, pelo preço normal.
+}
+perkTrustworthyLocked
+{
+Ganhe a confiança de um governador para ativar essa capacidade.\nO personagem tem a opção de comprar e vender produtos contrabandeados \nem todas as lojas... Infelizmente, pelo preço normal.
+}
+
+BasicLandOwner {Proprietário do terreno}
+perkBasicLandOwner
+{
+O rendimento da colheita é 50% maior nas propriedades do personagem.
+}
+perkBasicLandOwnerLocked 
+{
+Ganhe a confiança de um governador para ativar essa capacidade.\nO rendimento da colheita é 50% maior \nnas propriedades do personagem.
+}
+
+SharedExperience	{Experiência compartilhada}
+perkSharedExperience
+{
+Quando seu grupo ganha experiência, seus oficiais também ganham pontos por habilidades com as quais não contribuem.
+}
+
+IronWill	{Vontade de ferro}
+perkIronWill
+{
+O moral aumenta em 25%. Além disso, isso dá ao personagem uma redução de 50% na perda de moral ao deixar de pagar o salário.
+}
+
+Brander	{Explodir Navio }
+perkBrander
+{
+Usando esta habilidade, um comandante de frota pode ordenar que um navio da frota exploda perto do inimigo, causando potencialmente grandes danos.
+}

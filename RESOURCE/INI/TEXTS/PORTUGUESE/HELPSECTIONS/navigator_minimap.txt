@@ -1,0 +1,22 @@
+minimapa_title
+{
+Minimapa de navegação
+}
+minimapa_info
+{
+    O minimapa de navegação (figura 1) aparece apenas no mar. Mostra a velocidade atual do navio e do vento, o tipo redondo carregado nos canhões dos navios e o estado de recarga dos canhões para cada lado. Também bússola e direção do vento e disposição da ilha e objetos aliados e hostis ao redor do navio do jogador.
+
+    O número superior esquerdo no minimapa é a velocidade do vento, o número superior direito é a velocidade atual do navio. Esses parâmetros também são representados graficamente: o setor interno azul no lado esquerdo do minmap representa a velocidade do vento e o setor amarelo à direita representa a velocidade do navio.
+
+    O estado de recarga dos canhões é mostrado por quatro setores verdes (ou vermelhos, se os canhões ainda não estiverem carregados) ao redor do minimapa. Os setores superior, inferior, esquerdo e direito representam respectivamente o estado de carregamento dos canhões de proa, popa, bombordo e estibordo. Um pequeno ícone no canto inferior direito do minimapa mostra o tipo de bala de canhão atual. Possíveis tipos de balas podem ser vistos na figura 2 e são facas, bombas, balas de canhão e estilhaços, respectivamente, da esquerda para a direita. Quando não há cartuchos suficientes do tipo selecionado para carregar todos os canhões, esse ícone começa a piscar.
+
+    O círculo externo do minimapa é uma bússola. Ele gira em torno do minimapa, já que a localização do navio do jogador no minimapa é fixa - a proa do navio do jogador está sempre voltada para cima e a popa - para baixo.
+
+    A direção do vento é representada por uma seta branca que passa pelo centro do minimapa.
+
+    As zonas de tiro dos canhões de proa, popa e bordo são mostradas com setores brancos transparentes.
+
+    No minimapa, o jogador pode ver uma ilha por onde seu navio está navegando. Além disso, todos os outros navios que estão dentro da posição de visualização aparecerão no minimapa. Os navios aliados são mostrados em verde, os inimigos - em vermelho e os objetos neutros são mostrados em cinza (foto 3)
+
+    Você pode alterar a escala do minimapa com as teclas de zoom do minimapa.
+}

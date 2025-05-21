@@ -1,0 +1,4 @@
+title=Missão Secundária - Afundar a Fragata Pirata.
+text.t1=O governador de #sFalaise de Fleur# em #sisland_Falaise de Fleur#, #sJoseph Claude Le Moigne#, me encarregou da missão de afundar o navio pirata que bloqueava a colônia enquanto a esquadra #sFrench# estava no mar.
+text.t2=Tive que recusar #sLe Moigne#. 5.000 ouro não é recompensa suficiente para tais riscos. Não é pouca coisa lutar com uma #fragata pesada#. Parece que o governador ficou chateado com a minha recusa.
+text.t3=O governador ficou satisfeito com meu desempenho. Ele me deu a recompensa e me disse para manter contato. Ele quer trabalhar comigo no futuro também.

@@ -1,0 +1,16 @@
+title=Missão Genérica - Contrabando na #sisland#.
+text.t1=Falei com um contrabandista na taverna. Ele disse que poderia me ajudar a vender minha carga, mas disse que eu talvez quisesse descobrir primeiro como evitar as patrulhas da guarda costeira. Então fale com ele novamente.
+text.t2=Encontrei um guarda que estava de folga. Depois de pagar-lhe algum dinheiro, ele me disse que o melhor momento seria #stime#. Talvez eu precise esperar por isso conversando com um membro da minha tripulação no convés.
+text.t3=Encontrei um guarda que acreditou na minha história sobre como eu queria fazer um belo piquenique à beira-mar. Eu deveria ir ao local #stime#. Talvez eu precise esperar por isso conversando com um membro da minha tripulação no convés.
+text.t4=Eu não apareci como prometi, então o acordo foi cancelado.
+text.t5=Fiz um acordo com os contrabandistas e tive um bom lucro!
+text.t6=Infelizmente! A guarda costeira me encontrou, parece que tenho que lutar para sair disso.
+text.t7=Parece que os contrabandistas não ficaram muito felizes comigo e tentaram me matar.
+text.t8=Cancelei o acordo com os contrabandistas. Embora não parecessem felizes, eles me deixaram ir.
+text.t9=Eu enganei os contrabandistas. Peguei o dinheiro deles, mas fiquei com a mercadoria sozinho!
+text.t10=Tenho certeza de que sei quando é seguro, então o contrabandista me disse que eu deveria ir para #slocation#.
+text.t11=Pedi a um dos meus oficiais para ir ao #slocation# e observar quando os guardas entram e saem. Ele deve estar de volta amanhã. Eu poderia esperar aqui ou fazer alguma coisa enquanto isso.
+text.t12=Encontrei um guarda que estava de folga e queria jogar cartas. Depois de vencê-lo, ele me disse que a melhor hora para ir é #hora#. Talvez eu precise esperar por isso conversando com um membro da minha tripulação no convés.
+text.t13=Meu oficial voltou e me disse que #stime# é o melhor momento para fazer contrabando. Talvez eu precise esperar por isso conversando com um membro da minha tripulação no convés.
+text.t14=Acho que meu policial foi pego ou algo assim porque não apareceu.
+text.t15=Esse negócio de contrabando parece muito arriscado para mim, então cancelei o negócio. Espero que os contrabandistas me perdoem caso eu queira tentar novamente.

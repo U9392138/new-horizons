@@ -1,0 +1,15 @@
+title=Um baú de remédios cheio
+text.t1=Dave Edna talvez saiba alguma coisa sobre um baú de remédios.
+text.t2=Encontrei um armário de remédios, ainda trancado.
+text.t3=Metade da caixa de remédios está... aberta. Agora, onde posso conseguir comida, talvez no porão embaixo da cozinha?
+text.t4=Existem alguns locais para garrafas na parte traseira também.
+text.t5=A comida está entregue - agora vamos ver se os cidadãos podem contribuir com algum medicamento.
+text.t6=O louco abriu a porta esquerda - arrancou toda a fechadura! A gaveta grande está no lugar. Agora vamos buscar alguns remédios na igreja.
+text.t7=Que coleção! Não há lugar para mais garrafas e todas as gavetas estão cheias! O único problema é que as portas não podem ser trancadas.
+text.t8=O armário de remédios agora está consertado. (Muito amador, devo dizer).
+text.t9=Metade do baú está cheio de remédios. Duas gavetas estão cheias: uma com comprimidos anti-escorbuto, a outra com vários medicamentos do médico.
+text.t10=Há um baú na loja!
+text.t11=O Sr. Cook está na igreja coletando doações de remédios e curas dos cidadãos.
+text.t12=Stretton pode abrir o resto do baú, segundo a vovó Rogers.
+text.t13=Sou procurado no estaleiro.
+text.t14=Tenho que falar com todos os familiares, amigos e oficiais de Rogers. Eles podem ter algo útil para a caixa de remédios!

@@ -1,0 +1,52 @@
+string DLG_TEXT[43] = {
+"Não tenho nada a tratar com o senhor.",
+"Calma, Sr. Odel. Só quero lhe fazer uma pergunta.",
+"Não, não, não, Capitão. Nunca mais assinarei artigos!",
+"Acha que sou pirata?",
+"Eu o reconheço pela pintura marrom. Howard Pyle, acho que foi...",
+"Muito bem. (Sim! Sou famoso!)",
+"... famoso por ser o pirata mais malsucedido de todos os tempos.",
+"(Suspiro) O senhor estava com Barba Negra na Ilha de Ocracoke quando ele foi morto, não é?",
+"Eu estava lá??!! Recebi mais de setenta ferimentos e fui acusado de pirataria.",
+"Lembra-se do navegador Israel Hands?",
+"Lembra-se do tenente Richards?",
+"Lembra-se de algum tripulante chamado Johnson?",
+"Lembra-se de César, um homem negro?",
+"Hands ficou em terra - ferido.",
+"Certo. Deixe-me fazer outra pergunta.",
+"Sim, o que aconteceu agora?",
+"Não, ele não estava lá.",
+"Não havia Johnson na tripulação.",
+"É verdade, eu tenho - ele quase nos matou a todos...",
+"O que aconteceu?",
+"Foi difícil. Posso fazer uma ou duas perguntas agora?",
+"Tudo bem, mas se apresse.",
+"Em 22 de novembro de 1718, o Tenente Maynard chegou com dois saveiros, o Jane e o Ranger, à Ilha de Ocracoke.",
+"Como ele encontrou Barba Negra?",
+"O governador Spotswood, da Virgínia, tinha espiões ao longo de toda a costa. Agora, os três saveiros encalharam nas águas rasas.",
+"Eles atiraram uns nos outros...?",
+"Os saveiros de Maynard estavam fora do alcance dos canhões de Teach, mas poderiam se libertar a qualquer momento. Eu estava no leme quando Teach chamou seu tripulante de maior confiança, o negro César.",
+"Sim...?",
+"...e o resto é bem conhecido.",
+"Sim, mas foi você quem impediu César de explodir a chalupa? O Porão estava trancado.",
+"Tenho outras coisas para fazer agora. Mas sim, fui eu, encontrei outra maneira de descer.",
+"Só mais uma pergunta, por favor. César foi feito prisioneiro, mas o que aconteceu com a chalupa?",
+"O Tenente Maynard foi autorizado a ficar com ela como recompensa por derrotar Barba Negra.",
+"Aha, e você tem alguma ideia de onde ele mora hoje, se ainda está vivo?",
+"Ouvi dizer que ele está aposentado e morando em uma antiga Cidadela em Eleuthera.",
+"Muito obrigado, Senhor Odel.",
+"Nossa conversa terminou, Howard Pyle.",
+"Muito bem.",
+"Você se lembra do César aqui?",
+"Bem, com aquela companhia! E além disso...",
+"Sim, o que mais?",
+"Eleuthera é uma ilha grande. Preciso navegar por toda a costa e procurar a Cidadela?",
+"Não, acho que você pode chegar lá pela Taverna.",
+
+
+
+
+
+
+
+};

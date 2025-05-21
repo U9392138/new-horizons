@@ -1,0 +1,6 @@
+title=Abra a célula
+text.t1=
+text.t2=Preciso de algo com gancho para pegar essas caixas.
+text.t3=Tenho que manter os olhos abertos para encontrar uma escotilha em algum lugar.
+text.t4=Não, o cano não é pesado o suficiente! Eu tenho que preenchê-lo com alguma coisa.
+text.t5=O contramestre me avisou para tocar 'na alavanca única do lado direito'.

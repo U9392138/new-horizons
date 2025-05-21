@@ -1,0 +1,11 @@
+title=A aliança
+text.t1=O vice-almirante suspeita que a França se aliará a Portugal. Tello Basadre será meu informante nesta missão. Ele trabalha como estivador em #sMarigot# em #sisland_Saint Martin# e mora em uma casa nos fundos da CÃ¢mara Municipal. Eu deveria ir lá quando ele terminar o trabalho.
+text.t2=Preciso ir até #sisland_Falaise de Fleur# para confirmar se o navio francês realmente está lá. Esperemos que não seja tarde demais.
+text.t3=Tello Basadre estava certo. 'La Fougueuse' está atracado no porto. Agora, preciso saber a missão dela. Talvez haja alguns marinheiros ou soldados deste navio na taberna, algumas garrafas de rum devem soltar a língua.
+text.t4=Encontrei! Só preciso sair da prefeitura pela janela e me juntar ao Chico no navio.
+text.t5=Há uma hora que Chico procura informações sobre o capitão francês na cidade. Espero que ele encontre algo útil.
+text.t6=Fiquei escondido nesta igreja por vinte minutos. Parece tranquilo agora. Ã hora de se juntar ao Chico em Octopus Bay. Mas antes disso preciso ter certeza de que o capitão Aurelien Bergerat está realmente morto.
+text.t7=Impressionante! Chico Cois é um verdadeiro especialista em explosivos. O capitão e seus guardas foram despedaçados. Eu não deveria mais ficar aqui, alguém poderia ter me visto perto da explosão e avisado aos guardas.
+text.t8=Que infortúnio! Agora terei que encontrar uma maneira de parar os franceses em #sConceicao# em #sisland_Conceicao#.
+text.t9=Feito! 'La Fougueuse' está afundando. Agora posso voltar a #sHavana# em #sisland_Cuba#, o Vice-Almirante ficará satisfeito.
+text.t10=Perdi muito tempo chegando em #sisland_Falaise de Fleur#. A linhagem deve ter saído de #sisland_Falaise de Fleur#. Falhei na minha missão, o vice-almirante vai me enforcar se me pegar, é melhor eu ficar longe dos espanhóis.

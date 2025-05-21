@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+"Vá embora, #ssir#! Você não vê que estou tentando aproveitar minha bebida?",
+"Tudo bem, não seja assim. Vou te deixar em paz.",
+"Posso compartilhar sua mesa? Eu pagarei pela sua próxima bebida.",
+"Bem, contanto que você esteja pagando, você pode se juntar a mim.",
+"Barman! Mais duas canecas de rum!",
+"Devo dizer que você é mais generoso do que as outras pessoas aqui.",
+"Obrigado. Ei, ouvi dizer que o comboio prateado está vindo para cá.",
+"<Para um soldado próximo> Ei, você! Vá e convide o resto do time para se juntar a nós! <Para você> Então você está interessado no comboio prateado, não é?",
+"Sim. Deve ser algo para ver quando chegar!",
+"Não particularmente. Mas nada mais acontece por aqui. De qualquer forma, é melhor eu ir",
+"Ah, pode ter certeza que chegará. Você conhece mais alguém que tenha interesse em assistir?",
+"Provavelmente metade das pessoas da cidade. Não é algo que eles veem todos os dias!",
+"Não. E outra coisa que eles não veem todos os dias é alguém sendo preso por se interessar demais pelo comboio prateado. Mas eles verão agora!",
+"Também não é frequente verem alguém resistindo à prisão, e é isso que estão prestes a ver!",
+}

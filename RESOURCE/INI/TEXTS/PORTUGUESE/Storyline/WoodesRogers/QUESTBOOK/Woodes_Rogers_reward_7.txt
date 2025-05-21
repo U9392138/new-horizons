@@ -1,0 +1,9 @@
+title=Ãltima recompensa de Woodes Rogers
+text.t1=Há uma última (!) recompensa - e NÃO é uma pistola!? Para começar, estou procurando Rogers Farmhouse. Tem uma garota lá chamada Minerva para me guiar.
+text.t2=O manequim está usando um cinto de pistola, mas como faço para pegá-lo?
+text.t3=Estou mais perto do Pistolbelt agora, mas a porta está trancada.
+text.t4=Encontrei o lendário cinto de pistola do Barba Negra! Acho que a equipe de Rogers quer colocar as mãos nisso! Não sabia que aqueles caras rudes eram tão nostálgicos.
+text.t5=O cinto está completo!!
+text.t6=Itens da direita = F3 + F3, Itens da esquerda = F3 + pistola de fogo.
+text.t7=Acho que as bússolas são F3 + F3 e o mapa é F3 + pistola de fogo.
+text.t8=Encontrarei Woodes Rogers no estaleiro para receber minha recompensa final quando voltar de Charles Vane. Sim!

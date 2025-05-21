@@ -1,0 +1,14 @@
+title=Salitre(Nitrado de Potássio KNO3)
+text.t1=Produzi Salitre.
+text.t2=Levará algum tempo para que toda aquela água ferva - enquanto isso farei outra coisa.
+text.t3=Levará algum tempo para processar todo o Salitre - enquanto isso farei outra coisa.
+text.t4=O Salitre nas tábuas demorará para secar - enquanto isso farei outra coisa.
+text.t5=
+text.t6=Preciso de uma ferramenta para raspar o salitre das tábuas.
+text.t7=1 Prepare colocando mais lenha no forno.
+text.t8=2 Coloque todas as alavancas em 'para cima', o que significa parar.
+text.t9=3 Encha o recipiente nÂº 1 e espere ferver.
+text.t10=4 Encha a bacia nÂº 2 e espere que processar o salitre.
+text.t11=5 Encha a bacia nÂº 3 e encha um balde com a solução.
+text.t12=6 Despeje o líquido nas tábuas e espere secar.
+text.t13=7 Raspe o salitre das tábuas.

@@ -1,0 +1,10 @@
+title=A Batalha de Aguadilla
+text.t1=Uma missão interessante que o Governador Ogeron tem para mim. Devo sequestrar um ex-pagador espanhol preso em Antígua. Ele poderia nos dar algumas informações úteis sobre as reservas de ouro de #sisland_Isla Muelle#. Segundo o Governador Ogeron ele está num quarto da residência do Almirante do Porto.
+text.t2=Temos o tesoureiro. Espero que a sua libertação seja útil para encontrar o ouro espanhol. Vamos levá-lo para Tortuga.
+text.t3=O Capitão Montbars é um verdadeiro bruto! Ele não hesitou em estourar a cabeça do manobrista para que o tesoureiro confessasse toda a história. Vendo que o governador Ogeron queria um navio adicional para a expedição, sugeri Roxanne. Espero que ela esteja em #sFalaise de Fleur#. Eu não gostaria de fazer a expedição sem ela.
+text.t4=Com Roxanne na equipe, a frota está pronta. Vamos navegar para #sisland_Isla Muelle#.
+text.t5=Tudo estava funcionando, mas o capitão Montbars nos enganou. O Governador Ogeron deveria saber como encontrar o ouro novamente.
+text.t6=Vamos recapitular: Alice Town, #sisland_Redmond# e #sisland_Cayman#. Por que não começar primeiro por Cayman?
+text.t7=Agora que Montbars está morto, preciso encontrar alguma pista sobre a localização do ouro. Vamos verificar a casa e se necessário, lá fora, ao redor dela.
+text.t8=Só encontrei uma pequena parte do ouro na Isla de Muerte. Vamos ver novamente o Governador Ogeron em Tortuga.
+text.t9=Não tenho nada agendado, mas por que não ir para #sRedmond#? Sei que o capitão Henry Morgan trabalha para o governador inglês. Talvez ele pudesse me aceitar em uma de suas expedições...

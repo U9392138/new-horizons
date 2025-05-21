@@ -1,0 +1,7 @@
+title=Conheça o aspirante Norrington
+text.t1=Conheci o aspirante Norrington. Ele realmente não gosta de piratas!!
+text.t2=Norrington ainda está em #sisland_Oxbay#, mas está fazendo bom uso de seu tempo.
+text.t3=Norrington está formando uma milícia para ajudar na invasão.
+text.t4=Norrington agora é capitão - ele ainda odeia piratas - mas vamos para #sisland_Turks# para tentar impedir um ataque francês.
+text.t5=Norrington está voltando para casa. Ele parece gostar de mim de uma forma estranha. Ele me deixou um Tartane, mas preciso de um navio maior.
+text.t6=Norrington, o governador e Cutler Beckett queriam que eu navegasse contra os franceses. Eu não queria fazer isso, então agora estou sozinho.

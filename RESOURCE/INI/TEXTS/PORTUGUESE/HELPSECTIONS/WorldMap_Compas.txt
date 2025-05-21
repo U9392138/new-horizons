@@ -1,0 +1,9 @@
+Compas_title
+{
+Bússola
+}
+
+Compas_info
+{
+    No mapa mundi, a bússola está no canto inferior direito da tela. Use-o para definir seu curso.
+}

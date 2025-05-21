@@ -1,0 +1,16 @@
+title=Albergue do Bispo
+text.t1=Existe um lugar chamado Castelo de Bessop.
+text.t2=Vindo de Charleston procure um caminho imediatamente à direita.
+text.t3=Depois da Ponte vire à esquerda e caminhe sobre a falésia.
+text.t4=Na verdade não é um castelo, nem uma taberna, mas uma rocha alta.
+text.t5=Aí está, a rocha se parece com o esboço. Agora tenho que encontrar um caminho para cima.
+text.t6=Encontrei o Trono do Diabo, sem dúvida.
+text.t7=Vamos voltar ao Trono do Diabo agora.
+text.t8=Uma caveira em uma árvore! Deve ser isso, agora estou procurando uma árvore bem alta. O caule difere das outras árvores - é marrom!
+text.t9=Sim, encontramos o lugar. Isto exigirá ferramentas, armas e a ajuda do Sr. Poe. Voltemos a ele em Charleston.
+text.t10=Encontrarei o Sr. Poe fora dos portões da cidade quando encontrar o que preciso.
+text.t11=Devo pegar nosso barco para o Bishop's Hotel.
+text.t12=Encontrarei o Sr. Legrand fora dos portões da cidade quando encontrar o que preciso.
+text.t13=A munição para esta nova pistola de percussão foi um pouco complicada, mas agora estou pronto para me juntar ao meu amigo William fora da cidade.
+text.t14=Para o Bishop's Hostel então. Espero que Júpiter tenha encontrado o caminho até lá.
+text.t15=Vamos voltar para a Ãrvore agora, quando tivermos todos os tipos de Ferramentas.

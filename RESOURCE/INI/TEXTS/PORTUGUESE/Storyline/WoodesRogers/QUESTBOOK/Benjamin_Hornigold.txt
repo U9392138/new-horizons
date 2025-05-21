@@ -1,0 +1,4 @@
+title=Benjamin Hornigold
+text.t1=O navio de Hornigold foi o ponto de partida para muitos dos piratas mais famosos.
+text.t2=Eu tenho o mapa. Ã Hispaniola?
+text.t3=Um Porto está marcado com Vermelho na Hispaniola. As duas Letras Azuis, porém... Tem que haver mais mapas para entendermos isso.

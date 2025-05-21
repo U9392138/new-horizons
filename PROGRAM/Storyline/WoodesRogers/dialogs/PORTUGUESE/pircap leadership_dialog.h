@@ -1,0 +1,23 @@
+string DLG_TEXT[20] = {
+"Capitão, não tenho tempo para falar com você agora.",
+"Vejo você mais tarde, então.",
+"Posso revelar os segredos sobre a Experiência Compartilhada.",
+"Posso te ensinar a usar Naves de Fogo.",
+"Posso te ensinar a organizar um Grupo de Desembarque.",
+"Posso revelar os segredos sobre a Experiência Compartilhada ou te ensinar a usar Naves de Fogo.",
+"Posso revelar os segredos sobre a Experiência Compartilhada ou te ensinar a organizar um Grupo de Desembarque.",
+"Posso te ensinar a usar Naves de Fogo ou como organizar um Grupo de Desembarque.",
+"Eu certamente digo sim a isso!",
+"Quero aprender mais sobre a Experiência Compartilhada.",
+"Quero aprender mais sobre Naves de Fogo.",
+"Quero aprender mais sobre o Grupo de Desembarque.",
+"Talvez mais tarde.",
+"Posso revelar os segredos sobre a Experiência Compartilhada ou te ensinar a usar Naves de Fogo ou um Grupo de Desembarque.",
+"Há apenas uma moeda de cobre.",
+"Não vale muito É?",
+"Se quiser saber mais sobre a Caixa de Coleta",
+"- pergunte a outra pessoa.",
+"Capitão, agora você sabe tanto quanto nós sobre a Caixa de Coleta!",
+"Ok, tenho tudo no meu Livro de Missões.",
+
+};

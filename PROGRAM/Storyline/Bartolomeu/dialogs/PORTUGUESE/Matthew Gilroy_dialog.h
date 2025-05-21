@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"....",
+"....",
+"O que você quer marinheiro?",
+"Capitão, não marinheiro.",
+"Não importa, não tenho tempo para visitas. Me deixe em paz!",
+"Vim falar de Charles",
+"Carlos?! E porque?",
+"Sou capitão e gostaria de trabalhar com ele. Ouvi dizer que você sabe onde ele mora. Você poderia me ajudar a encontrá-lo?",
+"Desculpe amigo! Mas as coisas não funcionam assim. Se Charles estiver interessado em trabalhar com você, ele descobrirá que você não é o contrário. Então me dê seu nome e onde você costuma morar, passarei essas informações para ele.",
+"Ele parece ser uma pessoa discreta. Poderíamos em vez disso... fazer do meu jeito?",
+"NãO, há muitas pessoas que gostariam de matá-lo. Então, se você não aceita as condições, me deixe em paz. Eu tenho outras coisas pra fazer!",
+"Humm... vou pensar na sua proposta.",
+"",
+};

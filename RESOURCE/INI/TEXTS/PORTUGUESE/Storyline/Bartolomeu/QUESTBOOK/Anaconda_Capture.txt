@@ -1,0 +1,7 @@
+title=Captura de Anaconda
+text.t1=Eu estava certo ao procurar navios premiados em #sisland_Isla Muelle#. Enfrentei um galeão leve e depois de uma luta dura, ela era minha. Existem alguns bens valiosos no porão de carga. Boca de Hubon não é seguro no momento. Preciso vender minha carga em #sisland_Redmond# e consertar.
+text.t2=Vá em frente! Os espanhóis me pegaram antes de eu chegar ao porto seguro em #sisland_Redmond#. A sorte está comigo, escapei dos meus captores no Porto de #sSanto Domingo# e nadei até Boca de Yuman com Emilio. Agora tenho que ir à aldeia e procurar ajuda.
+text.t3=Finalmente, conheci um pescador na aldeia. Ele vai me esperar em Boca de Yuman. Depois, só preciso navegar até Boca de Hubon e procurar Eugene no Acampamento Buccaneer. Tenho certeza que ele vai me ajudar.
+text.t4=Isso é feito! Contratei dois piratas experientes apresentados por Eugene. Eu esperava mais, mas acho que esses homens serão suficientes. Na verdade, tenho uma ideia para chegar ao meu navio. Mas para isso preciso ir à igreja da aldeia.
+text.t5=Agora, se usarmos essas vestes, poderemos entrar em #sSanto Domingo# e em seu porto, sem ter que lutar. Meu galeão está atracado esperando para ser resgatado.
+text.t6=Sim! Finalmente recuperei meu navio. Vamos limpar rapidamente o porto e suas armas. Será melhor navegar para #sisland_Khael Roa#, um bom local de caça para navios inimigos.

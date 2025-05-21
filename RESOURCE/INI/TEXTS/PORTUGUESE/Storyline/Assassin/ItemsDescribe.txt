@@ -1,0 +1,59 @@
+itmname_order	{Ordem da Missão}
+itmdescr_order
+{
+Esta carta confirma que o capitão Aurelien Bergerat tem a missão secreta de ajudar a colónia portuguesa de Granada e que o governador da Martinica deve ajudá-lo. Carta assinada pelo rei Luís XIV.
+}
+
+itmname_report	{Relatório}
+itmdescr_report
+{
+Este relatório explica detalhadamente as atividades militares dos últimos meses em Cayman, como navios e tropas.
+}
+
+itmname_time_bomb	{Bomba-relógio}
+itmdescr_time_bomb
+{
+Ã uma granada grande com um pavio longo. Um modelo básico, mas muito eficaz.
+}
+
+itmname_Gaga_Keys	{As chaves de Lady Gaga}
+itmdescr_Gaga_Keys
+{
+As chaves da casa de Lady Gaga. A casa fica entre a Igreja e a CÃ¢mara Municipal.
+}
+
+itmname_Roche_letter	{Carta de Roche}
+itmdescr_Roche_letter
+{
+Uma carta da Roche Brasiliano informando que deverá permanecer em Curaçao nos próximos meses.
+}
+
+itmname_Medal_B	{Medalha da Ordem de Santiago}
+itmdescr_Medal_B
+{
+Esta Medalha recompensa as pessoas pela sua acção militar contra os inimigos de Espanha.
+}
+
+itmname_Pass	{Passagem Livre}
+itmdescr_Pass
+{
+Este passe permite atracar e permanecer na Isla Mona durante a missão.
+}
+
+itmname_purse	{Bolsa}
+itmdescr_purse
+{
+Esta bolsa contém 50.000 moedas de ouro para os índios de Aruba.
+}
+
+itmname_fougasse	{Fougasse}
+itmdescr_fougasse
+{
+Ã uma espécie de Meu. Ligado a uma porta, explode quando alguém o abre.
+}
+
+itmname_Medal_A	{Medalha do Rei Carlos II}
+itmdescr_Medal_A
+{
+Esta medalha é a recompensa mais importante que pode ser concedida pelas autoridades espanholas. Normalmente, apenas os espanhóis conseguem.
+}

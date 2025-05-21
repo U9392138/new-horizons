@@ -1,0 +1,5 @@
+title=Missão Secundária - Escolte o navio de Vigila Mendes.
+text.t1=Vigila Mendes me contratou para proteger seu navio na viagem para #sFalaise de Fleur# em #sisland_Falaise de Fleur# e de volta para #sIsla Muelle# em #sisland_Isla Muelle#.
+text.t2=Chegamos a #sFalaise de Fleur# e Vigila vendeu sua carga.
+text.t3=No nosso retorno para #sIsla Muelle#, Vigila me deu meu salário. Ele me incentivou a navegar em seu navio como navegador, pois seu antigo navegador, Zaid Murro, havia se aposentado.
+text.t4=Infelizmente! Vigila Mendes foi morta. Não é um bom dia.

@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+"Quem é você? O que você está fazendo aqui? E respondam-me ou quebrarei suas cabeças!",
+"Monsenhor, perdoe-me, pois vou pecar.",
+"E qual será o seu pecado então?",
+"Vou forçar um padre a nos ajudar a escapar e a conseguir um navio. #sallez#, vá buscar algumas vestes para nós!",
+"Então vocês são aqueles piratas fugitivos? Ficarei honrado em ajudá-lo.",
+"Em primeiro lugar, não sou um pirata. Acabei de matar um homem num duelo e depois saí da prisão e depois disso matei alguns soldados espanhóis. Em segundo lugar, por que você nos ajudaria?",
+"Ok, mas você é um fugitivo. Quero te ajudar, porque eu, Deus me perdoe, odeio o governador e todos que estão sob seu comando direto. Homem corrupto. Agora espere aqui, vou pegar essas vestes para você.",
+"Vamos esperar, ah, e essas portas estão trancadas, não estão?",
+"Aqui estão eles. Agora, no porto está um galeão carregado de mercadorias. Não deve mais ser fortemente vigiado porque a maioria dos soldados está procurando por você. O navio foi contratado para enviar alguns sacerdotes para uma missão em #sisland_Hispaniola#. Então, com esse disfarce, você certamente terá acesso à embarcação.",
+"Obrigado, #sfather#. Temos que ir agora, obrigado por tudo.",
+"Espere! Me leve com você! Quero fugir desta maldita cidade. Além disso, se eu for com vocês, os guardas certamente acreditarão que vocês são os sacerdotes. Então o que você diz?",
+"Tudo bem, você pode se juntar a nós. Guia-nos #sfather#.",
+"Não, desculpe, não podemos usar um padre obeso, mas obrigado pelos disfarces.",
+"padre",
+"Pressa",
+"Aqui estão eles. Agora, no porto está um navio mercante carregado de mercadorias. Não deve mais ser fortemente vigiado porque a maioria dos soldados está procurando por você. O navio foi contratado para enviar alguns sacerdotes para uma missão em #sisland_Hispaniola#. Então, com esse disfarce, você certamente terá acesso à embarcação.",
+};

@@ -1,0 +1,6 @@
+title=Sexta recompensa de Woodes Rogers
+text.t1=Há mais uma pistola - a última (puh!). Rogers me convidou para tomar uma bebida no alojamento da tripulação.
+text.t2=Esse deveria ser o último então... Quem será 'Basilica Hands'?
+text.t3=Ah, não - quando finalmente consegui a última pistola, fiquei preso na prisão! Tenho que explorar a cela com cuidado.
+text.t4=
+text.t5=

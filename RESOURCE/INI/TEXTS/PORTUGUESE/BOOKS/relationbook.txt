@@ -1,0 +1,49 @@
+TEXT{
+
+Hostilidade no Mar:
+
+Fortes e navios no mar podem ser hostis a você por qualquer um dos seguintes motivos:
+- Eles são hostis à nação cuja bandeira você está hasteando
+- Eles são hostis com você pessoalmente e reconheceram que você ostentava uma bandeira 'falsa'
+- Eles se lembram de você sendo hostil em um encontro anterior
+- você abriu fogo deliberadamente contra Eles
+
+Atirar deliberadamente em navios amigos ou acertá-los acidentalmente reduz sua reputação.
+
+-----------------------------------------
+Falsas bandeiras:
+
+O uso de bandeiras falsas para obter uma vantagem tática antes da batalha, ou para entrar num porto inimigo sob cobertura, é perfeitamente legal. Você é obrigado a hastear sua bandeira verdadeira (ou pelo menos uma bandeira hostil ao alvo) antes de abrir fogo.
+
+Fortes e navios podem fazer com que você mude de bandeira se estiver dentro do alcance visual. Esteja avisado, os fortes podem ver um longo caminho. Se um forte o vir sob uma bandeira hostil, ele se lembrará e o reconhecerá. Portanto, se você pretende entrar em um porto hostil sob uma bandeira falsa, certifique-se de içar sua bandeira falsa bem longe da costa.
+
+Se você foi reconhecido, existem várias maneiras de evitar mais reconhecimento:
+- Faça as pazes com a nação, mesmo que apenas por tempo suficiente para realizar seus negócios no porto e partir com segurança.
+- Adquira um tipo diferente de navio. O forte lembra do seu navio, portanto se você não tiver mais um navio desse tipo, o forte não irá mais reconhecê-lo. (Não é suficiente repintar o navio, ou entregá-lo a um oficial subordinado. Se o forte avistar aquele navio, ou qualquer navio do mesmo tipo, em qualquer lugar da sua frota, você será reconhecido.)
+
+-----------------------------------------
+Atos irrespeitáveis:
+
+Dependendo da situação, você pode estar cometendo um ato irrespeitável ao capturar ou afundar qualquer navio não pirata. Os seguintes são considerados como tal pelas nações civilizadas do mundo e estão listados em ordem de gravidade:
+- você não tinha Carta de Marca ou comissão da Marinha e, portanto, nenhuma razão legal para o ataque
+- você estava hasteando uma bandeira pirata
+- você atacou uma nação com a qual era neutro ou amigo
+- você estava hasteando uma bandeira amigável ao navio que atacou
+
+Dependendo da gravidade de suas ações, você poderá ser reconhecido como um traidor em cidades não piratas. Para atos irrespeitáveis comuns, isso pode demorar um pouco. No entanto, grandes infracções são consideradas um ato de pirataria e afetam as suas relações com todas as nações.
+
+É sempre possível hastear outra bandeira na batalha, o que pode significar a diferença entre suas ações serem consideradas legais ou um grande ato de pirataria. Serve para ter cuidado principalmente ao ser reconhecido por hastear bandeira falsa.
+
+-----------------------------------------
+Relações Internacionais:
+
+Ganhar pontos com qualquer nação exige ingressar em suas fileiras como corsário ou oficial da marinha ou ingressar na Irmandade Pirata. Enquanto você servir uma única nação, suas próprias relações estarão ligadas a essa nação. Embora você possa ingressar em quantas nações desejar ao mesmo tempo, isso reduz os pontos que você ganha com suas ações.
+
+As nações do mundo opõem-se a quaisquer ações contra os seus aliados. Por isso é importante manter-se atualizado com as novidades da taberna. Isto pode tornar-se especialmente complicado se você servir várias nações ao mesmo tempo.
+
+-----------------------------------------
+Prisioneiros de guerra:
+
+Os oficiais da marinha e os corsários são obrigados a tratar os prisioneiros com respeito. Exigir um resgate pela sua libertação é aceitável. Executá-los não é. Se você adquirir o hábito de executar prisioneiros, poderá perder promoções e, em última análise, perder totalmente sua comissão. (No entanto, oficiais da Marinha e corsários não serão penalizados por enforcar piratas.)
+
+}

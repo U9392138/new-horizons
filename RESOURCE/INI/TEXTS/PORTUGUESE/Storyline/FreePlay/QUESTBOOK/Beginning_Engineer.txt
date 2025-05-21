@@ -1,0 +1,12 @@
+title=Uma nova invenção
+text.t1=A minha amiga Sakharine está em perigo real. Ele está escondido com sua nova invenção na Biblioteca Monástica de Cartagena.
+text.t2=A Biblioteca encontra-se no Claustro Novo. Vou encontrá-lo indo para a esquerda do porto. Siga em frente e passe pela Residência.
+text.t3=A porta azul da Biblioteca encontra-se no pátio interior do Claustro.
+text.t4=Fui avisado para não tentar roubar nenhum livro. Ou o Bibliotecário fica com raiva?
+text.t5=Será que aquele texto sem sentido no Mapa poderia significar: ou está sempre à Direita ou sempre à Esquerda? Mas mesmo que sim, por onde começar? Tenho que estudar o Mapa mais de perto!
+text.t6=Encontrei uma parte da invenção de Sakharine. Gostaria de saber quantas peças são?
+text.t7=Acho que tenho todas as peças, mas preciso de ferramentas para montar esta arma.
+text.t8=Tenho as ferramentas, mas ainda não tenho todas as partes da arma.
+text.t9=Acho que tenho todas as peças e as ferramentas. Vamos fazer alguma engenharia.
+text.t10=O novo rifle está completo, mas também preciso de munição.
+text.t11=O novo Rifle está completo e pronto para uso.

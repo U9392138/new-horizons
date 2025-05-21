@@ -1,0 +1,11 @@
+title=Armas
+text.t1=Fort Moultrie é o lugar certo.
+text.t2=Trarei um Musketoon. A chave do armário de armas deve estar em um dos potes.
+text.t3=Tenho o Musketoon.
+text.t4=O Tenente G está no Quartel.
+text.t5=Estou procurando um Sargento na Torre do Portão. Talvez ele troque um revólver comigo.
+text.t6=Para pegar o Revólver: passe pela Prisão. Bloqueie todas as células - mas em que ordem?
+text.t7=Sim. Tenho o revólver.
+text.t8=... e está carregado.
+text.t9=Minha pistola está no Ferreiro para reparos. Não tenho condições de pagar por isso no momento.
+text.t10=Esta pistola em seu estojo luxuoso com todos os equipamentos está muito além da minha velha pistola. Deixe o ferreiro ficar com ele.

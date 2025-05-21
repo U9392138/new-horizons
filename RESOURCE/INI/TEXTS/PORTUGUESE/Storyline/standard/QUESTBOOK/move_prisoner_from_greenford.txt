@@ -1,0 +1,4 @@
+title=Entregue um prisioneiro ao governador.
+text.t1=O governador me encarregou da missão de trazer para ele o prisioneiro detido na prisão de #sGreenford# em #sisland_Oxbay#.
+text.t2=Quando eu disse que queria ver o prisioneiro, o comandante me disse que ele havia fugido há várias horas. Eles estão procurando por ele, mas não há boas notícias até agora.
+text.t3=Quando cheguei a #sRedmond# em #sisland_Redmond#, disse ao governador que o prisioneiro havia fugido. Silehard não ficou nada satisfeito em ouvir isso.

@@ -1,0 +1,12 @@
+title=Yo Ho Ho e um carregamento de rum
+text.t1=Aqui estamos nós com um carregamento de rum, que precisamos entregar a um oficial de alta patente em #sisland_Falaise de Fleur# para o casamento de seu filho. Também precisamos explicar por que parte dela se âperdeuâ no caminho...
+text.t2=Preciso encontrar o oficial que pediu o rum. Dizem que ele visita sempre o governador a esta hora do dia.
+text.t3=Toni Haraldo me pediu para devolver seu livro de poesias de um guarda chamado Guzman. Mas primeiro preciso encontrar o chefe dos guardas Crespo.
+text.t4=Crespo diz que Guzmán está de plantão nos portões da selva.
+text.t5=O francês Guzman vendeu o livro para morar em uma casinha com três caixas perto da porta.
+text.t6=Tarde demais de novo! O francês vendeu o livro para um carpinteiro na doca de reparos...
+text.t7=...e o carpinteiro também deu. Bonto mora perto do poço na favela.
+text.t8=Bonto doou o livro para a igreja!
+text.t9=O padre disse que posso encontrar a viúva perto do poço perto da loja.
+text.t10=Agora preciso encontrar esse nadador na praia.
+text.t11=Acho que estamos de volta ao Haraldo então!

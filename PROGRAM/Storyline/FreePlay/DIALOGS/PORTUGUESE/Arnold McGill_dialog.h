@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+".....",
+".....",
+"O que é tudo isso, você está tentando roubar meu navio, seu cachorro?!",
+"Bem, esse é o plano, #syes#.",
+"Não no meu turno!",
+"Prepare-se para morrer!",
+"Há um navio contrabandista inglês atracado na Bahia de San Antonio. Com um pouco de sorte, a maior parte de sua tripulação ficará bêbada nas tavernas.",
+"Não há tempo a perder então! Vamos.",
+"Aí está, mon capitan, o 'cavalo-marinho'.",
+"Bom, a tripulação está pronta?",
+"Todos estão prontos.",
+"#sattack#!",
+"sim",
+"ataque",
+};

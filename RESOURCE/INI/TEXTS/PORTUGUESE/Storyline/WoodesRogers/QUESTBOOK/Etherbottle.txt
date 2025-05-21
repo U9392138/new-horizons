@@ -1,0 +1,4 @@
+title=Garrafa de éter
+text.t1=Tenho que encontrar este medicamento.
+text.t2=Pode ser encontrado no Opium Den.
+text.t3=Feito!

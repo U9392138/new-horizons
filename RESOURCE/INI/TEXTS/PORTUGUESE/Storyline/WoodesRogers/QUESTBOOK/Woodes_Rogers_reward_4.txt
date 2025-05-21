@@ -1,0 +1,6 @@
+title=Quarta recompensa de Woodes Rogers
+text.t1=A próxima pistola (puh!) está no quarto da mãe de Roger, acima da loja.
+text.t2=Ok, estou na loja agora. Onde devo usar o cadeado?
+text.t3=Sim, sim, sim, é uma pistola, claro. Este parece interessante, porém, fornecido com uma fechadura de percussão muito moderna. 'Eden N. Carolina', é um nome de família, uma plantação ou uma pequena cidade?
+text.t4=Acho que desta vez vou voltar à loja e procurar melhor a arma.
+text.t5=Agora a questão é qual caminho seguir para voltar ao labirinto dos quartos de Rogers?

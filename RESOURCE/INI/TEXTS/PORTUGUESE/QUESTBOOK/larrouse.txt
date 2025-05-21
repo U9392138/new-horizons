@@ -1,0 +1,17 @@
+title=Missão Secundária - O pirata francês na taverna.
+text.t1=Na taverna #sIsla Muelle# em #sisland_Isla Muelle# conheci um corsário que se recusou a falar comigo. Talvez eu possa falar com ela mais tarde?
+text.t2=Ela me ofereceu uma perspectiva que eu dificilmente poderia recusar - um monte de ouro. Mas Claire não me deu todos os detalhes.
+text.t3=Estamos na mina, mas o ouro já acabou. Que decepção. Tentaremos interceptá-lo entre #sGreenford# e #sOxbay#.
+text.t4=Estamos na mina, mas o ouro já acabou. Que decepção. Não tenho mais interesse neste esquema incompleto de Claire.
+text.t5=O cão traidor! Aquela canalha francesa me atacou quando percebeu que não iria mais perseguir o comboio com ela.
+text.t6=Quando eu matei Larousse, todos os meus problemas foram resolvidos - eu peguei o navio dela. Por outro lado, tive que lutar contra sua antiga tripulação. Mas esse é o infortúnio deles, não meu.
+text.t7=Talvez não seja uma má ideia perseguir este comboio. Temos uma chance de conseguir isso.
+text.t8=Conseguimos! Encontramos o comboio. Só falta confiscar o ouro....
+text.t9=Tanto infortúnio! Enquanto nos preparávamos para a batalha, o comboio chegou muito perto dos portões da cidade. Assim que chegaram ao alcance da guarnição da cidade, não tivemos chance de concretizar nosso plano. Que pena!
+text.t10=Temos o ouro! Tudo o que precisamos agora é entregar o ouro aos nossos navios. O plano mais simples é levar os navios até a baía mais próxima, enquanto o resto de nós se prepara para carregar o ouro.
+text.t11=Quando chegamos à baía encontramos forte oposição - #snation# soldados. Foi uma luta dura, perdemos quase todos os nossos homens, mas vencemos a batalha e estamos livres para partir com nosso navio carregado de ouro.
+text.t12=Larousse e eu não concordamos em como dividir esse ouro, então brigamos e eu tive que matá-la.
+text.t13=Então, nossa pequena aventura acabou. Compartilhamos nosso saque e Claire se ofereceu para navegar comigo daquele momento em diante. Mas não gosto muito dela e por isso recusei a oferta. Se eu mudar de ideia, vou encontrá-la na taverna #sIsla Muelle# em #sisland_Isla Muelle#.
+text.t14=Então, nossa pequena aventura acabou. Compartilhamos nosso saque e, quando Claire se ofereceu para navegar comigo daquele momento em diante, aceitei sua oferta.
+text.t15=Este empreendimento me ensinou uma lição valiosa: faça mais perguntas antes de concordar em se juntar a alguém. Apesar da morte de Claire, a tripulação de seu navio tinha estômago suficiente para lutar e eu tive que evitá-los para conseguir escapar. Mas pelo menos consegui o ouro como compensação pelos riscos envolvidos.
+text.t16=Quando matei Larousse, tudo que consegui foi uma lição valiosa - faça mais perguntas antes de concordar em se juntar a alguém em uma aventura. Sua tripulação continuou a lutar e eu tive que fugir de seu navio para escapar de mãos vazias.

@@ -1,0 +1,2 @@
+title=Missão madeira de Júpiter
+text.t1=Pegue madeira na casa de barcos.

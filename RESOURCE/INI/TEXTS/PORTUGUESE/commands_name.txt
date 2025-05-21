@@ -1,0 +1,117 @@
+
+sea_Cancel {Cancelar}
+sea_Moor {Atracar}
+sea_Port {Porto}
+sea_Fort {Forto}
+sea_Shore {Costa}
+sea_SailTo {Navegar para}
+sea_Board {Quadro}
+sea_LandTroops {Topas terrestres}
+sea_Map {Mapa}
+sea_Attack {Atacar}
+sea_Defend {Defender}
+sea_SailAway {Navegar para longe}
+sea_HeaveToDrift {Heave To Drift}
+sea_Transfer {Transferir}
+sea_Charge {Reload}
+sea_Speed {Velas}
+sea_CCommand {Dar Ordem}
+sea_Ability {Usar Habilidade}
+sea_ImmediateDeath {Destroy!}
+sea_HoistFlag {Hastear Bandeira}
+sea_EnterCabin {Cabine do Capitão}
+sea_EnterDeck {Convés}
+sea_EnterShip {Convés #sshipname#}
+sea_EnterSeadogs {Alojamento da tripulação}
+sea_EnterShipDeck {Convés do Navio}
+sea_EnterMainCannonsDeck {Convés Princial de Canhões}
+sea_EnterUpperCannonsDeck {Convés Superior de Canhões}
+sea_EnterLowerCannonsDeck {Convés Inferior de Canhões}
+sea_EnterHold {Porão de Carga}
+sea_EnterHold1 {1º Porão de Carga}
+sea_EnterHold2 {2º Porão de Carga}
+sea_LowerSails {Lower sails}
+sea_BattleSails {Battle sails}
+sea_FullSails {Velas cheias}
+sea_FCoHS_Hail {Hail Ship}
+sea_FCoHS_Contact {Visitar Navio}
+sea_KrakenAttack {Convocar Kraken}
+sea_SubmergeDutchman {Submergir/Emergir}
+sea_PearlSweeps {Run Out Sweeps}
+sea_QARSword {Speed Burst}
+sea_TritonAttack {Rigging Attack}
+sea_NeptuneTrident {Neptune's Trident}
+
+sea_EnglishFlag {England}
+sea_SpainFlag {Spain}
+sea_PortugalFlag {Portugal}
+sea_FranceFlag {France}
+sea_HollandFlag {Holland}
+sea_Flags {Flags}
+sea_Explosion {Explode!}
+
+land_ItemsDead {Loot Corpse}
+land_FastReload {Viagem Rápida}
+land_ItemsUse {UseItem}
+land_DialogStart {Falar}
+land_ItemsChange {Exchange}
+land_TakeItem {Pegue Item}
+land_PlaceItem {Place Item}
+land_OutDoor {Abrir}
+land_UseBox {Abrir}
+land_ActivateRush {Turbo}
+land_ExitDeck {Mar Aberto}
+land_Look {Look}
+land_Back {Voltar}
+land_EnterDeck {Convés}
+land_EnterShip {Convés do #sshipname#}
+land_EnterCabin {Cabine do Capitão}
+land_EnterSeadogs {Alojamento da Tripulação}
+land_EnterShipDeck {Convés do Navio}
+land_EnterMainCannonsDeck {Convés principal dos canhões}
+land_EnterUpperCannonsDeck {Convés Superior de Canhões}
+land_EnterLowerCannonsDeck {Convés Inferior de Canhões}
+land_EnterHold {Porão de Carga}
+land_EnterHold1 {1º Porão de Carga}
+land_EnterHold2 {2º Porão de Carga}
+land_UseCorpse {Saqueando cadáver}
+land_UseBarrel {Olhe dentro do barril}
+land_UseStorage {Paiol}
+land_GoToTeachHead {Blackbeard's head}
+
+go_store {Armazém}
+go_shipyard {Estaleiro}
+go_tavern {Taverna}
+go_residence {Prefeitura}
+go_port {Porto}
+go_shore {Costa}
+go_loanshark {Agiota}
+go_brothel {Bordel}
+go_church {Igreja}
+go_prison {Prisão}
+go_fort {Forte}
+go_tailorshop {Alfaateria}
+go_blacksmith {Ferreiro}
+go_shipdeck {Ship Deck}
+go_cabin {Cabine do Capitão}
+go_seadogs {Alojamento da Tripulação}
+go_maincannonsdeck {Convés principal de Canhões}
+go_uppercannonsdeck {Upper Cannons Deck}
+go_lowercannonsdeck {Lower Cannons Deck}
+go_hold {Porão de Carga}
+go_hold1 {1º Porão de Carga}
+go_hold2 {2º Porão de Carga}
+go_apothecary {Boticário}
+go_gunsmith {Gunsmith}
+go_gunblacksmith {Gun- and Blacksmith}
+go_opium {Opium Den}
+go_library {Biblioteca}
+go_maltese {Maltese Abbey}
+go_indianstore {Indian Store}
+go_tavern2 {Second Tavern}
+go_eitc {East India Trading Company}
+go_dwic {Dutch West India Company}
+go_cdc {Casa de Contratación}
+go_fwic {French West India Company}
+go_academy {Naval Academy}
+go_HQ {Naval HQ}

@@ -1,0 +1,11 @@
+title=Amuleto - A Igreja
+text.t1=Há uma capela no centro de Kristiania.
+text.t2=Há uma catedral em Nueva Suecia, a parte espanhola da cidade.
+text.t3=Um amuleto é vendido à Igreja.
+text.t4=O padre da Capela não comprou nada no leilão. Então..?
+text.t5=Ã algo escondido na Caixa de Coleção. O amuleto? Preciso de um pequeno gancho para alcançá-lo.
+text.t6=Há uma saída trancada do confessionário.
+text.t7=O padre tem um quarto numa taberna próxima.
+text.t8=Eu fiz um gancho. Agora vamos usá-lo.
+text.t9=Eu tenho o Amuleto. Espero que isso me traga sorte.
+text.t10=

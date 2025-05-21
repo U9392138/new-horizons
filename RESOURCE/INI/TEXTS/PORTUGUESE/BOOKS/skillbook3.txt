@@ -1,0 +1,3 @@
+TEXT	{
+O tiro redondo é usado por canhões navais e muitas vezes atinge muitas fileiras de tripulantes, causando múltiplas baixas. É como uma bola de boliche quicando, que não para após o impacto inicial, mas continua e rasga tudo em seu caminho. Ele pode quicar quando atinge o chão, atingindo os homens a cada salto.
+}

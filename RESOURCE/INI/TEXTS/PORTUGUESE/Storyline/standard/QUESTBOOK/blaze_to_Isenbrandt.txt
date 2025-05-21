@@ -1,0 +1,3 @@
+title=Entregue uma carta a um chefe pirata.
+text.t1=O Governador Silehard me encarregou de entregar uma carta a um certo Izenbrandt Jurksen que é chefe pirata. Nessa carta, o governador diz que recompensará quem conseguir encontrar e matar Rheims. Depois de completar a missão, terei que retornar para #sRedmond# em #sisland_Redmond# para pegar outra missão.
+text.t2=Não posso dizer que Jurksen me recebeu calorosamente. Mesmo assim, entreguei-lhe a carta. É interessante - Jurksen mencionou que o governador já utilizou seus serviços muitas vezes. Agora vou navegar de volta para #sRedmond# em #sisland_Redmond# e dizer ao governador que completei sua missão.

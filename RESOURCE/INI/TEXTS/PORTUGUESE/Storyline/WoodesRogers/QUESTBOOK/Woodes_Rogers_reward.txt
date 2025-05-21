@@ -1,0 +1,3 @@
+title=Recompensa Woodes Rogers
+text.t1=Há uma recompensa para mim no quarto do Governador. Seus quartos são um pouco 'espalhados'...
+text.t2=Woodes Rogers me deu uma pistola com o nome 'Johnson'. E....? Acho que vou voltar para Rogers.

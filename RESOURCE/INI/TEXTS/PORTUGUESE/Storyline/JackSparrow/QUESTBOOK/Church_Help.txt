@@ -1,0 +1,3 @@
+title=Ajude a igreja.
+text.t1=Padre Bernard é o chefe da igreja em #sRedmond# em #sisland_Redmond#. Ele me pediu para encontrar provas que provassem se o padre chamado Padre Jerald é culpado ou não. Ele mora na cidade de #sGreenford# em #sisland_Oxbay#, e as pessoas dizem que ele está cheio de pecados e que se esqueceu de Deus. Isso não deve demorar muito. Farei esta tarefa na esperança de ganhar a confiança do Padre Bernard. Vou verificar na taverna primeiro.
+text.t2=Simon Hanpool é taverneiro em #sGreenford# em #sisland_Oxbay#. Conversei com ele e ele não tinha ideia de que tais rumores circulavam sobre o padre Jerald. Segundo as suas palavras, o Padre Jerald é um bom padre e cumpre os seus deveres sem falta. A seguir, para falar com os padres.

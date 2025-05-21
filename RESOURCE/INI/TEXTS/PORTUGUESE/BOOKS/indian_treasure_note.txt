@@ -1,0 +1,4 @@
+TEXT	{
+Não se esqueça de enterrar as mercadorias que trouxemos aqui. Poderemos precisar deles posteriormente, mas não queremos que as pessoas os encontrem aqui.
+Há uma antiga abadia do lado de fora com muito espaço. Quando você concluir a tarefa, informe-me onde você a enterrou.
+}

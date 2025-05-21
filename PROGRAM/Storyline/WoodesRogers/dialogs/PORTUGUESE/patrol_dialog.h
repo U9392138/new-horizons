@@ -1,0 +1,26 @@
+string DLG_TEXT[23] = {
+"Andem logo! Limpem as ruas!",
+"...",
+"Ei, você aí! Você me parece suspeito. Quem diabos é você? Mostre-me seus documentos!",
+"Quem diabos é VOCÊ? Identifique-se e seja rápido!",
+"Alto! Nunca o vi antes, mas você tem cara de pirata! Pode provar que não é?",
+"Eu sou ",
+", e aqui está meu passe. Foi rápido o suficiente para o seu temperamento explosivo?",
+"Oh, sim, claro, senhor! Aqui, minha identificação está nesta bolsa, logo abaixo das 500 moedas de ouro. *PISCADA*",
+"Se não sumir imediatamente, vou mostrar como sou rápido... com minha lâmina!",
+"Não se atreva a se dirigir a um superior dessa maneira novamente, seu mercenário insolente! Você não me conhece? Sou o Inspetor Real dos Regimentos Caribenhos de Sua Majestade e acabei de chegar com o último navio para inspecionar nossas tropas aqui! Agora não me incomode mais, ou terá que explicar ao seu comandante por que perdi meu encontro com ele!",
+"Ah, sim, a imagem nas moedas o identifica como um homem que tem um coração para guardas mal pagos, hehe. Tudo bem, vou deixá-lo passar, mas só desta vez. E comporte-se!",
+"Claro! Quem você pensa que eu sou? Um desonesto? *PISCADA*",
+"Eu não confio em você! ALARME! ACENDAM A MILÍCIA!",
+"Boa tentativa, cara, mas não comigo! ALARME! Um espião! Aumentem o clamor!",
+"O que é isso? ALARME! Um pirata!",
+"Parece que minhas HABILIDADES foram insuficientes para ESSA abordagem. Ou foi só azar? Bem",
+"Espero que minha esgrima seja mais bem-sucedida do que minha encenação...",
+"Hum... err... Entendo. Desculpe por incomodá-lo, senhor. Adeus.",
+"Tudo bem, continuem, e uma vigília tranquila para vocês.",
+"Vocês não leram as placas de 'ENTRADA PROIBIDA' no portão? Esta é uma fortificação ultrassecreta do Exército, e apenas soldados da Brigada Costeira de elite podem entrar. Qualquer outra pessoa será considerada espiã! Especialmente certos capitães de navios corsários!",
+"Placa? Desculpe, não sei ler. E tenho um encontro urgente com o inspetor real... é, quero dizer, eu sou o inspetor e tenho...",
+"Alguma ordem, senhor?",
+"Nothing for now."
+
+};

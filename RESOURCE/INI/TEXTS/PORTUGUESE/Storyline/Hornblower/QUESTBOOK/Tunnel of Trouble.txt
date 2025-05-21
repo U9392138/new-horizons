@@ -1,0 +1,8 @@
+title=Túnel do problema.
+text.t1=Encontrei Hunter e ele sabe de um atalho para White Bay. Devemos ir para a casa perto da ponte.
+text.t2=Capturamos o grupo aquático do navio francês. Agora, vamos capturar o próprio navio.
+text.t3=O Tenente Quelp matou o contrabandista Larr. Agora devo procurar no outro túnel o acampamento pirata e a Academia.
+text.t4=Encontrei os túneis. Agora, voltemos ao Capitão Pellew.
+text.t5=Vamos pegar Quelp em seu próprio jogo. De volta à casa do contrabandista.
+text.t6=Matamos as tropas francesas. Agora devo levar o Major Wellesley para #sRedmond#.
+test.t7=Fomos atacados por tropas francesas de elite. Precisamos voltar ao Capitão Pellew e contar-lhe o que aconteceu.

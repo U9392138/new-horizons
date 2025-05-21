@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+"......",
+"......",
+"Sou Hans Delorme, o melhor contrabandista de #sisland_Curacao#. Posso encontrar qualquer coisa para você.",
+"Não estou procurando mercadorias no momento, mas vou mantê-lo em mente. Estou procurando alguém.",
+"Quem, talvez eu possa ajudar?",
+"Roche Brasiliano.",
+"Não trabalho para ele, mas sei que ele não está na aldeia no momento",
+"O que você quer dizer? Alguém em #sWillemstad# disse que mora aqui.",
+"Sim, mas ele saiu de #sisland_Curacao# há alguns dias por um tempo.",
+"Por que?",
+"Nenhuma idéia. Talvez ele quisesse atacar alguns navios. De qualquer forma, não quero saber. Desde a sua chegada, ele quase assumiu o controle da aldeia. Até as autoridades nos evitam agora.",
+"A casa dele é aquela guardada por dois homens, não é?",
+"Sim, guardado pelos seus homens dia e noite.",
+"Ele não pode ter apenas dois homens na aldeia?",
+"Não, há mais. Talvez uma dúzia ou mais. Claro que quando ele está na aldeia a sua tripulação está com ele, cerca de 350 homens.",
+"Muitos homens.. Obrigado Hans, tenho coisas para fazer agora.",
+};

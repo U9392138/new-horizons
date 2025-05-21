@@ -1,0 +1,108 @@
+
+itmname_key3		{Chave Grande}
+itmdescr_key3
+{
+Uma chave robusta para uma fechadura pesada.
+}
+
+itmname_key4		{Chave comum}
+itmdescr_key4
+{
+Uma chave fina para uma fechadura padrão.
+}
+
+itmname_SecurityLetter	{Carta ao Comandante da Prisão}
+itmdescr_SecurityLetter
+{
+Este documento ordena ao comandante que forneça tropas de segurança para um navio de pagamento que partirá de #sHavana#.
+}
+
+itmname_TainoRug	{Tapete Taíno}
+itmdescr_TainoRug
+{
+Tapete tecido, possivelmente muito antigo, possivelmente de origem Taino.
+}
+
+itmname_SignetRing	{Anel de sinete}
+itmdescr_SignetRing
+{
+Um anel de sinete que marca você como um agente de confiança da família Downing.
+}
+
+itmname_WeddingRing	{Anel de noivado}
+itmdescr_WeddingRing
+{
+Um anel precioso que significa que você é casado. As marcações são muito antigas e não estão em nenhum idioma conhecido.
+}
+
+itmname_jewelry7_q	{Anel de ouro}
+itmdescr_jewelry7_q
+{
+Um anel de ouro com uma bela esmeralda. Você o mantém seguro para uso como aliança de casamento.
+}
+
+itmname_jewelry10_q	{Anel Dourado Luxuoso}
+itmdescr_jewelry10_q
+{
+Um anel de ouro incrustado com finas safiras. Você o mantém seguro para uso como aliança de casamento.
+}
+
+itmname_ExplainLetter	{Carta ao Governador}
+itmdescr_ExplainLetter
+{
+Uma carta pessoal ao governador de #sSantiago#.
+}
+
+itmname_CourtingLetter	{Carta privada}
+itmdescr_CourtingLetter
+{
+Uma carta pessoal e confidencial com um selo elaborado.
+}
+
+itmname_BetrayedLetter	{Carta para você}
+itmdescr_BetrayedLetter
+{
+Para o Capitão Ardente. Como você é mais uma vez um inimigo da Espanha, eu parti. Não tente me encontrar. #romance#
+}
+
+itmname_PrisonPass	{Passe de prisão}
+itmdescr_PrisonPass
+{
+Um passe que permite visitar um prisioneiro.
+}
+
+itmname_FakePrisonPass	{Passe de prisão falso}
+itmdescr_FakePrisonPass
+{
+Um passe forjado que permite visitar um prisioneiro.
+}
+
+itmname_BattleOrders	{Ordens de Batalha}
+itmdescr_BattleOrders
+{
+Ordens roubadas do Almirantado #sPointe a Pitre# detalhando um ataque francês a #sRedmond#.
+}
+
+itmname_BattleOrders2	{Ordens de Batalha}
+itmdescr_BattleOrders2
+{
+Ordens roubadas do Almirantado #sPointe a Pitre# detalhando um ataque francês a #sSantiago#.
+}
+
+itmname_fake_fort_release	{Documentos de liberação falsificados}
+itmdescr_fake_fort_release
+{
+Documentos forjados liberando prisioneiros do forte #sPort au Prince# sob sua custódia.
+}
+
+itmname_medal1	{Cruz de Santa Isabel}
+itmdescr_medal1
+{
+Uma medalha concedida a você por trazer de volta ao seu governador os planos para a invasão de #sSantiago#.
+}
+
+itmname_AdmiralLetter	{Carta de Almirante Jusépe Guimarães}
+itmdescr_AdmiralLetter
+{
+Este documento do Almirante Jusepe Guimarães afirma que você está agindo em nome dele por razões de segurança do Estado.
+}

@@ -1,0 +1,9 @@
+title=title=O cerco de Oranjestad
+text.t1=text.t1=Os holandeses atacaram uma vila perto de Havana. Com Padilla e seus homens, nós os derrotamos. Porém, deve haver outros em Playa de Sabana. A costa fica à nossa direita quando saímos da aldeia.
+text.t2=text.t2=O Vice-Almirante e o Governador conceberam um plano ambicioso: Eles querem capturar Oranjestad! Para isso, tenho duas tarefas. A primeira é passar uma informação errada Ã s autoridades holandesas de #sisland_Douwesen#. Eles devem pensar que os espanhóis querem atacar #sDouwesen# em vez de Oranjestad para que transfiram a sua frota de Aruba para #sisland_Douwesen#. Já tenho uma ideia de como posso fazer isso. Vamos para #sisland_Douwesen#!
+text.t3=text.t3=Concluído! Tudo funcionou conforme planejado. Enganei meu ex-capitão, Berend de Voor. Agora posso ir a Aruba para minha segunda tarefa: recrutar uma tribo indígena para o cerco de Oranjestad. Eu sei que existe uma aldeia indígena perto de Oranjestad. Eu deveria falar com o chefe deles.
+text.t4=text.t4=Depois de uma primeira recusa, finalmente encontrei uma tribo interessada em nos ajudar mesmo que queira mais ouro para lutar com os espanhóis. Basta-me regressar a Havana e pedir novas tarefas ao vice-almirante Benavides.
+text.t5=text.t5=Tenho um mês para melhorar minhas habilidades enquanto o Vice-Almirante Benavides tem a confirmação de que o plano funcionou.
+text.t6=text.t6=Bem, a expedição começou e o Capitão Padilla é o líder. Chegando em Aruba, enquanto Padilla e suas tropas cercam Oranjestad tenho que ver o chefe índio e pagar o resto do ouro que ele pediu. Depois acompanharei seus guerreiros até a cidade holandesa.
+text.t7=text.t7=Que homem vil é Padilla! Ele deixou seus homens matarem civis. Informarei o vice-almirante destes crimes. Ele saberá como punir Padilla.
+text.t8=text.t8=Um mês não vejo o Vice-Almirante Benavides. Chegou a hora de perguntar-lhe se os holandeses movimentaram a sua frota.

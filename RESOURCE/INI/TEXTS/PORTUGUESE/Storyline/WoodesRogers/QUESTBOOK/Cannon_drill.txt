@@ -1,0 +1,6 @@
+title=Broca de canhão
+text.t1=O sino no tombadilho chama a tripulação do canhão.
+text.t2=Tenho que encontrar um Powderhorn para o pó de preparação.
+text.t3=Procurarei um manual de Cannon Drill no Quartel-General Militar. Fica perto das docas.
+text.t4=
+text.t5=

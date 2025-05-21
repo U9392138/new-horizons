@@ -1,0 +1,34 @@
+TEXT	{
+Teorema: Todos os números são iguais a zero.
+Prova: Suponha que a=b. Então
+a = b
+a^2 = ab
+a^2 - b^2 = ab - b^2
+(a + b)(a - b) = b(a - b)
+a + b = b
+a = 0
+Além disso, se a + b = b e a = b, então b + b = b e 2b = b, o que significa que 2 = 1 e seu brigue de dois mastros é na verdade um tartane de um mastro.
+-------------------------
+Jack Sparrow e seus dois tenentes passam uma noite na taverna Tortuga, onde são cobrados 10 ouro cada - 5 pela tarifa normal da taverna e 5 pela companhia noturna com a prostituta do bar. Ainda sai mais barato do que ir ao bordel, então Jack pega 10 moedas de ouro de cada tenente, outras 10 moedas do próprio bolso e depois entrega o total de 30 moedas. Na manhã seguinte, a moça do bar diz que esqueceu que há uma oferta especial para um quarteto, são apenas 25 moedas no total, e devolve 5 moedas para Jack. Jack coloca 1 moeda no bolso, dá 1 moeda para cada um de seus tenentes e depois devolve os outros 2 para a moça. Agora há dois problemas com esta história. Uma é que Jack Sparrow, tendo colocado as mãos em 5 moedas de ouro, não se separaria voluntariamente delas novamente. A outra é que cada homem já pagou um total de 9 moedas, que junto com as 2 moedas que Jack devolveu à moça perfazem um total de 29 moedas. Onde está a moeda de ouro que falta?
+-------------------------
+Barba Negra: "Pense em um número entre 1 e 10, mas não me diga qual é."
+Pirata 1: "Entendi."
+Barba Negra: "Seu número é 4."
+Pirata 1: "Não, na verdade são 6."
+Barba Negra: "Resposta errada." <BANG> "Pense em um número entre 1 e 10, mas não me diga qual é."
+Pirate 2: "Entendi"
+Barba Negra: "Seu número é 7."
+Pirata 2: "Eu estava pensando em 3, mas de repente estou pensando em 7."
+-------------------------
+Teorema: Todos os números são iguais.
+Prova: Escolha aeb arbitrários e seja t = a + b. Então
+a + b = t
+(a + b)(a - b) = t(a - b)
+a^2 - b^2 = ta - tb
+a^2 - ta = b^2 - tb
+a^2 - ta + (t^2)/4 = b^2 - tb + (t^2)/4
+(a - t/2)^2 = (b - t/2)^2
+a - t/2 = b - t/2
+a = b
+Portanto, todos os números são iguais e a matemática é inútil, o que significa que é hora de largar este livro e voltar ao comando antes de atingir a pedra que tem pela frente.
+}

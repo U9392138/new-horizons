@@ -1,0 +1,13 @@
+title=Carlos Ãden
+text.t1=Governador, sua gestão foi marcada pela prisão do pirata Edward Teach. Ãden ofereceu a Teach o perdão real.
+text.t2=Charles Eden foi governador em Grand Cayman. Ele também era dono de uma propriedade, mas onde exatamente naquela ilha? O novo governador saberia.
+text.t3=Talvez o mapa do Ãden esteja no escritório dele.
+text.t4=A saída para o Jardim fica atrás da cortina do Hall.
+text.t5=Eu tenho outro mapa! Aquele com quem Teach subornou o governador Charles Eden. Vou examiná-lo cuidadosamente.
+text.t6=A Sra. Pough tentará abrir algumas portas na propriedade para mim.
+text.t7=Israel Hands conhece um caminho para entrar no escritório através das adegas. Eu vou segui-lo.
+text.t8=Voltarei mais tarde quando tiver mais informações. Acho que é o Escritório que é importante. Talvez Teach tenha trazido alguns de seus oficiais aqui quando visitou o Governador Eden?
+text.t9=A porta do escritório fica no andar de cima. Mas é algo com elevador para abrir aquela porta.
+text.t10=O barril é muito pesado, mas há algo embaixo dele.
+text.t11=A letra K e uma porta marcada como Sandy Point estão lá. Mas em que ilha é isso?
+text.t12=Ã a ilha dos turcos!

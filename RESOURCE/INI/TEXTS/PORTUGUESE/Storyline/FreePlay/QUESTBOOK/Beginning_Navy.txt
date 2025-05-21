@@ -1,0 +1,2 @@
+title=#stown# Tarefa
+text.t1=Tendo servido nas Ãndias Ocidentais durante alguns anos, finalmente fui nomeado comandante do meu próprio navio com ordens de navegar em busca de prêmios. Isto me dá imensa liberdade - estou tão próximo do senhor do meu próprio destino quanto alguém poderia estar no serviço.

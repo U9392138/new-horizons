@@ -1,0 +1,23 @@
+string DLG_TEXT[20] = {
+"Quem é você e o que está fazendo aqui?! Fale agora, ou mandarei ",
+"Bucho",
+" arrastá-lo para rua pela orelha! ",
+"Estou aqui por você. Você está preparado para morrer?",
+"Assassino! Mas quem é, Miles? o cachorro ganancioso. Aposto que foi ele! Ou Jonson! Foi Silehard?",
+"Você fez tantos inimigos que nem consegue escolher um para culpar?",
+"Dançarei em todos os seus túmulos! Eu juro! Você ainda está aqui? Você valoriza tão pouco sua vida? Você não sabe quem eu sou?",
+"Eu sei que você é um falastrão e um chato. Para ser franco, você também não é o cara mais bonito.",
+"Como você ousa?! ",
+"Bucho",
+", jogue esse #sgender# na rua!",
+"Bucho",
+" não será de muita ajuda para você depois que eu atropelá-lo. Então você e eu podemos aproveitar nosso tempo.",
+"Por favor, tenha piedade! Eu te darei tudo o que você quiser - só não me mate!",
+"Toda a sua confiança arrogante desapareceu de repente? Aquilo foi rápido. Vou tentar fazer isso rápido também.",
+"Qualquer coisa? O que eu poderia querer de você senão dinheiro? Dê-me tudo o que você tem.",
+"Apenas vá. Mova-se! Antes que eu mude de ideia",
+"Isso é tudo que tenho: 5.000 peças de ouro. Pegue tudo e me deixe em paz!",
+"Certo. Corra agora, escória, e reze para nunca mais me ver.",
+"Perfeito. Mas agora, infelizmente, você não tem mais utilidade para mim. Prepare-se para morrer!",
+
+};

@@ -1,0 +1,14 @@
+title=Lores Piratas do mundo.
+text.t1=Ao chegar ao Caribe, vi meu pai. Ele é um dos nove Lordes Piratas.
+text.t2=Barbossa é o Lorde Pirata do Mar Cáspio. Será que ele conhece meu pai? Mesmo assim, parece que posso ter uma parte deste mapa do tesouro, muito interessante. .
+text.t3=Barbossa é o Lorde Pirata do Mar Cáspio. Será que ele conhece meu pai?
+text.t4=Encontrei meu pai depois de ajudar o Lorde Pirata, Sao Feng. Ele tinha ouvido falar de minhas aventuras e decidiu me dar seu pedaço de oito. Agora sou o Lorde Pirata do Caribe!
+text.t5=O Lorde Pirata do Mar da China Meridional, Sao Feng, quer que eu o ajude a encontrar seus guarda-costas.
+text.t6=O Lorde Pirata do Mar Negro, Ammand, o Corsário, quer que eu o ajude a conseguir algum dinheiro de um padre.
+text.t7=O Lorde Pirata do Mar MediterrÃ¢neo, Capitão Chevalle, quer que eu o ajude a encontrar seus tripulantes perdidos.
+text.t8=O Lorde Pirata do Mar Adriático, Eduardo Villanueva, quer que eu e o Capitão Chevalle nos juntemos a ele para encontrar um tesouro em #sisland_Battle Rocks#.
+text.t9=O Lorde Pirata do Oceano Ãndico, Sri Sumbhajee Angria (através de sua ajuda Askay), quer que eu o ajude a conseguir sua outra ajuda (Puasan) para afastar os traficantes de escravos.
+text.t10=Matei o Lorde Pirata do Oceano AtlÃ¢ntico, Cavalheiro Jocard, e dei seu pedaço de oito para Gombo, o Escravo, que mudou seu nome para Cavalheiro Jocard em homenagem à derrota de seu antigo mestre.
+text.t11=Matei o Lorde Pirata do Oceano AtlÃ¢ntico, Cavalheiro Jocard, e dei seu pedaço de oito ao Capitão Drow, um membro da Irmandade com quem tenho experiência.
+text.t12=Conheci o Lorde Pirata do Oceano AtlÃ¢ntico, Cavalheiro Jocard. Embora eu não ache que ele seja digno do título, não ousaria enfrentar um Lorde Pirata.
+text.t13=Matei o Lorde Pirata do Oceano AtlÃ¢ntico, Cavalheiro Jocard, e dei sua moeda a um de seus ex-escravos. Ele mudou seu nome para Cavalheiro Jocard em homenagem à derrota do antigo mestre.

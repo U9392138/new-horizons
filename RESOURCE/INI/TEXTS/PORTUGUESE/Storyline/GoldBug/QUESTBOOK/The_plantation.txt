@@ -1,0 +1,6 @@
+title=A plantação
+text.t1=A plantação Bessop fica na selva nos arredores de Charleston.
+text.t2=Pode haver alguns escravos da era Bessop. Tenho que entrar.
+text.t3=Subiremos primeiro a montanha para encontrar uma maneira de entrar.
+text.t4=Existem zonas seguras na Plantação como entre aqueles fardos, nos canaviais ou mesmo em algumas construções. Só posso SALVAR lá.
+text.t5=Tenho que ficar bem perto da Montanha para que os guardas não me vejam.

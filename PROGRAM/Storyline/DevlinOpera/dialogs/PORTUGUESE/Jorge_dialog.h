@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+"Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et sempre, et in saecula saeculorum. Amém.",
+"Jorge? Da 'Villa de Málaga'? Perdoe-me por interrompê-lo, mas seu primeiro oficial me mandou. Você deve voltar para o navio agora, a licença em terra acabou.",
+"Eu sei! Deixe-me terminar de adorar nosso grande Senhor antes de sairmos da cidade!",
+"Você não pode adorar o Senhor no mar?",
+"Normalmente eu lia minha Bíblia duas vezes por dia quando estávamos no mar, mas, infelizmente, parece que perdi o controle hoje à noite.",
+"Onde você viu sua Bíblia pela última vez?",
+"Deve ter sido na taberna.",
+"Tudo bem, vou buscá-lo para você.",
+"...",
+"Você encontrou minha Bíblia! Louve o Senhor!",
+"Elogie-me, você quer dizer... Mas agora volte para o navio!",
+"Claro! Adeus... E Aleluia!",
+"Aleluia para você!",
+}

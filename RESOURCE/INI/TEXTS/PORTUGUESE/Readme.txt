@@ -1,0 +1,1 @@
+A tradução do arquivo interface_strings.txt é baseada no arquivo fornecido por GR(2556 linhas) devido implantação do mapa do labirinto da cripta e difere muito do mesmo arquivo de BNH(2588 linhas). Desta forma por segurança mantive uma cópa traduzida do arquivo de BNH, pois não sei se funcionará adequadamente.

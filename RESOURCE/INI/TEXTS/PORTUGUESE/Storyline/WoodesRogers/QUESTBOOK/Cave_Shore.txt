@@ -1,0 +1,11 @@
+title=Aberto para Cave Shore
+text.t1=Vou procurar a porta que se abriu.
+text.t2=Tenho que tentar aquela alavanca no Navio mais uma vez!
+text.t3=Vou tentar o megafone na costa - talvez alguém possa me ouvir?
+text.t4=Desço até a costa e vejo se eles enviaram um barco.
+text.t5=O baú da Caverna Azul está preso embaixo do barco. Preciso de ajuda para levantar o Barco!
+text.t6=Posso equilibrar na borda do Mosquete?
+text.t7=
+text.t8=
+text.t9=
+text.t10=

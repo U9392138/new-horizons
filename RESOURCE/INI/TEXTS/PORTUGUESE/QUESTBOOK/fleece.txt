@@ -1,0 +1,7 @@
+title=Missão Secundária - Espoliando um Governador
+text.t1=Na taverna #sPhilipsburg# eu conheci um homem chamado Willem Voigt com um plano extremamente simples para roubar um governador.
+text.t2=O plano parecia estupidamente simples. Se ele quiser ser preso por estupidez, pode fazê-lo sem mim.
+text.t3=O plano pode ser simples, mas acho que se tivermos coragem, podemos realizá-lo. Nós nos disfarçamos de soldados, marchamos até a prefeitura de #sDouwesen#, fingimos prender o governador por fraude e confiscamos seu caixa como 'prova'.
+text.t4=Willem Voigt foi reconhecido como um vigarista regular e preso. Felizmente, ele confirmou minha história de que eu apenas o deixei reservar passagem no meu navio e não sou seu cúmplice, então os guardas me deixaram ir.
+text.t5=Willem Voigt foi morto quando tentamos sair de #sPhilipsburg# pelo portão terrestre.
+text.t6=Willem Voigt se recusou a me seguir pelo túnel para #sMarigot#.

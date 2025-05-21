@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"Ah, que bom que você conseguiu! (Blá, blá, blá) - Adorei os sapatos! (Blá, blá, blá) - Não é uma grande festa? (Blá, blá, blá) - Devíamos tomar chá juntos o mais rápido possível! (Blá, blá, blá) - Ah, meu vestido era tããão caro! (Blá blá blá)...",
+"...",
+"O que está acontecendo aqui?! Ernesto?! Quem é essa mulher?!",
+"Olá, meu nome é Bonnie! Por que você não se junta a nós para uma taça de vinho? Olá, olá.",
+"ERNESTO! No dia do nosso casamento? Seu desgraçado! DESGRAÇADO! E você, mulher! Sair! SAIR!",
+"O que você está planejando fazer com aquele batedor de tapete, senhora? Senhora...?! [PENSA:] Ela está histérica! Eu tenho que sair daqui! Rápido, a janela atrás de mim!",
+"Você está acordado? Como você está se sentindo? Não se mova! Aqui, tome um copo de água.",
+"Oooh, minha cabeça... Onde estou? O que aconteceu?",
+"Você está seguro na cidade! Alguém lhe deu uma surra muito forte em uma daquelas brigas estúpidas que meu sogro estúpido organiza. Você esteve inconsciente a noite toda. Que coisa terrível! Vou conversar com ele, ou pelo menos com meu querido marido.",
+"Eu gostaria de conversar pessoalmente com o senhor Haraldo... De preferência com as costas da mão ou com uma bala de pistola, claro.",
+"Por favor - não piore as coisas! Importante é que você se sinta melhor. Espero que você não tenha nenhuma concussão... Aqui, ele me pediu para te dar 20.000 reais pela sua entrega e mais 1.000 do dinheiro que eles ganharam com suas estúpidas apostas de luta!",
+"Obrigado, moça. Vou procurar um pouco de água então, ou melhor ainda, rum. É uma pena que você tenha sido levado pelo caminho.",
+"",
+}

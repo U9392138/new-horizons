@@ -1,0 +1,3 @@
+title=Encontrando #svillain#
+text.t1=#svillain# estava navegando perto de #sisland# em #spronoun# navio, o '#sship#'.
+text.t2=Um fim, finalmente. Derrotámos o '#sship#' e finalmente liquidámos o #svillain#.

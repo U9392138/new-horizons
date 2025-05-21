@@ -1,0 +1,11 @@
+title=Johnson
+text.t1=  ???
+text.t2=Johnson não é um membro da tripulação.
+text.t3='Capitão' Charles Johnson é um pseudônimo de Daniel Defoe.
+text.t4=Eu tenho o último mapa!
+text.t5=As letras A, N e um porto marcado como Bullen Bay estão lá. Mas em que ilha é isso?
+text.t6=Ã a ilha de Curaçao!
+text.t7=
+text.t8=
+text.t9=
+text.t10=

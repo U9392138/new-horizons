@@ -1,0 +1,4 @@
+title=Chegada em #sisland#
+text.t1=Depois de sobreviver a um ataque pirata, finalmente cheguei à #sisland#. Felizmente a carga do navio está intacta.
+text.t2=Depois de sobreviver a um ataque pirata, finalmente cheguei à #sisland#.
+text.t3=Tendo conseguido assumir o controle do navio do Capitão, que apodreça, chegamos Ã s #sQuebradas Costillas# em #sisland_Quebradas Costillas#, no lado oposto da ilha de #sCharlestown#. Estarei dispensando quem não quiser navegar comigo. Eu escolhi esse caminho, eles não. A maioria deles tem famílias em casa que desejam ver novamente e muitos ainda são leais à coroa, independentemente de como foram tratados. Sem levar em conta o gosto, eu acho...

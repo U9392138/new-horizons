@@ -1,0 +1,11 @@
+title=Torre do Barba Negra
+text.t1=A saída de Kristiania fica perto da única casa de alvenaria do centro da cidade.
+text.t2=Encontrei a torre do Barba Negra, mas onde fica a entrada?
+text.t3=Encontrei a torre do Barba Negra e a entrada é pela montanha.
+text.t4=Encontrei uma entrada secreta para a montanha, mas é necessária uma alavanca.
+text.t5=O leiloeiro deve saber quem comprou os itens que podem ter pertencido ao próprio Barba Negra.
+text.t6=Tenho todos os itens vendidos no leilão. Agora é hora de retornar à torre do Barba Negra.
+text.t7=Temos que navegar com o navio ao redor da ilha e procurar as cavernas do Barba Negra. O mau tempo está chegando, então temos que nos apressar.
+text.t8=O tesouro de Teach está em sua torre. Onde fica isso?
+text.t9=Estarei procurando uma cidade sueca 'Kristiania', em algum lugar do Caribe.
+text.t10=Para a Ilha Mona! Esperemos que a torre do Barba Negra esteja lá ou pelo menos a cidade sueca de Kristiania.

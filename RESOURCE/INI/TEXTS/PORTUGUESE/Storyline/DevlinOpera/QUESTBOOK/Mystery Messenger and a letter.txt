@@ -1,0 +1,3 @@
+title=Mensageiro Misterioso e uma carta
+text.t1=Quando desembarquei no porto, um estranho me deu uma carta do Capitão do Porto, mas estava com a letra do meu pai. Preciso ir ver esse Mestre do Porto.
+text.t2=Conheci meu tio, que não via desde criança. Ele me disse que tenho uma irmã gêmea e meu pai me enviou um mapa do tesouro.

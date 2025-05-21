@@ -1,0 +1,13 @@
+title=Medicamentos e instrumentos adicionais (opcional)
+text.t1=Acho que é um kit de cirurgia, mas trancado.
+text.t2=Folhas de remédio? Parece cÃ¢nhamo para mim.
+text.t3=Eu tenho um pote de sanguessugas. Também uma sacola - pode ser útil para mais itens medicinais.
+text.t4=Esta não é uma serra comum, mas uma ferramenta médica. Eles realmente usam isso no estaleiro?
+text.t5=Um monte de cartas antigas? Não, não, não - esta é uma coleção de receitas e conselhos médicos.
+text.t6=Rolos de pano velho reaproveitados como curativos.
+text.t7=Todos os medicamentos extras encontrados!
+text.t8=Quaisquer outros medicamentos ou itens médicos são de interesse! Charles Vane.
+text.t9=Tenho que revistar o quarto da vovó Rogers mais tarde.
+text.t10=O Ovo Frito pode ter algum remédio, mas onde ele está?
+text.t11=Talvez eu devesse dar uma olhada no estaleiro enquanto espero.
+text.t12=Tenho que falar com todos os familiares, amigos e oficiais de Rogers. Eles podem ter algo útil para a caixa de remédios!

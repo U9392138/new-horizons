@@ -1,0 +1,11 @@
+alarm_indicator_title
+{
+Indicador de alarme
+}
+
+alarm_indicator_info
+{
+O indicador de alarme fica no canto superior direito da tela e só pode ser visto em terra. Mostra como o jogador é tratado nesta cidade. Geralmente é azul, mas com o aumento da hostilidade contra você, parte dele ficará vermelho (da esquerda para a direita). Quando metade do indicador está vermelho, ele começa a pulsar. Isso significa que qualquer soldado que vir o jogador irá atacá-lo, e outras pessoas irão fugir do jogador, ou reportar sobre ele aos soldados, ou até mesmo atacar.
+     O indicador de alarme aumenta após qualquer ação hostil executada contra soldados ou cidadãos. Além disso, fica completamente vermelho quando alguém percebe você após iniciar um alarme e se a maior parte do indicador ainda estiver vermelho.
+     O alarme se acalma com o tempo, mas somente se ninguém vir o jogador ou seus oficiais até que o indicador fique pelo menos meio azul.
+}

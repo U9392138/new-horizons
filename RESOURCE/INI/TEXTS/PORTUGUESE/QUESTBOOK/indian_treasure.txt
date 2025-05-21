@@ -1,0 +1,9 @@
+title=Missão Secundária - O tesouro indiano
+text.t1=Enquanto observava os índios no armazém, ouvi-os falar sobre um tesouro que enterraram. Imagino o que poderia ser. Disseram que está enterrado atrás da Abadia #sGreenford#, perto do canto do muro.
+text.t2=Encontrei uma nota em um cadáver de índio sobre um tesouro escondido. Deveria estar enterrado em algum lugar próximo à abadia de #sGreenford#. Talvez eu possa encontrá-lo?
+text.t3=Falei com o comandante da prisão #sGreenford#. Ele disse que mencionaram algo sobre um tesouro enterrado em algum lugar da cidade quando foram capturados. O comandante não conseguiu obter mais informações deles. Talvez eu encontre algum dia.
+text.t4=Encontrei o tesouro indígena. Continha algumas poções muito interessantes.
+text.t5=O boticário #sGreenford# provavelmente pode me contar mais sobre essas poções.
+text.t6=Steven me disse que os nativos extraem essas poções de ervas especiais. Eles são muito raros e aumentam suas capacidades de combate, mas funcionam apenas por um período limitado de tempo. Devo usá-los apenas na área onde preciso, porque o efeito desaparece assim que você sai.
+text.t7=Enquanto observava os índios no armazém, ouvi-os falar sobre um tesouro que enterraram. Infelizmente, não consegui ouvir onde o enterraram.
+text.t8=Os guardas levaram todas as garrafas que eu tinha comigo. Talvez um dia eu encontre mais algumas.

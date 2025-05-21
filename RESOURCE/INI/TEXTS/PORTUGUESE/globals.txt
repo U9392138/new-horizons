@@ -1,0 +1,71 @@
+QUEST_MESSAGE1 {Missão Falhou. Danielle está morta! FIM DE JOGO.}
+QUEST_MESSAGE2 {O tempo para sua missão de entrega expirou.}
+QUEST_MESSAGE3 {Você se tornou velho demais para resistir à maldição do ouro asteca...}
+QUEST_MESSAGE4 {Você encontrou um tesouro de prata!}
+QUEST_MESSAGE5 {Nigel Blythe está atacando a corveta dos contrabandistas!}
+QUEST_MESSAGE6 {Nigel Blythe te abandonou!}
+QUEST_MESSAGE7 {Capitão, encontramos a Pérola Negra!}
+QUEST_MESSAGE8 {Bom trabalho, você matou seu professor!}
+QUEST_MESSAGE9 {Agora você está sozinho neste mundo cruel!}
+QUEST_MESSAGE10 {Para um pirata que não tem misericórdia no seu}
+QUEST_MESSAGE11 {coração maligno damos uma recompensa secreta!}
+QUEST_MESSAGE12 {Desculpe, você tem oficiais demais! Demita um ou mais dos seus oficiais e tente novamente!}
+
+Address_Form_Spa {Senhor}
+Address_Form_Fra {Monsieur}
+Address_Form_Eng {Sir}
+Address_Form_Por {Senhor}
+Address_Form_Hol {Mijnheer}
+
+Swear_1 {Quebre meu leme!}
+Swear_2 {Maldição!}
+Swear_3 {Oh céus!}
+Swear_4 {Droga!}
+Swear_5 {Afunde meu navio!}
+Swear_6 {Me derrube!}
+Swear_7 {Rasgue minhas velas!}
+Swear_8 {Arrgh!!!}
+Swear_9 {Oh paraíso!}
+Swear_10 {Diabos!}
+
+TimeGreeting {Bom dia}
+
+Rumour_1 {Nada de muito relevante aconteceu recentemente. Tudo tem sido bastante tranquilo. Me pergunto por quanto tempo continuará assim!}
+Rumour_2 {Ouvi dizer que um cemitério aborígene foi encontrado dentro da mina de Oxbay. Muitos ossos, louças, estacas e pratos de barro foram encontrados, mas nem um grão de ouro!}
+Rumour_3 {Ouvi dizer que o Governador de Redmond colocou um comerciante na prisão por causa de uma pequena briga de taverna. Dizem que ele ordenou a prisão apenas para poder confiscar os bens do comerciante.}
+Rumour_4 {Ouvi dizer que o Governador de Redmond colocou um comerciante na prisão por causa de uma pequena briga de taverna. Dizem que ele ordenou a prisão apenas para poder confiscar os bens do comerciante.}
+Rumour_5 {Ouvi dizer que o Governador de Redmond colocou um comerciante na prisão por causa de uma pequena briga de taverna. Dizem que ele ordenou a prisão apenas para poder confiscar os bens do comerciante.}
+Rumour_6 {Ouvi dizer que o Governador de Redmond colocou um comerciante na prisão por causa de uma pequena briga de taverna. Dizem que ele ordenou a prisão apenas para poder confiscar os bens do comerciante.}
+Rumour_7 {Ouvi dizer que o Governador de Redmond colocou um comerciante na prisão por causa de uma pequena briga de taverna. Dizem que ele ordenou a prisão apenas para poder confiscar os bens do comerciante.}
+
+Falaise De Fleur {Falaise De Fleur}
+Isla Muelle {Isla Muelle}
+Conceicao {Conceição}
+Conceição {Conceição}
+Douwesen {Douwesen}
+Redmond {Redmond}
+Oxbay {Oxbay}
+Greenford {Greenford}
+Grand Cayman {Grand Cayman}
+Santo Domingo {Santo Domingo}
+Port au Prince {Port au Prince}
+Pointe à Pitre {Pointe à Pitre}
+Pointe a Pitre {Pointe à Pitre}
+Havana {Havana}
+Marigot {Marigot}
+Philipsburg {Philipsburg}
+
+OFFIC_TYPE_BOATSWAIN {contramestre}
+OFFIC_TYPE_CANNONEER {canhoneiro}
+OFFIC_TYPE_QMASTER {quartel-mestre}
+OFFIC_TYPE_NAVIGATOR {navegador}
+OFFIC_TYPE_FIRSTMATE {primeiro imediato}
+OFFIC_TYPE_CARPENTER {carpinteiro}
+OFFIC_TYPE_DOCTOR {médico}
+OFFIC_TYPE_ABORDAGE {lutador de convés}
+
+DOUBLE_QUOTE {"}
+
+newline {
+
+}

@@ -1,0 +1,6 @@
+title=Alquimia â montando o Aparelho
+text.t1=Ã Caldeirão - Retorta - Topo - Tubo de vidro - Receptor nessa ordem.
+text.t2=O Caldeirão deve estar cheio de água!
+text.t3=Tudo que preciso está na despensa ou na cozinha.
+text.t4=Tenho que montar o Aparelho de Destilaria, acho que vai ser colocado naquele forno grande.
+text.t5=

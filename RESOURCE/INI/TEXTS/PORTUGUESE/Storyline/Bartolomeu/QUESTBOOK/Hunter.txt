@@ -1,0 +1,16 @@
+title=O caçador
+text.t1=O que o governador Barreto quer? Ã uma viagem rápida indo para #sisland_Conceicao# saindo de #sisland_Oxbay#. Não terei que esperar muito para saber.
+text.t2=Agora estou na guerra Luso-Espanhola. Preciso encontrar e matar o capitão espanhol Arturo Campos. Segundo o governador Barreto, ele está persegue Tortuga e San Salvador com um galeão chamado San Pablo.
+text.t3=Eu não vi Campos. Acho que ele deve estar na ilha porque o navio estava perto de White Reefs. Vamos lá.
+text.t4=Missão cumprida! O governador Barreto se vinga. Vamos dar-lhe a boa notícia.
+text.t5=Malditos mercenários espanhóis! Raptaram Emílio Soares. Leonardo Corrales, um espião em #sIsla Muelle#, é minha maneira única de encontrá-los. Ele mora em uma casa que dá para um quintal, perto da taberna.
+text.t6=Que pena... A situação piorou. Todos os meus amigos estão em perigo por causa desses mercenários. A primeira é a própria Roxanne Lalliere: devo avisá-la. Da última vez, ela disse que queria trabalhar para o Governador de #sFalaise de Fleur#. Vamos vê-lo!
+text.t7=Má sorte! Ela não está em #sisland_Falaise de Fleur# mas em missão na cidade inglesa de #sAlice# em Eleuthera. Espero vê-la lá.
+text.t8=O pior aconteceu. Roxanne foi sequestrada, tenho certeza, pelos mercenários. Ela deve estar em Puerto la Cruz. Para entrar na cidade, disfarcei-me de oficial espanhol e esperei anoitecer. Estou perto da cidade, as condições são perfeitas para tentar uma operação de resgate.
+text.t9=Tive que escalar os penhascos para evitar os guardas ao longo da estrada. No entanto, ainda tenho uma tarefa difícil a cumprir. Preciso encontrar e matar o capitão deste forte. Ele deve ter as chaves da prisão no uniforme.
+text.t10=Convenci Johan Elting a se juntar à minha tripulação. Saímos discretamente do forte. Infelizmente, encontramos Padilla e seus homens pouco depois na selva. Eles foram mortos em uma briga. Agora podemos ir para #sAlice#.
+text.t11=Próxima parada, Havana. Emilio está preso lá. Desembarcaremos primeiro na Bahia de San Antonio.
+text.t12=Depois de libertar Emilio, Elting matou o vice-almirante Benavides. Vamos para #sRedmond# decidir nosso futuro.
+text.t13=Roxanne voltou para #sFalaise de Fleur# e Elting decidiu começar uma nova vida em #sisland_Douwesen#. Estou motivado para novas aventuras. Por que não ir até Tortuga e procurar algumas expedições?
+text.t14=Roxanne voltou para #sFalaise de Fleur# mas estou motivada para novas aventuras. Por que não procurar expedições?
+text.t15=Depois de matar Johan Elting, saímos discretamente do forte. Infelizmente, encontramos Padilla e seus homens pouco depois na selva. Eles foram mortos em uma briga. Agora podemos ir para #sAlice#.

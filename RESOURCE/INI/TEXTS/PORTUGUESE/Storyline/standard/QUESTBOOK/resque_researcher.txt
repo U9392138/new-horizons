@@ -1,0 +1,9 @@
+title=Pesquisador de resgate
+text.t1=Quando saí da prisão de #sGreenford# em #sisland_Oxbay#, testemunhei um grupo de assassinos tentando queimar um velho. Uma mulher veio ter comigo e pediu-me que a ajudasse a salvar o velho porque os soldados recusaram-se a ajudar.
+text.t2=Quando saí da prisão de #sGreenford# em #sisland_Oxbay#, testemunhei um grupo de assassinos tentando queimar um velho. Uma mulher veio até mim e me pediu para ajudá-la a salvar o velho porque os soldados se recusaram a fazê-lo. Não sou louco o suficiente para lutar contra uma multidão para resgatar um velho idiota.
+text.t3=Que péssima sorte! Assim que aquela mulher de coração terno me deixou, essa escória inútil começou a me incomodar. Pedi a ele que me deixasse em paz e só queria ir embora, mas aquele vira-lata inútil me bateu.
+text.t4=Forcei a multidão barulhenta a se dispersar.
+text.t5=As pessoas são tão facilmente manipuladas. Só precisei de algumas moedas para convencer a multidão a ir à taberna e beber em vez de queimar o velho.
+text.t6=Ao conversar com os soldados percebi que eles não tinham intenção de ajudar o pobre velho. De qualquer forma, encontrei uma solução. Decidi distribuir algumas moedas e funcionou perfeitamente - a multidão se dispersou.
+text.t7=Ao conversar com os soldados percebi que eles não tinham intenção de ajudar o pobre velho. Mas consegui fazê-los mudar de ideia, persuadindo-os de que tal comportamento os desacreditava.
+text.t8=O velho que salvei revelou-se um sujeitinho peculiar. Se autodenomina um 'pesquisador'. Suponho que ele deva ser um daqueles 'filósofos naturais' - louco como uma lebre de março, sem dúvida. Quando ele descobriu que eu era capitão, imediatamente teve a ideia de realizar um experimento em meu navio. Para distraí-lo de tais ideias doentias, concordei em ir com ele à casa dele.

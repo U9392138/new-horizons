@@ -1,0 +1,23 @@
+string DLG_TEXT[20] = {
+"O senhor não deveria estar aqui. De jeito nenhum!",
+"Ah, desculpe. Sou apenas um marinheiro pobre e honesto.",
+"Muito bem, senhor...? Qual é o seu negócio?",
+"Capitão Howard Pyle, às suas ordens. Estou procurando uma Irmã Richards - ela mora aqui?",
+"Ela mora mesmo. O senhor a conhece? Uma parente, talvez? Seu nome me parece familiar de alguma forma...",
+"Digamos que eu conhecesse um parente dela.",
+"O pirata desonesto?",
+"Bem, é... sim.",
+"Talvez você também seja um pirata, Capitão.",
+"Posso ver a Irmã Richards?",
+"Acho que a Irmã Richards está na torre do sino.",
+"Obrigada, Irmã.",
+"A Abadessa tem um quarto privativo no andar de cima.",
+"Entendi.",
+"Você tem que procurar nas Criptas e na Capelinha os oito itens da Reverenda Madre.",
+"Entendo.",
+"Agora não, por favor, vá embora.",
+"Ah, desculpe, Irmã.",
+"Mas todas as portas estão trancadas!!!",
+"E as janelas?",
+
+};

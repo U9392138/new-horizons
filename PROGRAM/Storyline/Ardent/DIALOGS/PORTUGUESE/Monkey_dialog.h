@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+"Ok!",
+"Que macaquinho fofo!",
+"Eek!",
+"Ninguém te alimentou?",
+"Ook eek!",
+"Pare de me seguir!",
+"Eek, ok!",
+"Desaparece, macaco esquelético!",
+"Eek eek ook ook eek!",
+"Você só pode estar brincando! Vou ficar preso com uma multidão de vocês agora, todos gritando",
+"Eek ook ook EEEK!",
+"O que é isso? Você está em casa agora com seus amigos e eu finalmente me livrei de você?",
+"EEEK EEEK!",
+"Oh. Desculpe. É claro que eu não queria me livrar de você, mas é bom que você esteja onde deseja. Adeus, pequeno, er, 'amigo'.",
+}

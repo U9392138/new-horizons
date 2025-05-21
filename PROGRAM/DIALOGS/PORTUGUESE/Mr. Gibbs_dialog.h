@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+"*Dá a Bússola para Jack*",
+"Obrigado",
+"Como vai, capitão?",
+"Tudo bem, obrigado. Há algo que eu possa fazer por você?",
+"Talvez. Mas há algo que posso fazer por você. Aqui. Pegue isso. Talvez você possa encontrar alguma utilidade para isso.",
+"Obrigado. Agora, o que eu poderia fazer por você?",
+"Fiquei muito tempo sem navio. Você poderia, por favor, permitir que eu fosse seu contramestre?",
+"Sim por favor. Mas é melhor você ser bom",
+"Não, obrigado.",
+"Não se preocupe com isso. Sou tão experiente quanto você.",
+"Isso parece muito bom. Estou ansioso para ver você em ação.",
+"Pegue o que puder!",
+"Não devolva nada!",
+};

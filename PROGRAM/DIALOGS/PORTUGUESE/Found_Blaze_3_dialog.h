@@ -1,0 +1,20 @@
+string DLG_TEXT[17] = {
+"Capitão! É você! Mal posso acreditar no que vejo!",
+"Acredite neles, meu amigo!",
+"Achei que nunca mais veria você vivo ",
+"! Mas olhe para você! Você não está apenas vivo, parece que passou um mês em Londres!",
+"Homens...",
+"...É um milagre você ter sobrevivido! Deus está com você, capitão, e não se engane!",
+"Ah, duvido disso!",
+"O demônio do mar, então! Ouvi dizer que ele favorece os marinheiros ousados e os protege do desastre!",
+"Você trocaria uma história fantástica por outra!",
+"Não é uma história complicada, capitão! Jovannie Speckled do brigue 'Ardent' disse que viu o próprio demônio do mar!",
+"Ele viu o diabo? Depois de quantas garrafas de rum?",
+"Ele jurou que nunca tocou numa gota, capitão...",
+"Esperem por mim aqui, companheiros!",
+"Estaremos aqui. Se algo acontecer, volte correndo para nós e nós cobriremos sua fuga!",
+"Eu confio que você vai. Mas não se mostre tão cedo",
+"Vamos levá-lo para o navio, capitão. Estou feliz que tudo tenha terminado tão bem.",
+"Tem? Ir. Vá, meu amigo, e logo te seguirei.",
+
+};

@@ -1,0 +1,3 @@
+title=Tutorial - O Conselho do Velho Capitão
+text.t1=Encontrei um oficial em uma taverna e quando tentei contratá-lo um velho capitão se aproximou de mim. Ele me disse que os policiais não são mais o que costumavam ser. Hoje em dia todos os oficiais são especializados em diferentes aspectos. Ele se ofereceu para me aprender mais sobre esses diferentes tipos de oficiais. Eu deveria ir para #sOranjestad# e encontrá-lo lá antes de 3 meses.
+text.t2=Por enquanto o capitão não pode me ensinar nada. Devo tentar novamente após uma nova atualização.

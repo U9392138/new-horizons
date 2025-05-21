@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+"Ah, meu querido ",
+"! Finalmente conheço pessoalmente o herói de quem ouvi falar tantas vezes! Apenas os contos mais favoráveis, é claro. A notícia de seus feitos heróicos chegou aos círculos mais altos da corte de ",
+", que ficaram tão impressionados com seu caráter que até mesmo ",
+" expressou seu desejo de superar os... err... pequenos mal-entendidos que... err... lançaram uma sombra sobre o relacionamento entre ",
+" e você. Então, vamos esquecer o passado e navegar para um futuro brilhante em comum. Se você estiver disposto a lutar por nossa orgulhosa - e generosa - nação, nós lhe concederemos uma anistia e uma Carta Real de Marquee. E em consideração à sua liderança e HABILIDADES de luta, nós até lhe oferecemos uma quantia de ",
+" ouro!",
+"O quê? Você acha que pode me comprar? Quem você pensa que eu sou? Eu não preciso do seu dinheiro sujo de suborno, eu desprezo essas quantias insignificantes. Aqui, pegue ",
+" moedas de ouro de MIM, leve-as para Vossa Majestade e diga a ele para enfiá-las no seu traseiro real. Tenho certeza de que você encontrará uma maneira diplomática de fazer isso, hein? E agora saia da minha frente!",
+"O quê? Você acha que pode me comprar? Quem você acha que eu sou? Um traidor? Um pistoleiro de aluguel? Bem, você veio ao lugar certo ",
+" então. Muito obrigado pelo dinheiro e cumprimentos a ",
+". Diga a ele que afundarei alguns navios especialmente para ele. Adeus.",
+"Umm, temo que meu atual emprego... err... minha amada pátria, quero dizer, não ficará feliz se eu mudar de lado. E não posso me dar ao luxo de ter ",
+" como inimigo. E tenho que pensar na minha reputação também. Então, nada de acordo hoje, desculpe.",
+};

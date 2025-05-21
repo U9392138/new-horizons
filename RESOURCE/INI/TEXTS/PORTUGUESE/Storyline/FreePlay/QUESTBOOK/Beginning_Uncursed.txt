@@ -1,0 +1,2 @@
+title=Uma maldição foi levantada
+text.t1=Davy Jones está morto e #sshipname# aparece como era antes de ser amaldiçoado. Por quanto tempo posso evitar ter que cumprir o dever associado a este navio sem cair na mesma maldição?

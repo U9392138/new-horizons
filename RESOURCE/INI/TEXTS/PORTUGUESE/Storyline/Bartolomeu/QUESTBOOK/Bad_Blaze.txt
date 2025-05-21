@@ -1,0 +1,10 @@
+title=Um pirata famoso
+text.t1=A partir de agora, trabalho para o Governador Português. Minha primeira tarefa será ir para #sisland_Oxbay# para encontrar uma pista sobre esse pirata. Seu navio havia sido danificado, ele precisaria da ajuda de um estaleiro. Vou começar minha busca no #sOxbay#.
+text.t2=Parece que ele não foi por aqui. Esperemos que terei mais sorte no estaleiro #sGreenford#.
+text.t3=Encontrei! Ele consertou o navio em Bridgetown. Eu sei o nome dele agora, mas não onde ele mora. No entanto, ele teria conhecido François L'Ollonais e este pirata francês vive em #sTortuga#. Vamos lá ver se consigo encontrá-lo ou alguém que o conheça.
+text.t4=Isso foi perigoso, mas encontrei mais algumas pistas. Charles trabalhou para o chefe pirata de #sisland_Turks#. Eu deveria conhecer esse homem e ver se ele sabe onde Charles mora.
+text.t5=Que má sorte! O chefe pirata recusou-se a me ajudar. Preciso pensar um pouco, uma cachaça na taberna sempre ajuda. Muitas boas ideias surgem com uma gota de rum.
+text.t6=Finalmente, sei onde posso encontrar Charles: em #sCharlestown#. Preciso navegar com a maré. Esperemos que este Charles não tenha mudado a sua base novamente.
+text.t7=Depois de algumas dificuldades, encontrei Charles em sua casa. Meu plano para sequestrá-lo funcionou, embora eu pudesse ter morrido sob as balas de canhão. Agora só falta levar Charles até o Porto do Povoado Pirata e depois seguir para #sisland_Conceicao#.
+text.t8=A recepção na #sisland_Conceicao# foi calorosa. O governador ficou aliviado com a prisão de Charles. Ele me pagou e até me deu uma linda espada. Ele também me recompensou com uma carga de mercadorias. Eu deveria ir para Boca de Hubon para vender os produtos para Eugene Martin no Acampamento dos Bucaneiros.
+text.t9=Filho do porco-do-mato - Rivera! Ele roubou meu navio em Boca de Hubon quando eu conversava com Eugene. Felizmente, Eugene gentilmente se ofereceu para me emprestar um ketch, agora eu deveria encontrar e capturar um navio premiado. Navegue para #sisland_Isla Muelle#, sempre há alguns galeões fora da ilha.

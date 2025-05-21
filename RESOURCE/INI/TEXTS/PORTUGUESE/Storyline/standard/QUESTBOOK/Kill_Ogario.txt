@@ -1,0 +1,5 @@
+title=Mate Sidônio Ogarrio.
+text.t1=Wilfred Bythesea me deu a missão de matar uma pessoa chamada Sidonio Ogarrio que mora em #sIsla Muelle# em #sisland_Isla Muelle#. A casa dele fica na praça atrás da taverna.
+text.t2=Ao chegar a #sIsla Muelle# na #sisland_Isla Muelle# realizei uma simples tarefa de eliminar Sidonio Ogarrio, apesar dos esforços de seus guarda-costas.
+text.t3=Eu não poderia me dar ao trabalho de matar Sidônio Ogarrio.
+text.t4=Contei a Wilfred Bythesea sobre a morte de Sidônio Ogarrio. Ele parecia muito aliviado.

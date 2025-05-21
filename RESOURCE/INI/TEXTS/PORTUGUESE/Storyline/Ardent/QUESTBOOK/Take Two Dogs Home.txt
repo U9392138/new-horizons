@@ -1,0 +1,7 @@
+title=Leve dois cachorros para casa
+text.t1=Em troca de Dois Cães nos levar ao campo de escravos onde a tripulação está mantida, concordei em levá-lo para casa.
+text.t2=Dois Cachorros está morto.
+text.t3=Eu não preciso mais do Two Dogs, então disse a ele para ir embora.
+text.t4=Two Dogs me ajudou a encontrar e resgatar minha tripulação, então vou levá-lo para sua casa em #sisland_Isla Mona#.
+text.t5=Two Dogs está em segurança em casa com seu pai. Prometi não contar a ninguém o segredo do seu nome e fiz com que os meus oficiais prometessem o mesmo.
+text.t6=Two Dogs not-Fighting está em segurança em casa com seu pai. Prometi que não contaria a ninguém, mas isso deveria valer algumas bebidas grátis na próxima taverna!

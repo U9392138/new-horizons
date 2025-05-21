@@ -1,0 +1,29 @@
+itmname_Map_Doc_1 {Pacote de Documentos}
+itmdescr_Map_Doc_1
+{
+Um quarto de um mapa antigo do tesouro de Cortez que mostra parte de uma ilha, mas não onde ela está.
+}
+
+itmname_Map_Doc_2 {Pacote de Documentos}
+itmdescr_Map_Doc_2
+{
+Um quarto de um mapa antigo para o tesouro de Cortez que se junta a outro segmento do mapa.
+}
+
+itmname_Map_Doc_3 {Pacote de Documentos}
+itmdescr_Map_Doc_3
+{
+Um quarto de um mapa antigo do tesouro de Cortez mostra mais da ilha e parte de uma trilha para o interior.
+}
+
+itmname_Map_Doc_4 {Pacote de Documentos}
+itmdescr_Map_Doc_4
+{
+Um quarto de um mapa antigo que mostra o resto do caminho interior até ao tesouro de Cortez, livros sobre correntes e ventos, mas faltam as coordenadas da ilha.
+}
+
+itmname_small_chestJS {Baú Pequeno}
+itmdescr_small_chestJS
+{
+Os documentos deste baú provam que o navio que naufragou na Baie d'Orient era de facto a fragata francesa 'La Foudre'. Diz: 'O navio está afundando. Estamos sendo arrastados para baixo. Agora nunca encontraremos a senhorita Le Moigne. Meu governador ficará muito desapontado. - Capitão Fabion le George.
+}

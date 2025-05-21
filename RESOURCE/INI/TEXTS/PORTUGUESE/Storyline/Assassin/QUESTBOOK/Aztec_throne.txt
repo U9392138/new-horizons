@@ -1,0 +1,12 @@
+title=O tesouro asteca
+text.t1=Eu estava certo em ver Morgan. Ele me disse que os espanhóis encontraram um valioso tesouro asteca perto de Vera Cruz. Eu concordei em trabalhar para ele. Terei a oportunidade de rever Bartolomeu. (Dica: Acesse #sisland_Khael Roa# para recarregar em Vera Cruz)
+text.t2=Caramba! Parece que a Frota Prateada já está aqui. Outra má notícia, o navio Bartolomeu não está no porto. No entanto, espero vê-lo na cidade.
+text.t3=Perdemos a Frota durante uma tempestade. Bartolomeu acha que ela deve ir para Havana. Vamos para Cuba!
+text.t4=Vi a Frota entrando no porto de Havana. Preciso informar Morgan e o Governador. Próxima parada: #sRedmond#.
+text.t5=Preocupado com a notícia, Morgan decidiu que deveríamos ir imediatamente para Cuba. Lá, ele me dará novas instruções.
+text.t6=Uma nova tarefa para mim e para o Bartolomeu. Devemos saber onde está guardado o tesouro e quantos dias ficará em Cuba. O Capitão Damski pode ser o nosso informante. Sei que ele mora numa casa entre as portas do porto e a Igreja de Havana.
+text.t7=Antes de destruir os canhões, devo matar todos os guardas sem ser detectado. Vamos fazê-lo!
+text.t8=Todos os guardas estão mortos. Agora posso sabotar os canhões. Vou começar por aquele perto do local onde comecei a missão. Depois de destruir os canhões, terminarei meu trabalho com o bastião. (Dica: as bombas serão lançadas automaticamente quando você andar atrás dos canhões e do bastião)
+text.t9=Conseguimos! Roubamos um tesouro fabuloso num dos melhores fortes espanhóis. Graças a esta façanha, entramos na lenda dos piratas. Sem dúvida, o Governador de #sRedmond# irá nos parabenizar.
+text.t10=Esta expedição foi muito lucrativa. Ganhei 150.000 moedas de ouro e ganharei muito mais quando o trono for vendido. Agora, volto para #sDouwesen# para descansar como Morgan e Bartolomeu também estão pensando em fazer. Talvez no futuro volte a ver Bartolomeu.
+text.t11=Caramba! Fui detectado pelos soldados. Eles deram o alarme e tive que fugir antes que as tropas espanholas me atacassem. Não sei o que aconteceu com Bartolomeu e Morgan. Mas tenho certeza que não terei uma nova oportunidade de roubar o tesouro asteca!

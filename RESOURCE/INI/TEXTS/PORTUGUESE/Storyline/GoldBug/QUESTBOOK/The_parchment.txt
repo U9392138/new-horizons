@@ -1,0 +1,11 @@
+title=O pergaminho
+text.t1=Encontrei um pergaminho sujo na praia. Perto do casco do longo barco de um navio.
+text.t2=Meu desenho do Escaravelho Dourado no pergaminho sujo.
+text.t3=Meu desenho do Escaravelho Dourado, mas do outro lado agora tem uma Caveira!
+text.t4=Mais calor e agora junto com a Caveira aparece uma Cabra!
+text.t5=Ã o calor que revela os segredos deste documento!
+text.t6=Vou tentar enxaguar o pergaminho com água quente!
+text.t7=Existem algumas figuras dispostas em linhas! Parece parte de um texto.
+text.t8=Sim Sim Sim. Eu sabia que havia mais. Muitos personagens são rudemente traçados entre a Caveira e a Cabra!
+text.t9=O pergaminho está limpo, mas talvez eu deva tentar aquecê-lo novamente?
+text.t10=

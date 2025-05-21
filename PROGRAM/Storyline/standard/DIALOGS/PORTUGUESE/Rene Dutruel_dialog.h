@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"Não tenho nada para discutir com você.",
+"...",
+"Quem é você e qual é o seu negócio?",
+"Estou interessado em uma certa lenda. Disseram-me que você sabe algo sobre isso.",
+"Acho que era você quem estava farejando informações sobre o tesouro.",
+"Dá-me estes comprimidos, seu canalha!",
+"Você precisa muito disso?",
+"Sim eu faço.",
+"Você quer dizer o texto daquelas antigas tábuas de pedra?",
+"Estou feliz que você me entenda. E se você me der esses comprimidos, deixo você viver. Desta vez...",
+"Espere! Aqui, pegue os malditos comprimidos... apenas mantenha esse seu sabre longe de mim!",
+"Claro.",
+"",
+};

@@ -1,0 +1,11 @@
+title=Navio de folha de pagamento
+text.t1=O comandante da prisão de #sHavana# recebeu uma carta pedindo-lhe que fornecesse tropas de segurança para um navio que transportava uma folha de pagamento de #sHavana# para #sSantiago#. Precisarei descobrir mais sobre este navio se quiser me ajudar com aquela folha de pagamento...
+text.t2=Agora vamos para a taverna. Se o capitão do navio responsável pela folha de pagamento estiver lá, talvez ele me conte se achar que sou um dos soldados de segurança do comandante.
+text.t3=Agora vamos para a taverna. Se o capitão do navio de pagamento estiver lá, talvez ele ceda aos meus ardis femininos.
+text.t4=O navio é o 'Siroco'. Ela embarca para #sSantiago# em duas semanas. Então é esse o tempo que tenho para chegar a #sSantiago# e encontrar um navio adequado para atacá-la.
+text.t5=Playa de Sierra Maestra fica perto de #sSantiago# então de lá eu devo ser capaz de interceptar o 'Siroco' qualquer que seja a rota que ele tome em torno de #sisland_Cuba#.
+text.t6=Temos um belo brigue. Mas se o navio da folha de pagamento tiver uma força de segurança a bordo, é melhor eu trazer a tripulação do meu próprio navio com força total. #sRedmond# não está muito longe, talvez possamos conseguir alguns recrutas lá.
+text.t7=O 'Siroco' provavelmente já partiu. É melhor navegarmos até Playa de Sierra Maestra e ficarmos de olho nela.
+text.t8=Tarde demais. O navio da folha de pagamento, sem dúvida, já estará em segurança no porto de #ssantiago#.
+text.t9=Nós conseguimos! O 'Siroco' está tomado e a folha de pagamento também. Estamos de volta ao negócio! Mas o forte #sSantiago# reconhecerá este navio, então se eu quiser voltar para #sSantiago# então é melhor atracar na Bahia de Moa e entrar. Ou pegar um navio diferente.
+text.t10=O 'Siroco' provavelmente já partiu. Eu realmente preciso de um mapa das águas de #sisland_Cuba#. A loja em #sSantiago# deve ter uma; se ele não vender para mim, eu conseguirei de outra forma.

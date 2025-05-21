@@ -1,0 +1,7 @@
+title=Saia da prisão.
+text.t1=Os soldados me colocaram na prisão. Não sei onde está minha arma e provavelmente se esqueceram de informar ao governador que estou aqui. O que devo fazer?
+text.t2=O carcereiro chamado Edgar Attwood me deixou sair da cela da prisão em troca da minha concordância em levá-lo a bordo do meu navio como artilheiro.
+text.t3=O carcereiro chamado Edgar Attwood disse que era um bom artilheiro, mas foi demitido por beber muito. Ofereci-lhe uma vaga como artilheiro no meu navio... mas apenas se ele me deixasse sair da cela da prisão. Ele apenas riu.
+text.t4=Não gosto quando as pessoas zombam de mim. Edgar disse que eu andaria de muletas se continuasse interrompendo-o enquanto ele me contava a história de sua vida. Fiquei cansado de suas ameaças e atirei nele.
+text.t5=Agora tenho que sair deste cofre úmido que eles chamam de prisão. Edgar mencionou que há vários guardas vigiando. Vou ter que matar todos eles. Essa é a única maneira de recuperar minha liberdade.
+text.t6=O próprio Governador Silehard veio à prisão. Disse que tinha sido um erro terrível eu ter sido encarcerado e apresentou-me as suas mais sinceras desculpas. Depois, convidou-me a segui-lo até ao seu gabinete para uma conversa séria.

@@ -1,0 +1,7 @@
+title=Missão Secundária - Salvando a filha de #sToff#.
+text.t1=#sToffOremans# me contou que sua garota foi sequestrada por um pirata espanhol a serviço do governador de #sDouwesen#. Acho que deveria lidar com esse problema e ajudar essa garota a voltar para casa.
+text.t2=O governador me orientou a investigar este caso, e se minha investigação for bem sucedida, ele me pagará dinheiro.
+text.t3=Esse espanhol foi imperdoavelmente rude comigo. Então eu matei ele e seu oficial. A garota está salva.
+text.t4=Esse espanhol foi imperdoavelmente rude comigo. Mas quando seus homens perceberam que eu estava aqui por ordem do governador, mataram o capitão e partiram.
+text.t5=O governador me pagou uma recompensa - nada de importante, é claro.
+text.t6=Tenho o sabre de Nicolas Sharp! #sToffOremans#, pai da garota que salvei, me deu, e algo nessa arma me faz pensar que ela realmente pertencia ao lendário pirata.

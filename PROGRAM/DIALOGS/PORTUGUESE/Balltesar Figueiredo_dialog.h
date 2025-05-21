@@ -1,0 +1,20 @@
+string DLG_TEXT[17] = {
+"Você! Saia daqui!",
+"...",
+"Bem, olha quem é! Talvez você compre uma bebida para o melhor navegador deste arquipélago imundo? Ou, pelo menos, não o pior!",
+"Desculpe. Não acredito que já nos tenhamos conhecido.",
+"Melhor ainda! Celebraremos nossa nova amizade!",
+"Estou mais interessado em informações no momento. Eu me pergunto se o seu navio já cruzou com um navio de guerra preto com velas vermelhas.",
+"Fico feliz em responder a perguntas até que as estações mudem - desde que tenha uma caneca de rum diante de mim.",
+"Aqui está o seu rum. Vamos ver se isso solta sua língua.",
+"Que tal se eu te der uns tapas até você ficar tonto? O que acha disso?",
+"Ahhh. Bom rum!",
+"Você não respondeu minha pergunta.",
+"Pergunta? Ah, o navio de guerra negro! Sim. Eu vi isso tão claramente quanto vejo você agora. Se nossos porões não estivessem vazios, duvido que estaria aqui para falar com você. Felizmente para mim e meus camaradas, os porões do navio não deviam estar cheios e conseguimos escapar. \nNome estranho, pelo que me lembro. Nenhum que eu tivesse ouvido antes. 'Mefisto.'",
+"Então, o navio negro o perseguiu? E para onde foi quando ficou claro que não poderia alcançar o seu navio?",
+"Quem sabe? Quando decidiram desistir de nos perseguir, parecia que se dirigiam para o Norte. Eles eram definitivamente piratas, então aposto que planejam desembarcar no assentamento pirata em #sisland_Quebradas Costillas#.",
+"Obrigado. Aproveite o seu rum.",
+"Sim. Isso também pode funcionar. Talvez esqueçamos o rum.",
+"Você não respondeu minha pergunta.",
+
+};

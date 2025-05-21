@@ -1,0 +1,753 @@
+Caravel1_Descr{Os mastros latinos proporcionam bom desempenho contra o vento.
+Navio mercante decorado com casco vermelho e branco.}
+Caravel2_Descr{Os mastros de tipo navio proporcionam bom desempenho a favor do vento.
+Navio mercante com superestrutura decorada em vermelho e branco.}
+FastCaravel_Descr{Bom desempenho contra o vento. O vermelho sangue 
+e os olhos brilhantes são um mau presságio para as vítimas de Bartolomeu.}
+CursedCaravel_Descr{Está amaldiçoado, eu te digo!
+Caravela com casco coberto de algas.}
+Carrack_Descr{Design bastante envelhecido e deselegante para manobrar,
+mas para um navio mercante ela pode ser perigosa.}
+PO_Caravel50_Descr{Navio comercial português de cordame quadrado com
+poucas decorações. Navegará melhor com o vento.}
+
+Schooner1_Descr{Escolha de corsários e comerciantes com boa
+desempenho contra o vento. Sua pintura escura desaparece.}
+Schooner2_Descr{Escolha de corsários e comerciantes com boa
+desempenho contra o vento. Lindo vaso verde.}
+SchoonerWar_Descr{Embarcação naval com popa decorada.
+Mais rápido, mas não tão bom contra o vento.}
+Schooner50_Descr{A escolha tanto dos corsários como dos comerciantes com
+casco tricolor. Mais rápido, mas não tão bom contra o vento.}
+US_Schooner47_Descr{A escolha tanto dos corsários como dos comerciantes, tendo em conta
+cores da Marinha dos EUA. Mais rápido, mas não tão bom contra o vento.}
+
+Hooker_Descr{Velas adicionais reduzem a velocidade contra o vento.
+Um forte casco preto e vermelho dá-lhe uma aparência resistente.}
+
+Shnyava1_Descr{Este navio adaptável é ágil,
+mas não navegará bem contra o vento. O casco é preto e branco.}
+Shnyava2_Descr{Este navio adaptável é ágil,
+mas não navegará bem contra o vento. O casco está bem decorado.}
+
+HMS_Bounty_Descr{Assemelha-se ao famoso 'HMS Bounty'.
+É melhor manter distância do Taiti.}
+
+BrigRoyal_Descr{Navio naval decente, mas não navega bem contra o vento.
+O brasão britânico na popa representa coragem no mar.}
+
+Brig1_Descr{Navio naval rápido, mas luta contra o vento.
+Pintado de marrom com decorações complexas.}
+Brig2_Descr{Navio naval rápido, mas luta contra o vento.
+Casco pintado de branco e vermelho.}
+RN_Brig_Descr{Navio naval rápido, mas luta contra o vento.
+A pintura desaparece, sugerindo um longo serviço na Marinha Real.}
+BrigQeen1_Descr{Embarcação naval rápida que pode lutar contra o vento.
+Casco envernizado com enfeites brancos.}
+BrigSW1_Descr{
+Casco preto e figura de proa com cabeça de lobo.}
+Brig3_Descr{
+Casco envernizado com detalhes vermelhos e marcações verdes.}
+Brig_20_Gun1_181_Descr{
+Esquema pirata com casco escuro com marcações vermelhas.}
+
+HMS_Interceptor_Descr{
+o Interceptor para velocidade."}
+RN_Interceptor_Descr{
+com listras creme.}
+US_Interceptor_Descr{
+Piratas do Caribe e "Star Trek: Generations".}
+USS_Enterprise_Descr{
+Não navega bem contra o vento.}
+
+Yacht1_Descr{
+Tinta azul e ornamentos adornam o casco.}
+Yacht2_Descr{
+Tinta preta e ornamentos adornam o casco.}
+
+Barque1_Descr{
+Navio comercial decente com tinta azul.}
+Barque2_Descr{
+Sem tinta - ela é uma comerciante, não uma carruagem de senhora.}
+Barkentine1_Descr{
+Casco marrom escuro com decorações ornamentadas.}
+
+BarqueHeavy_Descr{
+O casco azul desgastado indica que ela serviu por algum tempo.}
+
+Barque3_50_Descr{
+A tinta preta e vermelha dá a ela uma aparência sinistra.}
+
+Barque4_47_Descr{
+tem pouca tinta, então não desbota rapidamente.}
+
+US_Brig47_Descr{
+mas ela é um navio rápido e ágil da Marinha dos EUA.}
+PiratBrig50_Descr{
+Desenho naval em verde e laranja.}
+
+Brigantina1_Descr{
+O casco leve é pintado de branco e ornamentado.}
+Brigantina2_Descr{
+O casco leve é pintado de azul e ornamentado.}
+BrigantineOld_Descr{
+O casco tem listras pretas e brancas.}
+
+Tartane1_Descr{
+Tartane de mastro único com casco liso de madeira vermelha.}
+Tartane2_Descr{
+Tartane de mastro único com casco de madeira decorado.}
+
+Tartane50_Descr{
+Mastro único com casco cinza como o 'Jolly Mon'.}
+
+Gunboat_Descr{
+é um desafio em qualquer batalha.}
+
+TartaneWar_Descr{
+recreativo em tamanho.}
+
+Galeoth1_Descr{
+design com casco vermelho decorado.}
+Galeoth2_Descr{
+design com casco decorado em verde e amarelo.}
+
+Sloop1_Descr{
+Este navio pintado de azul navega bem contra o vento.}
+FR_Sloop_Descr{
+Navio ágil da Marinha Francesa.}
+Sloop2_Descr{
+navega bem contra o vento.}
+Sloop4_Descr{
+navega bem contra o vento.}
+
+SloopBermuda_Descr{
+Navio ágil com aparência da Marinha Real Britânica.}
+
+Cutter1_Descr{
+Navio naval ágil em branco e marrom.}
+Cutter2_Descr{
+Navio ágil, com as cores desgastadas da Marinha Real.}
+
+Ketch_Descr{
+O casco é muito ágil e pintado de marrom e branco.}
+
+Lugger1_Descr{
+Embarcação ágil em preto, branco e amarelo.}
+Lugger2_Descr{
+Embarcação ágil com tinta marrom.}
+LuggerCT_Descr{
+Embarcação ágil com decoração em preto e branco.}
+Lugger4_Descr{
+Embarcação ágil e desgastada com tinta azul.}
+
+LuggerVML_Descr{
+Bússola incluída (mas não aponta para o Norte).}
+
+PO_LuggerP_Descr{Navio mercante pequeno e ágil, adaptado para corsários.
+Casco branco com decoração verde e vermelha.}
+SP_LuggerP_Descr{Navio mercante pequeno e ágil, adaptado para corsários.
+Casco preto com decoração azul e vermelha.}
+NL_LuggerP_Descr{Navio mercante pequeno e ágil, adaptado para corsários.
+Casco amarelo com decoração verde e vermelha.}
+FR_LuggerP_Descr{Navio mercante pequeno e ágil, adaptado para corsários.
+Casco azul com decoração vermelha.}
+RN_LuggerP_Descr{Navio mercante pequeno e ágil, adaptado para corsários.
+Casco castanho com decoração azul e amarela.}
+
+Lugger3_Descr{
+Embarcação ágil com pintura desgastada.}
+
+EdinburghTrader_Descr{
+baseado no 'Comerciante de Edimburgo'.}
+
+FastMerchantman1_Descr{
+em um navio mercante, carregando um branco e
+esquema de pintura marrom.}
+FastMerchantman2_Descr{
+em um navio mercante, com um amarelo desbotado
+e esquema de pintura preta.}
+
+Fleut1_Descr{
+Marrom, navio mercante decorado.}
+Fleut2_Descr{
+Navio mercante decorado, azul, pouco desgastado.}
+NL_Fleut50_Descr{
+Excelente navio comercial com as cores holandesas.}
+
+PO_Fleut50_Descr{
+Excelente navio comercial com poucas decorações.}
+
+FleutWar_Descr{
+Navio naval pintado de azul.}
+
+FleutWar2_Descr{
+Navio naval pintado de preto e vermelho.}
+
+FleutWarSat_Descr{
+Navio preto com marcas sinistras.}
+
+FleutWarExSat_Descr{
+Antigo navio animista agora com marcações menos sinistras.}
+
+FR_LightPinnace_Descr{
+O navio mercante francês é pintado de marrom e vermelho.}
+
+Pinnace1_Descr{
+Comerciante altamente condecorado, marrom com listra branca.}
+Pinnace2_Descr{
+Comerciante altamente condecorado, pintado principalmente de marrom.}
+
+NL_Pinnace_Descr{
+Comerciante holandês decorado com tinta verde.}
+
+SP_Pinnace50_Descr{
+Este navio espanhol decorado é pintado de vermelho.}
+
+HMS_Indefatigable_Descr{
+construído de acordo com o projeto de Sir Thomas Slade.}
+RN_Indefatigable_Descr{
+esquema de pintura creme e preto.}
+GEN_Indefatigable_Descr{
+esquema de pintura amarelo e preto.}
+FR_Indefatigable_Descr{
+esquema de pintura vermelho e preto.}
+SP_Indefatigable_Descr{
+esquema de pintura vermelho escuro e preto.}
+NL_PinnaceofWar47_Descr{
+Este navio holandês é pintado de verde, marrom e branco.}
+
+WallerPinnace_Descr{
+Navio naval espaçoso em ouro, marrom e branco.}
+
+Galeon1_Descr{
+De design espanhol, este é pintado de marrom.}
+Galeon2_Descr{
+Design espanhol com superestrutura pintada de azul.}
+PiratBattleGalleon_Descr{
+Este navio pirata tem pequenas decorações portuguesas.}
+SP_BattleGalleon_Descr{
+Este navio de guerra espanhol tem pequenas decorações.}
+
+SP_Galeon50_Descr{
+Este tem decorações espanholas.}
+
+GaleonWar_Descr{
+Este é pintado de preto e bem decorado.}
+Galeon50_Descr{
+Pintado principalmente em preto e azul.}
+
+NL_FleutWar_Descr{
+Este navio de guerra ostenta as cores holandesas.}
+
+RN_FleutWar_Descr{Decente em velocidade e taxa de giro.
+Esta embarcação naval é pintada de amarelo e azul.}
+
+SP_FleutWar_Descr{Decente em velocidade e taxa de giro.
+Esta embarcação naval é pintada de vermelho.}
+
+PO_WarGalleon_Descr{Desempenho amigável.
+Galeão inglês com pintura marrom e branca.}
+FR_WarGalleon_Descr{Desempenho amigável.
+Galeão inglês com cores francesas.}
+RN_WarGalleon_Descr{Desempenho amigável.
+Galeão inglês com pintura azul.}
+NL_WarGalleon_Descr{Desempenho amigável.
+Galeão inglês com cores holandesas.}
+SP_WarGalleon_Descr{Desempenho amigável.
+Galeão inglês com cores espanholas.}
+FR_Licorne_Descr{Desempenho amigável.
+Baseado no navio francês 'La Licorne'}
+
+FastGalleon1_Descr{A toda velocidade ela mostrará suas possibilidades.
+Apresenta decorações ornamentadas em vermelho e branco.}
+FastGalleon2_Descr{A toda velocidade ela mostrará suas possibilidades.
+Casco pintado em preto e branco.}
+FastGalleon3_Descr{A toda velocidade ela mostrará suas possibilidades.
+Traz decorações coloridas.}
+FastGalleon4_Descr{A toda velocidade ela mostrará suas possibilidades.
+Casco pintado em vermelho e preto.}
+FastGalleon5_Descr{A toda velocidade ela mostrará suas possibilidades.
+O casco é decorado com escudos e símbolos dourados.}
+PiratFastGal_Descr{A toda velocidade ela mostrará suas possibilidades.
+Design dos piratas em preto assustador.}
+
+Xebec1_Descr{As plataformas latinas oferecem excelente desempenho contra o vento.
+Embarcação adaptável pintada de vermelho e amarelo.}
+Xebec2_Descr{As plataformas latinas oferecem ótimo desempenho contra o vento.
+Embarcação adaptável decorada por alguns nórdicos.}
+Xebec3_Descr{As plataformas latinas oferecem ótimo desempenho contra o vento.
+Embarcação adaptável com decoração mourisca.}
+
+SchoonerXebec_Descr{Escuna pesada, excelente contra o vento.
+Embarcação adaptável pintada de preto e amarelo.}
+
+XebecAS_Descr{Este pesado xebec navega rapidamente contra o vento.
+Quase impossível de capturar.}
+
+Corvette47_Descr{Uma corveta francesa rápida e com bom desempenho,
+pintado com listras pretas e ocres.}
+
+Corvette1_Descr{Uma fragata de meados do século XVIII com bom desempenho,
+com um esquema de pintura vermelho e marrom.}
+Corvette2_Descr{Uma fragata de meados do século XVIII com bom desempenho,
+com um esquema de pintura bege e marrom.}
+RN_Corvette_Descr{Uma fragata de meados do século XVIII com bom desempenho,
+ostentando um ornamentado azul, marrom e dourado
+esquema de pintura.}
+
+CursedCorvette_Descr{Uma velha fragata coberta de algas marinhas, disse
+ser possuído por uma terrível maldição...}
+
+PiratCorvette_Descr{Uma fragata de meados do século XVIII capturada por piratas,
+ostentando um sinistro esquema de pintura preta.}
+PiratCorvette50_Descr{Uma fragata de meados do século XVIII capturada por piratas,
+ostentando um sinistro esquema de pintura vermelha e preta.}
+CrimsonBlood_Descr{Uma fragata capturada por piratas, com uma cor escura
+esquema de pintura e velas vermelhas. Sua tripulação é
+disse ser amaldiçoado...}
+
+PO_FastNavy_Descr{Uma das primeiras fragatas portuguesas com plataforma latina,
+apresentando um esquema de pintura altamente ornamentado.}
+
+Frigate1_Descr{Uma fragata construída na Rússia no início do século XVIII
+com um esquema de pintura amarelo e preto.}
+Frigate2_Descr{Uma fragata construída na Rússia no início do século XVIII
+ostentando um dourado, branco e verde oliva
+esquema de pintura.}
+NL_Frigate47_Descr{Uma fragata construída na Rússia no início do século XVIII
+ostentando um esquema de pintura da Marinha Holandesa.}
+FR_Frigate_Descr{Uma fragata construída na Rússia no início do século XVIII
+com um esquema de pintura dourado, azul e pêssego.}
+RN_Frigate_Descr{Uma fragata construída na Rússia no início do século XVIII
+com um esquema de pintura azul e pêssego
+e uma popa ricamente decorada.}
+
+Frigate_sat_Descr{Uma misteriosa fragata do século 18 com um vermelho escuro
+e esquema de pintura preta. Diz-se que ela é tripulada
+por satanistas.}
+Frigate_Ex_Sat_Descr{Anteriormente tripulada por satanistas, esta fragata agora
+tem um esquema de pintura amarelo e preto
+com enfeites dourados.}
+PiratFrigateSup_Descr{Uma fragata do início do século XVIII capturada por piratas,
+ostentando um esquema de pintura vermelha e preta adornado
+com caveiras e ossos.}
+PiratFrigateSat_Descr{Uma fragata do início do século 18 capturada por satanistas,
+com um esquema de pintura vermelho e preto.}
+PiratFrigateExSat_Descr{Uma fragata do início do século 18 capturada por satanistas,
+repintado com um esquema de pintura amarelo e preto.}
+
+USS_Constitution_Descr{'USS Constitution', uma fragata grande e moderna
+construído de acordo com o projeto de Joshua Humphreys.}
+US_BattleFrigate_Descr{Uma grande e moderna fragata de excelente desempenho,
+com um esquema de pintura branco e preto.}
+RN_BattleFrigate_Descr{Uma grande e moderna fragata de excelente desempenho,
+com um esquema de pintura creme e preto.}
+FR_BattleFrigate_Descr{Uma grande e moderna fragata de excelente desempenho,
+com um esquema de pintura vermelho e preto.}
+SuperFrigate_Descr{Uma grande fragata projetada para patrulhas de longo alcance.
+Esta versão tem acabamento em madeira natural.}
+
+HMS_Surprise_Descr{HMS Surprise, uma grande fragata de construção britânica que
+tem um desempenho muito bom, com um preto e
+esquema de pintura creme.}
+FR_Boussole_Descr{Uma fragata francesa poderosa e elegante, com um
+esquema de pintura dourado, azul e marrom.}
+FR_Razee_Descr{Uma fragata francesa poderosa e elegante, com uma bandeira vermelha e
+esquema de pintura preta.}
+RN_Razee_Descr{Uma poderosa e elegante fragata britânica, com uma cor creme e
+esquema de pintura preta.}
+
+Lineship1_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+Esta embarcação é pintada de preto.}
+Lineship47_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é pintado de preto, branco, verde e amarelo.}
+
+PO_Warship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é decorado e pintado de branco e amarelo.}
+RN_Warship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco ostenta as cores da Marinha Real.}
+SP_Warship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores da França.}
+FR_Belette_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores da França.}
+
+SwedishIndiaman1_Descr{Comerciante levemente armado, muito rápido e com boa
+capacidade de carga.}
+SwedishIndiaman_red_Descr{Comerciante levemente armado, muito rápido e com boa
+capacidade de carga. Casco envernizado com decoração vermelha.}
+SwedishIndiaman_blue_Descr{Comerciante levemente armado, muito rápido e com boa carga
+capacidade. Casco envernizado com decoração em azul escuro.}
+
+NL_Batavia_Descr{O desempenho vem em segundo lugar para o 'Batavia'.
+Comerciante armado com cores holandesas.}
+
+NL_SevenProvincien_Descr{Navio holandês 'Seven Provinciën', construído
+ao projeto de Salomon Jansz van den Tempel.}
+
+NL_Lineship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores holandesas.}
+
+NL_ConvoiShip_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores holandesas.}
+
+NL_Amsterdam_Descr{O 'Amsterdam', famoso navio de
+a Vereenigde Oost-Indische Compagnie!}
+
+Battleship1_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é pintado de vermelho.}
+Battleship2_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é pintado de preto, branco e vermelho.}
+RN_Battleship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores britânicas.}
+SP_Battleship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco desgastado é pintado de escuro.}
+Battleship5_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco desgastado apresenta as cores espanholas.}
+Battleship1b_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é pintado de preto e vermelho.}
+
+RN_SuperiorWarship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores da Marinha Real.}
+FR_SuperiorWarship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem as cores da França.}
+
+Battleship3_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco desgastado tem as cores da Marinha Real.}
+
+HeavyLineship_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é vermelho e azul com decorações.}
+HeavyLineship2_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco é amarelo e preto, com decorações douradas.}
+HeavyLineship3_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem decorações azuis e douradas.}
+
+Battleship4_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco envernizado tem listras pretas e parte superior azul.}
+
+FR_Battleship4_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco marrom escuro tem listras brancas e parte superior azul.}
+
+SP_Battleship4_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco envernizado tem listras e parte superior vermelhas.}
+
+HMS_Endeavour_Descr{HMS Endeavour, a temível nau capitânia do Oriente
+Empresa indiana, de propriedade de Lord Cutler Beckett.}
+HMS_Dauntless_Descr{HMS Dauntless, o mais impressionante da Marinha Real
+navio de guerra.}
+
+SP_SotL_Descr{Navio de linha de segunda categoria.
+Tem as cores da Espanha.}
+FR_SotL_Descr{Navio de linha de segunda categoria.
+Tem as cores da França.}
+US_SotL_Descr{Navio de linha de segunda categoria.
+Tem as cores dos Estados Unidos.}
+RN_SotL_Descr{Navio de linha de segunda categoria.
+Possui as cores da Marinha Real.}
+
+Manowar1_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco tem linhas pretas e brancas.}
+Manowar2_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco altamente decorado é branco, amarelo e verde.}
+Manowar_gub_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+Preto e azul, também com listras brancas.}
+SP_Manowar_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco vermelho e amarelo marca um navio espanhol.}
+PO_Manowar_Descr{Para um navio de linha, o desempenho vem em segundo lugar.
+O casco altamente decorado é branco e marrom.}
+
+US_SteamFrigate_Descr{Protótipo de fragata movida a vapor com um branco
+e esquema de pintura preta. Os motores operam
+separadamente das velas.}
+
+FR_SteamFrigate_Descr{Protótipo de fragata movida a vapor com um vermelho
+e esquema de pintura preta. Os motores operam
+separadamente das velas.}
+
+RN_SteamFrigate_Descr{Protótipo de fragata movida a vapor com creme
+e esquema de pintura preta. Os motores operam
+separadamente das velas.}
+
+Pirate_SteamFrigate_Descr{Protótipo de fragata movida a vapor com um preto
+e esquema de pintura vermelho escuro. Os motores operam
+separadamente das velas.}
+
+CursedDutchman_Descr{O maldito navio de Davy Jones, capaz de submergir.
+Convoque... o Kraken!}
+FlyingDutchman_Descr{A verdadeira forma do 'Holandês Voador',
+livre de sua maldição.}
+
+WickedWench_Descr{Um navio da East India Trading Company; o
+primeiro navio sob o comando do Capitão Jack Sparrow.}
+BlackPearl_Descr{O amado navio do Capitão Jack Sparrow,
+livre de sua maldição.}
+164_Descr{"Tripulado pelos condenados e capitaneado por um homem
+tão malvado que o próprio Inferno o cuspiu de volta."}
+UncursedPearl_Descr{O amado navio do Capitão Jack Sparrow, como era
+antes de ser vítima de uma terrível maldição.}
+
+RN_FirstRate_Descr{Um poderoso rolamento de navio de linha de primeira linha
+o esquema de pintura Nelson Checker.}
+HMS_Victory_Descr{HMS Victory, o navio mais famoso da Marinha Real,
+construído de acordo com o projeto de Sir Thomas Slade.}
+US_FirstRate_Descr{Um poderoso rolamento de navio de linha de primeira linha
+um esquema de pintura branco e preto.}
+FR_FirstRate_Descr{Um poderoso rolamento de navio de linha de primeira linha
+um esquema de pintura vermelho e preto brilhante.}
+SP_FirstRate_Descr{Um poderoso rolamento de navio de linha de primeira linha
+um esquema de pintura vermelho escuro e preto.}
+
+FR_Superbe_Descr{Navio de terceira categoria da famosa classe Téméraire, o
+mais numerosa classe de navio capital já construída,
+com um esquema de pintura vermelho e preto.}
+RN_Superbe_Descr{Um formidável navio de linha de terceira categoria,
+com um esquema de pintura creme e preto.}
+NL_Superbe_Descr{Um formidável navio de linha de terceira categoria,
+com um esquema de pintura marrom e preto.}
+
+HMS_Bellona_Descr{Um navio de terceira categoria baseado na poderosa classe Bellona,
+com um esquema de pintura creme e preto.}
+FR_Bellona_Descr{Um navio de linha de terceira categoria altamente poderoso,
+com um esquema de pintura vermelho e preto.}
+US_Bellona_Descr{Um grande e temível navio americano de terceira categoria,
+com um esquema de pintura branco e preto.}
+KetchNavy_Descr{Tão ágil que ela pode facilmente atravessar a 'Garganta do Diabo',
+mas falta velocidade. Baseado em HMS Nonsuch.}
+
+HMS_Greyhound_Descr{Uma pequena e ágil fragata britânica usada para caçar
+piratas. Cuidado, cães com escorbuto!}
+FR_Greyhound_Descr{Uma pequena e ágil fragata francesa usada para caçar
+piratas. Cuidado, cães com escorbuto!}
+PO_Greyhound_Descr{Uma pequena e ágil fragata portuguesa usada para caçar
+piratas. Cuidado, cães com escorbuto!}
+
+HMS_Sophie_Descr{Um brigue grande e confiável
+com um esquema de pintura creme e preto.}
+
+US_Enterprise_Descr{Uma escuna americana ágil e de bom desempenho,
+apresentando um esquema de pintura simples.}
+
+HMS_Mordaunt_Descr{Um navio de linha de quarta categoria construído de forma privada,
+adquirido pela Marinha Real, com uma marca marrom
+e esquema de pintura branca.}
+
+FR_Couronne_Descr{Um grande e emblemático galeão da Marinha Francesa,
+e o primeiro desse tipo a ser construído na França.}
+
+Couronne_pirate_Descr{Um grande galeão da antiga Marinha Francesa,
+agora assumido por piratas.}
+
+SP_ApostolFelipe_Descr{'Apóstol Felipe', um dos seis galeões
+construído por Martín de Arana para o rei Felipe IV.}
+
+US_Hannah_Descr{Uma pequena escuna americana contratada para serviço
+pelo General George Washington.}
+PiratHannah_Descr{Uma pequena escuna capturada por piratas, transportando
+um esquema de pintura simples.}
+
+HMS_Speedy_Descr{Um brigue altamente versátil construído para Thomas King's
+design, com um creme e preto
+esquema de pintura.}
+
+PO_Poseidon_Descr{Uma terceira taxa construída na Dinamarca no início do século 18,
+ostentando um ornamentado azul, amarelo e preto
+esquema de pintura.}
+FR_Fleuron_Descr{Uma terceira taxa construída na França no início do século 18,
+ostentando um ornamento vermelho, marrom e preto
+esquema de pintura.}
+RN_Poseidon_Descr{Uma terceira taxa construída na Dinamarca no início do século 18,
+ostentando um ornamento amarelo e preto
+esquema de pintura.}
+SP_Natividad_Descr{Uma quarta taxa construída na Espanha no final do século 18,
+com um esquema de pintura ornamentado em amarelo e preto.}
+
+RN_Surprise_Descr{Uma elegante fragata britânica baseada em design francês,
+com um esquema de pintura creme e preto.}
+FR_Surprise_Descr{Uma elegante fragata francesa, com pintura vermelha e preta.}
+SP_Surprise_Descr{Uma elegante fragata espanhola baseada em design francês,
+com um esquema de pintura marrom e preto.}
+
+SP_SanFelipe_Descr{Construído pelo Rei da Espanha em 1690, o San Felipe
+foi o navio mais majestoso da Espanha lutando contra os franceses.}
+FR_SoleilRoyal_Descr{Navio de linha francês 'Soleil Royal', construído em 1670.
+Nau capitânia barroca elaboradamente decorada.}
+
+RN_RevengeM_Descr{Versão mercantil de um galeão elisabetano de 4 mastros.
+Casco marrom escuro com decorações verdes e amarelas.}
+RN_RevengeW_Descr{Versão naval de um galeão elisabetano de 4 mastros.
+Casco marrom médio com decorações brancas e amarelas.}
+RN_RevengeF_Descr{Versão rápida de um galeão elisabetano de 4 mastros.
+Casco marrom claro com decorações verdes e amarelas.}
+
+PO_CaravelR_Descr{Navio de combate especializado português costumava servir como
+uma escolta no Brasil e na rota das Índias Orientais.}
+
+QueenAnnesRevenge_Descr{O temível navio do Barba Negra com detalhes mórbidos.
+Apresenta fogo grego no lugar de caçadores de arco.}
+
+PO_Hoy_Descr{O 'Lyon Hoy' é um pequeno comerciante comum.
+O casco tem cores portuguesas.}
+FR_Hoy_Descr{O 'Lyon Hoy' é um pequeno comerciante comum.
+O casco tem cores francesas.}
+SP_Hoy_Descr{O 'Lyon Hoy' é um pequeno comerciante comum.
+O casco tem cores espanholas.}
+
+FR_Neptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+com um esquema de pintura azul e amarelo.}
+RN_Neptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+pintado de amarelo com decoração vermelha e azul.}
+PO_Neptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+com um esquema de pintura branco e verde.}
+SP_Neptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+com um esquema de pintura vermelho e preto.}
+NL_Neptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+com um esquema de pintura verde, vermelho e cinza.}
+PiratNeptunus_Descr{Um corsário de construção holandesa do início do século XVIII
+com casco envernizado e guarnições amarelas.}
+
+PO_NeptunusE_Descr{Um corsário de construção holandesa do final do século XVII
+com um esquema de pintura marrom e branco.}
+SP_NeptunusE_Descr{Um corsário de construção holandesa do final do século XVII
+com um esquema de pintura marrom e vermelho.}
+NL_NeptunusE_Descr{Um corsário de construção holandesa do final do século XVII
+com um esquema de pintura marrom e verde.}
+FR_NeptunusE_Descr{Um corsário de construção holandesa do final do século XVII
+com um esquema de pintura marrom e azul.}
+
+NL_LightPinnace_Descr{Construído de acordo com o holandês 'Papegojan' de 1627.
+O casco tem as cores holandesas.}
+PO_LightPinnace_Descr{Construído de acordo com o holandês 'Papegojan' de 1627.
+O casco apresenta as cores portuguesas.}
+SP_LightPinnace_Descr{Construído de acordo com o holandês 'Papegojan' de 1627.
+O casco tem as cores espanholas.}
+
+NL_Derfflinger_Descr{Um fluyt de construção alemã do século XVII,
+ostentando um esquema de pintura da Marinha Holandesa.}
+FR_Derfflinger_Descr{Um fluyt de construção alemã do século XVII,
+com um esquema de pintura marrom e azul.}
+SP_Derfflinger_Descr{Um fluyt de construção alemã do século XVII,
+com um esquema de pintura marrom e vermelho.}
+
+NL_FWzP_Descr{Uma grande fragata construída na Alemanha no final do século XVII
+ostentando um esquema de pintura da Marinha Holandesa.}
+
+HMS_Unicorn_Descr{Uma grande fragata britânica de meados do século XVIII,
+um dos primeiros do seu tipo, com um
+esquema de pintura preto e creme.}
+
+FR_Unicorn_Descr{Uma grande fragata britânica de meados do século XVIII,
+em mãos francesas, ostentando um
+esquema de pintura vermelho e preto.}
+
+FR_Dilligente_Descr{Um grande tartane armado francês com um
+esquema de pintura vermelho e laranja.}
+
+RN_RaaFrigate_Descr{Uma fragata construída na Dinamarca do início do século XVIII
+com um esquema de pintura amarelo e preto.}
+
+NL_Postillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+com um esquema de pintura ornamentado em verde e marrom.}
+SP_Postillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+com um esquema de pintura ornamentado em vermelho e amarelo.}
+PO_Postillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+com um esquema de pintura branco, verde e marrom.}
+RN_Postillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+com um esquema de pintura amarelo e preto.}
+FR_Postillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+com um esquema de pintura ornamentado em vermelho e preto.}
+
+PiratPostillionen_Descr{Uma pequena fragata com boas qualidades de navegação,
+capturado por piratas e portando um preto e
+esquema de pintura marrom.}
+
+Empress_Descr{Um junco chinês com qualidades de navegação únicas,
+propriedade do Capitão Sao Feng.}
+
+CursedMariana_Descr{O navio assustador do diabo é assombrado
+pelos fantasmas de marinheiros amaldiçoados...}
+Mariana_Descr{A toda velocidade ela mostrará suas possibilidades.
+Design espanhol decorado com dourado.}
+
+US_PrinceNeufchatel_Descr{Uma escuna americana muito rápida e com bom comportamento,
+com um esquema de pintura branco e preto.}
+
+RN_Volage_Descr{Uma chalupa de guerra construída na França no final do século 18,
+com um esquema de pintura creme e preto.}
+FR_Volage_Descr{Uma chalupa de guerra construída na França no final do século 18,
+com um esquema de pintura vermelho e preto.}
+SP_Volage_Descr{Uma chalupa de guerra construída na França no final do século 18,
+com um esquema de pintura vermelho escuro e preto.}
+PO_Volage_Descr{Uma chalupa de guerra construída na França no final do século 18,
+com um esquema de pintura marrom e preto.}
+US_Volage_Descr{Uma chalupa de guerra construída na França no final do século 18,
+com um esquema de pintura branco e preto.}
+
+FR_Trinity_Descr{Um navio de linha de segunda categoria construído na Dinamarca
+com um esquema de madeira clara e pintura azul.}
+PO_Trinity_Descr{Um navio de linha de segunda categoria construído na Dinamarca
+com um esquema de pintura branco e marrom.}
+RN_Trinity_Descr{Um navio de linha de segunda categoria construído na Dinamarca
+com um esquema de pintura amarelo e preto.}
+SP_Trinity_Descr{Um navio de linha de segunda categoria construído na Dinamarca
+com um esquema de pintura marrom e verde.}
+
+US_Essex_Descr{Uma grande fragata construída nos Estados Unidos com boa navegação
+qualidades, ostentando uma cor branca e preta
+esquema de pintura.}
+RN_Essex_Descr{Uma grande fragata construída nos Estados Unidos com boa navegação
+qualidades, com um creme e preto
+esquema de pintura.}
+NL_Essex_Descr{Uma grande fragata construída nos Estados Unidos com boa navegação
+qualidades, ostentando uma coloração marrom e preta
+esquema de pintura.}
+FR_Essex_Descr{Uma grande fragata construída nos Estados Unidos com boa navegação
+qualidades, ostentando uma cor vermelha, preta e branca
+esquema de pintura.}
+SP_Essex_Descr{Uma grande fragata construída nos Estados Unidos com boa navegação
+qualidades, ostentando um vermelho e preto
+esquema de pintura.}
+Sat_Essex_Descr{Uma misteriosa fragata construída nos Estados Unidos com uma aparência escura
+esquema de pintura vermelho e preto. Diz-se que ela é tripulada
+por satanistas.}
+UnSat_Essex_Descr{Anteriormente tripulada por satanistas, esta fragata agora
+tem um esquema de pintura branco e preto.}
+
+XebecVML_Descr{Um grande xebec com excelentes qualidades de navegação,
+ostentando um ornamentado vermelho, azul e branco
+esquema de pintura.}
+
+HMS_Centurion_Descr{Uma terceira taxa construída na Grã-Bretanha no início do século XVIII
+século, ostentando um vermelho bem decorado,
+esquema de pintura marrom e azul.}
+
+Polacca_Descr{Veleiro do século XVII, semelhante ao xebec.
+Ela tem três mastros unipolares e um calado raso.
+Apresentando um esquema de cores de madeira lisa envelhecida.}
+Polacca_N_Descr{Veleiro do século XVII, semelhante ao xebec.
+Ela tem três mastros unipolares e um calado raso.
+Com casco vermelho com detalhes amarelos.}
+
+PinnaceMerchant_Descr{Um grande navio cargueiro. Bem construído, mas lento. Com um
+acompanhante, este é um verdadeiro ganhador de dinheiro.
+Carregando um esquema de cores holandês.}
+PinnaceMerchant2_Descr{Um grande navio cargueiro. Bem construído, mas lento. Com um
+acompanhante, este é um verdadeiro ganhador de dinheiro.
+Apresentando um esquema de cores azul e amarelo.}
+
+PinnaceMedium_Descr{Bem construído e o mais rápido do seu tipo.
+Comerciante holandês médio com um pouco de tinta verde.}
+PinnaceMedium2_Descr{Bem construído e o mais rápido do seu tipo.
+Comerciante médio com um pouco de tinta azul.}
+
+GoldenHind_Descr{O 'Golden Hind' é mais conhecido por sua circunavegação do globo entre 1577 e 1580.
+Ela era originalmente conhecida como 'Pelicano', mas foi renomeada por Drake no meio da viagem em 1578.}
+RN_Galeon_L_Descr{Um pequeno galeão de desenho inglês com marcações coloridas.}
+
+FR_CastelF_Descr{O 'Castell Friedrichsburg' foi construído em 1688 e é um navio de patrulha costeira com calado raso. Ela tem boa velocidade e capacidade de manobra e pode navegar bem contra o vento.
+Este tem um esquema de pintura em azul francês e dourado.}
+NL_CastelF_Descr{O 'Castell Friedrichsburg' foi construído em 1688 e é um navio de patrulha costeira com calado raso. Ela tem boa velocidade e capacidade de manobra e pode navegar bem contra o vento.
+Este tem um esquema de pintura holandês verde e dourado.}
+SP_CastelF_Descr{O 'Castell Friedrichsburg' foi construído em 1688 e é um navio de patrulha costeira com calado raso. Ela tem boa velocidade e capacidade de manobra e pode navegar bem contra o vento.
+Este tem um esquema de pintura espanhola em preto e vermelho.}
+
+Salamander1_Descr{Com um casco de xebec, velas e canhões de fragata, este navio é ágil e poderoso.}

@@ -1,0 +1,7 @@
+title=Salvando o irmão de Askay
+text.t1=Askay, o assessor de Sri Sumbhajee, contou-me que seu irmão foi sequestrado por um espanhol a serviço da Holanda. Acho que deveria lidar com esse problema e ajudar esse homem a voltar para casa.
+text.t2=O Comandante da Prisão disse-me que eu poderia tentar persuadir o capitão do navio-prisão a permitir-me levar Pusasn como escravo. Vamos torcer para que eu possa liberá-lo para Sri Sumbhajee e seu irmão.
+text.t3=Este espanhol foi imperdoavelmente rude comigo. Então eu matei ele e seu oficial. O irmão está salvo.
+text.t4=Este espanhol foi imperdoavelmente rude comigo. Mas quando seus homens perceberam que eu estava aqui por ordem do governador, mataram o capitão e partiram.
+text.t5=O Comandante da Prisão percebeu que eu estava disfarçado e veio me interceptar no cais. Que pena para ele. Tive que matá-lo e a dois soldados.
+text.t6=Eu "consegui" uma pistola nova! Peguei-o de Sri Sumbhajee depois que seu assessor não pôde me pagar pelos meus esforços para salvar seu irmão.

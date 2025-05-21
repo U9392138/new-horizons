@@ -1,0 +1,224 @@
+About_Build
+{
+Piratas do Caribe: Novos Horizontes
+
+Sendo esta uma grande modificação do jogo original de 2003, há muito para saber sobre o jogo e muitas coisas que podem não ser imediatamente aparentes.
+
+Portanto, compilamos estas dicas e truques para todos os jogadores. Provavelmente há algumas coisas mencionadas que você ainda não sabia e que podem ajudar a melhorar sua experiência de jogo.
+
+Divirta-se com o jogo!
+
+}
+
+B_1{Introdução}
+About_Build_1_d{INTRODUÇÃO}
+About_Build_1
+{
+
+Feito para o jogo Akella original de 2003, "Piratas do Caribe", este modpack está em desenvolvimento desde o lançamento do Build 13 no início de 2007. Percorremos um longo caminho desde então, adicionando muito conteúdo novo e muitos novos recursos, alguns dos quais foram considerados impossíveis de serem alcançados até mesmo pelos próprios desenvolvedores do jogo original.
+
+A intenção é proporcionar uma experiência de jogo pirata o mais completa possível, ao mesmo tempo mais realista, mas também mais divertida. Os novos recursos incluem mais histórias, detalhes históricos, habilidades para jogar gratuitamente, variedade e mais personalização do que nunca. Sem falar que os gráficos também foram melhorados, principalmente com novos modelos e texturas, mas também o próprio mar e qualquer outro lugar que conseguíssemos administrar.
+}
+
+B_2{Resolução}
+About_Build_2_d{RESOLUÇÃO e OUTRAS CONFIGURAÇÔES AVANÇADAS}
+About_Build_2
+{
+
+Edite engine.ini na pasta principal do jogo manualmente com o Bloco de Notas. Defina screen_x e screen_y para a resolução da sua área de trabalho.
+
+Recomendamos definir a tela inteira como 0. Isso faz com que o jogo rode em modo de janela e permite que você entre e saia com Alt+Tab.
+
+Se você não gostar das "Dicas" durante o carregamento do jogo, defina numoftips como 0.
+}
+
+B_3{Costa}
+About_Build_3_d{LUTAS COSTA E TERRESTRE}
+About_Build_3
+{
+
+- Se você estiver perdido em uma cidade, alguns cidadãos poderão lhe mostrar o caminho.
+
+- Praticar sua habilidade corpo a corpo é a chave para sobreviver. No início, tente acertar alguns golpes e se sua saúde estiver piorando, fuja! A habilidade aumenta a cada golpe.
+
+- itens que fornecem bônus de habilidade também farão isso se você os colocar no baú do navio. Assim você não precisa carregá-los o tempo todo.
+
+- Esquivar-se é muito útil ao lutar contra vários inimigos.
+
+- Rolos de curativos e outros medicamentos podem ser comprados em comerciantes nas ruas e na loja. Eles salvarão sua vida!
+
+- Não se esqueça que você pode levar tripulantes para explorar a terra. Especialmente no início do jogo é útil, porque você não terá oficiais. Sua comitiva pode chamar atenção extra.
+
+- Sempre observe sua munição e pólvora para armas!
+
+- Com algumas armas grandes, você pode entrar no "modo espingarda" pressionando [TAB] depois de desembainhar sua espada. Você atira com [Q]
+
+- Certifique-se de olhar no inventário após uma luta. Talvez um dos inimigos tenha largado uma arma melhor que a sua! Você também pode pressionar [F] para equipar rapidamente a melhor arma que você possui (funciona também durante as lutas).
+
+}
+
+B_4{Mar}
+About_Build_4_d{NAVEGAÇÃO e BATALHAS MARÍTIMAS}
+About_Build_4
+{
+
+- Os oficiais contratados também contribuem com suas habilidades se não estiverem no seu grupo de oficiais "ativos". Observe que eles contribuem apenas com as habilidades corretas para seu tipo. Na interface Passageiros, você pode reatribuir oficiais e ver suas habilidades efetivas. O efeito total do jogador + oficiais é mostrado como as habilidades do próprio jogador na interface de Passageiros.
+
+- Verifique sempre se o seu navio precisa de reparos! Você também pode atualizar seu navio no estaleiro para torná-lo mais forte, mais ágil ou mais rápido.
+
+- Um navio precisa de tripulação suficiente para navegar e lutar adequadamente!
+
+- Contrate um artilheiro o mais cedo possível para ter um melhor desempenho nas batalhas navais. Ele (ou ela?) também irá equipá-lo com novas munições sempre que você entrar no convés do seu navio; caso contrário, você terá que reabastecer-se no depósito de pólvora no porão de carga.
+
+- Contratar um médico com boas habilidades de defesa e ter remédios a bordo diminuirá as baixas após a batalha. Tripulação ferida é mostrada como [tripulação saudável] / [tripulação ferida] em F2>Navio.
+
+- Não se esqueça que a sua tripulação precisa de comida e rum para sobreviver. Você pode reduzir as rações alimentares se as coisas ficarem críticas; só não espere que a tripulação fique feliz com isso. Obviamente você também precisa de balas de canhão e pólvora para carregar seus canhões.
+
+- Rações duplas de rum aumentarão o moral da sua tripulação, mas eles também poderão entrar em uma briga de bêbados de vez em quando.
+
+- A forma como o seu navio e o navio inimigo estão posicionados no mapa mundi é o mesmo que em mar aberto. Então coloque seu navio em uma boa posição no mapa mundi antes de começar a luta! Uma boa posição inicial pode ser uma grande vantagem.
+
+- Você pode alterar a aparência de suas velas em F2>Navio>Velas.
+
+- Se as probabilidades numa batalha naval estiverem totalmente contra si, carregue correntes e tente quebrar os mastros do inimigo. Se você tiver sucesso, sua fuga será ainda mais fácil.
+
+- O embarque será muito mais fácil com uma tripulação com bom moral. Além disso, é muito eficaz carregar uvas e disparar algumas salvas antes de embarcar.
+
+- A tripulação de embarque usa armaduras e poções que você armazena no armário de armas. Se você não colocar nenhuma arma no armário de armas, eles usarão Cutlasses.
+
+- Mais tarde no jogo, sua tripulação será gerada com melhores habilidades e habilidades e então poderá usar armas que exijam a habilidade Gunman. Mas não no início.
+
+- Ao tentar embarcar, cuidado com a velocidade! Pode ser mortal passar pela lateral de um navio. E certifique-se de não ser atingido pela popa. Ser 'raked' assim realmente dá um soco!
+
+- Sua tripulação pode usar as armas, revólveres, armaduras e medicamentos em seu armário de armas ao embarcar. Isso pode fazer a diferença entre a vitória e a derrota!
+
+- No modo Realista e Homem de Ferro, você precisa de uma bússola e um sextante para ver seu navio no mapa do arquipélago (tecla padrão [M]). Além disso, em todos os modos, eles aumentam sua habilidade de navegação.
+
+- Para executar uma simulação de incêndio quando encontrar seu navio em chamas, você precisa do privilégio "Defesa Básica de Navio". A chave padrão para isso é [C].
+
+- Você pode hastear bandeiras de outras nações através de F2>Relações. Se for uma bandeira falsa, você poderá ser reconhecido. A chance disso aumenta se você for famoso e se aproximar mais de navios amigos de uma nação inimiga. Mas hasteando sua bandeira pessoal, as relações marítimas serão simplesmente as mesmas que suas relações reais.
+
+- Os motores dos navios a vapor precisam de tábuas para funcionar.
+
+}
+
+B_5{Adicional}
+About_Build_5_d{NOTAS ADICIONAIS}
+About_Build_5
+{
+
+- Não se esqueça de salvar com frequência (Quicksave: [F5]). Você nunca saberá o que acontecerá a seguir.
+
+- Você pode personalizar seu jogo nas configurações adicionais do jogo.
+
+- Você também pode entrar em InternalSettings.h em [Game-Folder]\PROGRAM, que pode ser aberto com o NotePad.
+AVISO! Você pode bagunçar as coisas aí! Se você editar este arquivo, siga as instruções no final de cada linha! Se não há descrição e você não sabe o que está fazendo, é melhor deixar como está.
+
+- Na parte inferior do arquivo mencionado, você pode ativar/desativar o sidestep ([A] e [D]). Não conseguimos fazer o controle de colisão funcionar, então você pode deslizar pelo mundo. Configuração padrão: desativado.
+
+- Você pode alterar a aparência de suas velas em F2>Navio>Velas.
+
+- Por que existem dois números para habilidades na ficha de personagem?
+A primeira é a habilidade "nativa" do personagem; a segunda é a habilidade após os bônus e penalidades dos itens E/OU classe do navio terem sido levados em consideração.
+
+- Se você está confuso sobre nomes e posições de ilhas, consulte o Mapa do Arquipélago em F2>Inventário>Mapas. Você também pode comprar mapas de ilhas dos comerciantes de itens, que fornecerão posições e nomes de cidades e praias.
+
+- Minha reputação é horrível. Como posso mudar o que as pessoas pensam de mim?
+Em primeiro lugar, você provavelmente não sabia o que causou isso. Sua reputação diminui quando:
+> Você não pagou um empréstimo do agiota "dentro do prazo".
+> Você não entregou a carga "no prazo".
+> Você atingiu ou matou civis ou comerciantes.
+> Seu grupo de desembarque e/ou oficiais feriram ou mataram um civil. Observe que isso pode acontecer mesmo à distância se seus policiais usarem armas.
+> Você atirou em um navio amigo ou neutro.
+> Você basicamente fez algo maligno em uma determinada situação.
+Para consertar isso, faça o óbvio: boas ações. conversar com as pessoas e ajudá-las, resgatar sobreviventes de naufrágios, terminar missões que ainda estão em andamento e que lhe dão um bônus de reputação, etc.
+}
+
+B_6{Segredos}
+About_Build_6_d{CONTEÚDO SECRETO}
+About_Build_6
+{
+
+- O capitão Hendrick Vanderdecken vende navios muito especiais e amaldiçoados. Ele mora em uma ilha que não pode ser encontrada, exceto por quem já sabe onde fica. Você pode chegar lá obtendo um item famoso de um personagem conhecido em um local conhecido dos filmes Piratas do Caribe.
+
+- Um pistoleiro durão decidiu se esconder do mundo em uma casa em algum lugar na selva. Mas há rumores de que ele tem algum tipo de arma mágica.
+
+- Existe um esconderijo secreto que você pode usar para se esconder em uma caverna em uma ilha desabitada.
+
+- O Boticário de Bridgetown oferece opções interessantes, como aumentar sua saúde ao máximo. Faça-lhe uma visita para descobrir o que é necessário.
+
+- Existem algumas moedas estranhas de um filme conhecido no Caribe. Diz-se que quem encontrar e carregar um com ele, uma terrível maldição cairá sobre ele (e até mesmo sobre sua tripulação, se tais moedas chegarem ao armário de armas).
+
+- O Opium Den na Jamaica oferece tatuagens para aprimorar habilidades.
+
+- Nas Revoluções e nos períodos napoleônicos, você pode deixar minas no mar para trás para destruir seus inimigos.
+}
+
+B_7{Problemas}
+About_Build_7_d{PROBLEMAS CONHECIDOS e SOLUÇÔES ALTERNATIVAS}
+About_Build_7
+{
+
+- Salve com frequência. (Quicksave [F5]) O jogo costuma ser bem estável, mas lembre-se que este é um MOD feito por particulares nas horas vagas e de graça!
+
+- NÃO POSSO CONTINUAR PARA O PRÓXIMO DECK DE EMBARQUE
+Pressione [F12] para forçar o jogo a ativar a recarga. Agora deve ser possível continuar.
+
+- NÃO POSSO MAIS ME MOVER
+Você provavelmente foi definido como Tipo de Ator por meio do código. Pressione [F12] para retornar ao Tipo de Jogador.
+
+}
+
+B_8{Cheats}
+About_Build_8_d{CHEATMODE}
+About_Build_8
+{
+
+Para usar o cheatmode, defina ENABLE_CHEATMODE como 1 na parte inferior de PROGRAM\InternalSettings.h . Isso ativa os seguintes comandos principais:
+
+Numpad 0 = Personagem: Modo Deus
+Numpad 1 = caracteres de rolagem para a ESQUERDA
+Numpad 2 = Selecione o personagem principal
+Numpad 3 = caracteres de rolagem para a direita
+Numpad 4 = Personagem: Subir de nível
+Numpad 5 = Personagem: Falso Level Up
+Numpad 6 = Jogador: + 100.000 Ouro e + 10.000 Riqueza
+Numpad 7 = Personagem: Percorrer reputações (aumentar/reduzir reputação)
+Numpad 8 = Desativa tempestades no mapa mundi e navios perseguindo você
+Numpad 9 = Aciona o ataque inimigo (cheatmode não é necessário)
+TAB = Modo Espingarda: Se você tiver uma espingarda, mosquete ou pistola Jack Sparrow equipada no Modo Luta
+
+Isso também ativa esses "Ajudantes de história" que permitem pular para várias partes das histórias:
+- Woodes Rogers: Cabeça do Barba Negra na cena da cabine de abertura
+- Assassino: Marinheiro que se aproxima de você no cais
+- Bartolomeu: Pierre Delacroix que se aproxima quando você entra na cidade
+- Jack Sparrow: Bêbado aleatório sentado na taverna em Tortuga
+- Hornblower: C.S. Forester que está perto de uma casa no início da história
+}
+
+B_9{Support}
+About_Build_9_d{SUPPORT AND TROUBLESHOOTING}
+About_Build_9
+{
+
+Use compile.log, system.log e possível error.log da pasta principal do jogo para fornecer mais detalhes ao pedir ajuda. Mencione também sua placa gráfica (GFX), pasta de instalação e versão do modpack.
+
+Para descobrir sua placa GFX, pressione o botão Windows + R e digite "dxdiag" seguido de "OK". Isso executará a ferramenta de diagnóstico DirectX que fornece muitos detalhes relevantes.
+
+}
+
+B_10{Informações adicionais}
+About_Build_10_1
+{
+PiratesAhoy! Site and Forum:
+}
+
+About_Build_10_2
+{
+Perfil do banco de dados mod:
+}
+
+About_Build_10_3
+{
+Walkthroughs:
+}

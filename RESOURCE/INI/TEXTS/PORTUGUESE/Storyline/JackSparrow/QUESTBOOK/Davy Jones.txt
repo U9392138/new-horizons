@@ -1,0 +1,12 @@
+title=Dave Jones
+text.t1=Tenho treze anos para resolver meus problemas. A primeira é reencontrar Barbossa. Eu deveria experimentar a taverna em #sTortuga# perto da costa de #sisland_Hispaniola#. Mas primeiro talvez eu deva explorar o Caribe.
+text.t2=Foi um encontro estranho! Minha alma em troca de 13 anos com meu querido navio? Claro que recusei e agora estou sozinho. Terei que buscar minha fortuna do zero, ao que parece. Mas se eu reconsiderar, esta criatura me disse para encontrá-lo em seu Esconderijo Secreto perto de um templo nativo.
+text.t3=Encontrei-me novamente com Davy Jones e ele retirou meu navio (que rebatizei de Pérola Negra) das dívidas em sinal de agradecimento. Eu tenho um problema: encontrar Barbossa novamente. Eu deveria experimentar a taverna em #sTortuga# perto da costa de #sisland_Hispaniola#. Mas primeiro talvez eu deva explorar o Caribe.
+text.t4=.
+text.t5=.
+text.t6=.
+text.t7=.
+text.t8=.
+text.t9=.
+text.t10=.
+

@@ -1,0 +1,27 @@
+string DLG_TEXT[23] = {
+"Então aí está você ",
+"! Quase pensei que você não teria coragem de aparecer!",
+"Bem, como você pode ver, estou aqui. Então não se preocupe!",
+"Preocupante? Meu? Ha! A única coisa que poderia me preocupar é que você derrame seu sangue nas minhas preciosas roupas!",
+"Bem, veremos quem vai sangrar.",
+"Muito bem, então. Vamos resolver esse assunto de uma vez por todas.",
+"Não tenho nada para resolver, #sfriend#. Sua irmã foi muito, muito simpática, ha ha!",
+"Não tenho nada para resolver, #sfriend#. Seu irmão foi muito, muito amigável, ha ha!",
+"Você é um péssimo perdedor, de fato. O navio é meu. Eu venci você de forma justa e honesta e sem trapaça!",
+"#sputa#! Você é um #sgender# sem honra!",
+"Agora, isso é um insulto pelo qual você terá que pagar!",
+"Vá para o inferno, ",
+"! En Garde!",
+"En Garde!",
+"meu amigo",
+"meu amigo",
+"amigo meu",
+"meu amigo",
+"meu amigo",
+"meu amigo",
+"min",
+"Hija de puta",
+"Hijo de puta",
+};
+// First version of "my friend" is for Personal and Pirate character and should be the player's language
+// Second version of "my friend" is for English character and should not be translated

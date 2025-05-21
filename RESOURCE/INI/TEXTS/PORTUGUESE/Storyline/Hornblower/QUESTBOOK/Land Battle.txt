@@ -1,0 +1,12 @@
+title=Batalha Terrestre
+text.t1=Devemos ir para #sRedmond# em #sisland_Redmond# para reunir tropas para lutar contra os franceses.
+text.t2=Fui designado para levar as tropas para Octopus Bay em #sisland_Falaise de Fleur# onde enfrentaremos os franceses.
+text.t3=A batalha está vencida. O Tenente Chumley quer voltar para #sCharlestown# mas temos tantos feridos que vou levá-los para #sOxbay# em #sisland_Oxbay#.
+text.t4=.
+text.t5=.
+text.t6=.
+text.t7=.
+text.t8=.
+text.t9=.
+text.t10=.
+text.t11=.

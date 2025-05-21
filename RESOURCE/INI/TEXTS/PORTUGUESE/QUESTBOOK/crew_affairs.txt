@@ -1,0 +1,2 @@
+title=Notificação - Assuntos da Tripulação
+text.t1=O moral está caindo porque a tripulação está cobiçando a quantidade de dinheiro que há a bordo e quer assinar artigos.

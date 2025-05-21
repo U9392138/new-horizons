@@ -1,0 +1,7 @@
+title=Um companheiro francês
+text.t1=Concordo em ajudar o governador de #sisland_Eleuthera#. O capitão Jean Lafitte já está em #sTortuga# preparando a missão. Talvez eu pudesse encontrá-lo na taverna...
+text.t2=Eu tinha razão! Lafitte estava na taverna recrutando alguns marinheiros. Ele parece ser um sujeito inteligente. Isso é tudo que preciso nesta missão perigosa. Agora, minha próxima parada é Turtle Bay em #sisland_Turks#.
+text.t3=Até agora, está tudo bem. Vou pedir ajuda para aquela mulher chamada Laura Cotton. Ela mora em uma casa perto dos portões da cidade.
+text.t4=O Capitão César, o prisioneiro que encontrei no porão de carga, parece ser um sujeito legal. Que bom que posso ajudá-lo... Agora, de volta a #sEleuthera#! Uma recompensa está esperando por mim.
+text.t5=Feito! Recebi a recompensa e dois novos amigos com o Capitão Lafitte e César e, claro, ajudei a impedir os britÃ¢nicos de atacarem #sisland_Eleuthera#. Nada mal como missão!
+text.t6=O Governador de #sisland_Eleuthera# é uma pessoa legal, mas não colocarei minha vida em perigo por 25.000 moedas de ouro!

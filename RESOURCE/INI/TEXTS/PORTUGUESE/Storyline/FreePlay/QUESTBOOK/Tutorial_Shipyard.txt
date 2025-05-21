@@ -1,0 +1,3 @@
+title=Tutorial - Reparar danos de batalha
+text.t1=O casco e o cordame foram danificados num ataque pirata, por isso devo consertá-los no estaleiro antes de deixar a ilha.
+text.t2=Feito!

@@ -1,0 +1,11 @@
+title=Caves de vinho
+text.t1=Eu sei nadar, mas a maioria dos marinheiros não. Vou tentar usar isso nas adegas!
+text.t2=Um barril em um elevador â o que devo fazer?
+text.t3=Há um Steplock embaixo do elevador!
+text.t4=Acho que encontrei a saída - mas como faço para abri-la?
+text.t5=Ao som, três portões se abriram.
+text.t6=
+text.t7=
+text.t8=
+text.t9=
+text.t10=

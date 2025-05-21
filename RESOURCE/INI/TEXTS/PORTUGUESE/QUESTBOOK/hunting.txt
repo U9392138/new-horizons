@@ -1,0 +1,7 @@
+title=Missão Genérica - Caça a Navios em #sisland#.
+text.t1=Eu devo afundar o #sship_descr# em #sisland#.
+text.t2=Eu afundei o #stype# com sucesso (com a ajuda de Deus, certamente), e posso retornar ao governador da #cidade# para receber minha recompensa.
+text.t3=O sucesso estava do meu lado, e o capitão inimigo e seu bando estão alimentando os tubarões agora. Preciso ir ao governador de #cidade# para receber a recompensa prometida.
+text.t4=Conseguimos! O #sship_descr# se encontrou com Davy Jones e para mim é hora de ir ao governador de #stown# para reivindicar minha recompensa.
+text.t5=Ha... o #stype# não era um guerreiro muito bom. O dinheiro prometido pelo governador da colônia #cidade# chegou até mim com muita facilidade.
+text.t6=A luta foi dura, mas o #stype# fracassou. Tudo o que preciso agora é conseguir o dinheiro do governador da #cidade#.

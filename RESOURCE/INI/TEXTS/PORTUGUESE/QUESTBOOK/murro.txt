@@ -1,0 +1,5 @@
+title=Missão Secundária - os problemas de Zaid Murro.
+text.t1=O ex-navegador do Juno, navio de Vigila Mendes, hoje vive como agricultor. Ele disse que algumas pessoas na selva roubam seus bens. Talvez eu possa ajudar Zaid.
+text.t2=Na selva, depois de sair da cidade, encontrei os bandidos de que Zaid me falou e eles tentaram me matar.
+text.t3=Esses bandidos não estavam sozinhos. Mais fundo na selva, conheci os outros membros da banda fora da lei!
+text.t4=Agora Zaid não deverá ter mais problemas com esses bandidos.

@@ -1,0 +1,9 @@
+title=Abra a galera
+text.t1=A galé na proa do galeão está bloqueada e é minha função abri-la.
+text.t2=Eu encontrei a Galley, eu acho. Agora só preciso de uma ferramenta como um pé de cabra para remover a prancha.
+text.t3=Acho que agora devo procurar o lugar certo para usar essas cordas.
+text.t4=Eu coloquei as cordas - e elas vão até o Porão. Como posso usar isso?
+text.t5=Eu coloquei as cordas - acho que posso fazê-las descer até o Porão. Como posso usar isso?
+text.t6=Há uma ferramenta embaixo do elevador.
+text.t7=Agora são as pranchas que precisam ser colocadas de forma inteligente.
+text.t8=Posso alcançar a ferramenta pelo...

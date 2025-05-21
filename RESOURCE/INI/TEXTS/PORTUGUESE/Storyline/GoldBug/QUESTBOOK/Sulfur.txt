@@ -1,0 +1,12 @@
+title=Enxofre
+text.t1=Produzi Enxofre.
+text.t2=Vai levar algum tempo para destilar o Enxofre - enquanto isso farei outra coisa.
+text.t3=
+text.t4=Preciso de uma caixa para coletar o pó de pirita.
+text.t5=1 Derrube algumas pedras de pirita nas tábuas.
+text.t6=2 Esmague-os cuidadosamente em pó de pirita.
+text.t7=3 Colete o pó de pirita e
+text.t8=4 Coloque-o na Destilaria.
+text.t9=5 Encha a Destilaria com Ãgua do Pátio.
+text.t10=6 Inicie a Destilação e aguarde o processamento.
+text.t11=7 Recolha o enxofre destilado.

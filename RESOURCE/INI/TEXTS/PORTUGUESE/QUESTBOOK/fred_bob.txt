@@ -1,0 +1,10 @@
+title=Missão Secundária - Ajude o contramestre
+text.t1=Que personagem estranho é esse Orable Caron! Não tenho certeza se posso confiar nele. Bem, para a praia ao sul do porto #sFalaise de Fleur# em #sisland_Falaise de Fleur# para ver um novo contramestre.
+text.t2=O contramestre é um pouco difícil de seguir, mas parece ser um bom homem. Preciso falar com o Capitão da Guarda, se conseguir encontrá-lo, para ver se consigo o perdão deste homem.
+text.t3=Conheci o contramestre e já não consigo entendê-lo. Terei que pensar sobre isso, mas não acho que possa ajudá-lo.
+text.t4=Conheci esse contramestre e ele parece sincero, mas não posso sair por aí arriscando minha reputação por alguém que não conheço! Pena, mas realmente não há mais nada a ser feito.
+text.t5=Falei com Aufort e não há nada a ser feito. Portanto, o contramestre permanecerá sob custódia.
+text.t6=Falei com Aufort e que sorte! O contramestre está livre, desde que eu o leve comigo. Acho que o sujeito ficará muito feliz por estar de volta ao mar.
+text.t7=Fred Bob diz que uma carta que ele carrega precisa ser entregue a uma nobre em #sIsla Muelle# em #sisland_Isla Muelle#. Ela deveria estar na igreja que fica perto da Câmara Municipal. Eu me pergunto o que é isso tudo!
+text.t8=É uma pena, sério. Gostaria de ajudar o contramestre, mas as coisas simplesmente não deram certo. Talvez eu tente quando minha reputação estiver melhor.
+text.t9=Não consigo entender uma palavra que esse homem diz! Talvez eu tente mais tarde. Ou não.

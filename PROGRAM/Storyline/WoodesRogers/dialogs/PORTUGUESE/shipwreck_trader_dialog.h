@@ -1,0 +1,26 @@
+string DLG_TEXT[22] = {
+"Aha, finalmente um visitante. Em que posso ajudá-lo? Você é um turista? Quer ver o antigo Forte?",
+"Muitas perguntas. Mas não, só estou interessado em um antigo naufrágio. Você negocia com navios antigos, certo?",
+"Claro, Capitão. Você veio ao lugar certo. De que tipo de naufrágio estamos falando?",
+"É uma chalupa antiga. Uma pequena.",
+"Que coincidência. Você é o segundo cliente hoje a pedir o mesmo tipo de navio.",
+"(!! Eles já estão mesmo aqui?) Hmm, você sabe quem ele era?",
+"Não, ele não disse o nome. Pareceu-me um oficial. Mas não foi muito educado.",
+"(Isso realmente parece um dos oficiais da Rogers.) Você vendeu a chalupa para ele?",
+"Ele não tinha certeza se eu tinha a certa, então queria inspecioná-la primeiro. Este saveiro deveria ter pertencido ao Barba Negra, o famoso pirata.",
+"(Sim!) E é esse saveiro que você tem aqui?",
+"O Tenente Maynard me vendeu, então acho que sim. Mas posso garantir que não há tesouros a bordo.",
+"Posso dar uma olhada também?",
+"De fato, Capitão. Você encontrará o caminho para os meus navios a partir da Taverna. Vá pela cozinha e suba as escadas pelo meu quarto. O cliente anterior já deve ter destrancado a porta do quarto.",
+"Entendo, se eu encontrar algo interessante, voltarei aqui para discutir o prêmio...",
+"O que foi agora?",
+"Você é o único aqui? Nenhum soldado?",
+"Este Forte não é atacado há 200 anos, então sim, sou só eu aqui.",
+"Entendo, adeus então. (Holandês Voador, ah sim!)",
+"Desculpe, mas não tenho tempo para conversar agora.",
+"Ok.",
+"E, Capitão, não ouse tocar em nenhum dos meus pertences pessoais no meu quarto!",
+"Claro que não. (Hmm, que ideia...)",
+
+
+};

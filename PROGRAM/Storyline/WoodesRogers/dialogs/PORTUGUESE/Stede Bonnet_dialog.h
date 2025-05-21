@@ -1,0 +1,20 @@
+string DLG_TEXT[17] = {
+"Ele desmaiou - ",
+"- você não vai ajudá-lo?!",
+"Ei, você aí! Você me parece suspeito. Quem diabos é você? Mostre-me seus documentos!",
+"Quem diabos é VOCÊ? Identifique-se e seja rápido!",
+"Alto! Nunca te vi antes, mas você tem cara de pirata! Pode provar que não é?",
+"Eu sou ",
+", e aqui estão minha patente de capitão e meus documentos de embarque para provar. Foi rápido o suficiente para seu temperamento explosivo?",
+"Tudo pronto, você só precisa assinar aqui, ...ali... e aqui, Capitão (se você souber escrever...)",
+"Com quem você pensa que está falando?",
+"Muito bem, mas com uma caligrafia meio desleixada. A terra é sua então.",
+"Ah, cale a boca e me dê os documentos!",
+"E mais uma coisa, garoto! O Governador quer verificar alguns fatos históricos. Tragam-lhe o 'Johnson'!",
+"Johnson, hein?",
+"Sim, eles me levaram também - e não vamos mais discutir isso - entendeu!!",
+"E aí, Sr. Courtney. (Sou só eu ou ele não parece um pouco como se fosse de... digamos, da Espanha?)",
+"Se você é tão esperto, por que não traz meu uniforme e minhas armas?!",
+"Você não receberá nada disso em troca - (espanhol!).",
+
+};

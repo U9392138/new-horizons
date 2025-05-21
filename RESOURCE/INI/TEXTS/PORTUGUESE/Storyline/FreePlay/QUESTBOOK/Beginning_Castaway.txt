@@ -1,0 +1,3 @@
+title=Sem sorte
+text.t1=Foi minha culpa ter ido ver o capitão e reclamar daquela tempestade violenta. Mal sabia eu o quão estúpido e arriscado isso era! Assim que voltei ao convés, fui levado por uma onda enorme e levado ao mar. Suponho que deveria me considerar sortudo por ainda estar vivo.
+text.t2=Com meus pertences ainda em minha cabine e o navio já desaparecido, não tenho mais nada neste mundo. Mas vi um dos botes salva-vidas caindo no mar pela mesma onda que me levou. Ainda deve estar por aqui em algum lugar...

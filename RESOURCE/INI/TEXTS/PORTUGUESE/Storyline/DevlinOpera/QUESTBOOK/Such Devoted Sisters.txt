@@ -1,0 +1,5 @@
+title=Irmãs tão devotadas
+text.t1=Encontrei minha irmã Bonnie. Ã como se olhar no espelho, somos tão parecidos.
+text.t2=Agora devemos ir para a Ilha #sisland_Turks# e encontrar o pirata Short Jack Gold... e perguntar se ele quer nos mostrar neve!
+text.t3=Chegamos à Ilha #sisland_Turks#. Um de nossos marinheiros descobriu que Short Jack Gold está na prefeitura, em uma reunião e feliz por ser incomodado.
+text.t4=Então vamos para #sisland_Quebradas Costillas# para encontrar nosso irmão Blaze.

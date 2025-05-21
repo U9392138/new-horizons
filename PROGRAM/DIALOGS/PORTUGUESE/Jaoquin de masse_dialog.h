@@ -1,0 +1,21 @@
+string DLG_TEXT[18] = {
+"Seremos vitoriosos!",
+"...",
+"Saudações! Ouvi muito sobre você - e, na verdade, sua ajuda foi muito apreciada.",
+"Fico feliz em conhecê-lo também. Mas que ajuda você quer dizer? Oh, espere... Você está falando daquela pequena agitação perto da costa de #sisland_Oxbay#?",
+"Um favor, comandante? E se alguém roubasse seu filho ou filha e algum burocrata exigisse um favor antes de permitir que você salvasse seu filho?! Ultrajante! Esse homem tem coração?",
+"",
+"Exatamente, ",
+". Você foi de grande ajuda para nós naquele dia. Se não fosse por você, suponho que agora estaria na barriga de algum tubarão.",
+"E a menos que eu esteja enganado, você é o passageiro misterioso que desembarcou no porto de #sGreenford#. Correto?",
+"Misterioso? Ah, acho que entendi o que você quer dizer. Sim, sou eu.",
+"Então talvez você me diga seu nome e como você está conectado aos acontecimentos recentes.",
+"Claro. Meu nome é ",
+". Sou um cavaleiro maltês. Há alguns anos, participei na destruição de um culto maligno de satanistas na Itália...",
+"E agora você veio aqui para terminar o trabalho?",
+"Exatamente. E, se você não se importa, gostaria de unir forças com você. Acredite em mim, não serei inútil",
+"Bem, você conhece a face do inimigo e tenho certeza que pode lutar. Não vejo razão para recusar, então seja bem-vindo a bordo.",
+"Você não se arrependerá disso, capitão. Onde você gostaria que eu te seguisse primeiro?",
+"Para #sisland_Isla Muelle#! Precisamos de informações adicionais.",
+
+};

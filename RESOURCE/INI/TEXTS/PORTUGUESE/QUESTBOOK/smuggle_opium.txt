@@ -1,0 +1,5 @@
+title=Missão Genérica - Contrabando de ópio para #sbuyer#.
+text.t1=Falei com #sbuyer# de #splace#. Ele me disse para conseguir #a mesma quantidade# de plantas de ópio antes de 2 meses. Acho que é hora de ir para o Opium Den!
+text.t2=Eu peguei o ópio em #splace#! Agora vamos voltar ao cliente.
+text.t3=Eu trouxe o ópio para o cliente e ele pareceu satisfeito. Ele me disse isso porque já tem o suficiente por um tempo e eu deveria tentar outros clientes. Quando eu tiver ajudado pelo menos um deles, posso tentar este novamente.
+text.t4=Cheguei tarde demais e não consegui fechar o acordo. Espero que isto não afecte muito a minha relação com os contrabandistas.

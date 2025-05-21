@@ -1,0 +1,3 @@
+title=Oficial desaparecido
+text.t1=#sromance# não voltou para o navio - #spronoun# provavelmente ainda está em algum lugar da cidade. Deveria verificar a taverna.
+text.t2=Parece que #sromance# não abandonou o navio voluntariamente. A alternativa é ainda pior...

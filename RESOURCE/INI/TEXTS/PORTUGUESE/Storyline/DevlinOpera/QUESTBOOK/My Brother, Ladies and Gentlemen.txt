@@ -1,0 +1,4 @@
+title=Meu irmão, senhoras e senhores
+text.t1=Um pescador em #sisland_Quebradas Costillas# disse para perguntar na taverna sobre Blaze. Ele se referiu a ele como 'O Mercador'.
+text.t2=Meu querido irmão tem contrabandeado rum e agora roubou um carregamento inteiro dos piratas em #sisland_Quebradas Costillas#. Típica.
+text.t3=Um acadêmico jovem e bastante estranho me contou que o barco de contrabando de Blaze seguiu para o sul. Existem várias ilhas menores lá, terei que verificá-las uma por uma.

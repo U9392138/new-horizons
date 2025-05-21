@@ -1,0 +1,21 @@
+string DLG_TEXT[18] = {
+"Capitão, não tenho tempo para falar com você agora.",
+"Vejo você mais tarde, então.",
+"Posso treiná-lo para se tornar um Esgrimista Profissional.",
+"Deixe-me mostrar-lhe um pouco de Defesa Avançada.",
+"Você precisa aprender habilidades mais básicas primeiro - ",
+"- fale com outra pessoa.",
+"Deixe-me mostrar-lhe o Acerto Crítico.",
+"Deixe-me mostrar-lhe um pouco de Defesa Avançada ou o Acerto Crítico.",
+"Quero aprender mais sobre Defesa Avançada.",
+"Sim, mostre-me o Acerto Crítico.",
+"Eu certamente digo sim a isso!",
+"Talvez mais tarde.",
+"Use apenas moedas redondas.",
+"Certo.",
+"Se quiser saber mais sobre a Caixa de Coleta -",
+"- pergunte a outra pessoa.",
+"Capitão, agora você sabe tanto quanto nós sobre a Caixa de Coleta!",
+"Ok, tenho tudo no meu Livro de Missões.",
+
+};

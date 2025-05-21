@@ -1,0 +1,6 @@
+title=A missão de Claude Frollo
+text.t1=Se eu entregar o Livro de Hinos do Padre da Igreja para o Bordel, receberei uma recompensa.
+text.t2=O bordel fica em frente ao escritório do Sr. Dupin.
+text.t3=Encontrei o Livro de Hinos.
+text.t4=Ok, entreguei o Livro e a Carta ao Padre Frollo. Vamos ver qual pode ser a recompensa!
+text.t5=Aha, é uma carta de amor. Isso explica o interesse do padre Frollo neste assunto.

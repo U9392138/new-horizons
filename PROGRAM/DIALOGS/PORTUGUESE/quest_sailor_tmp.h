@@ -1,0 +1,20 @@
+string DLG_TEXT[17] = {
+"Voce ja voltou? Posso voltar para Redmond?",
+"Sim. Primeiro, leve alguns caras fortes com voce e traga um oficial frances aqui. Ele esta amarrado na selva.",
+"CapitYo, como ordenou, segui aquele navio. Acabou de navegar...",
+"Otimo, vamos intercepta-lo em mar aberto.",
+"CapitYo! Eu tenho uma mensagem para voce, ",
+"!",
+"Desembucha!",
+"Nosso contramestre ",
+"Ralph Fawn",
+", pediu-me para lhe contar que ele foi a taberna. E se voce decidir navegar, pedi que avisasse ele.",
+"Velho bebado!",
+"Talvez eu deva ligar para ele, capitYo?",
+"Ok, eu mesmo irei.",
+"CapitYo, este pobre sujeito esta cada vez pior. Ele mal consegue respirar.",
+"Coitadinho...Mas por que voce me chamou aqui?",
+"Antes de voce ver o padre, ele quer lhe contar uma coisa.",
+"Certo. Eu vou falar com ele.",
+
+};

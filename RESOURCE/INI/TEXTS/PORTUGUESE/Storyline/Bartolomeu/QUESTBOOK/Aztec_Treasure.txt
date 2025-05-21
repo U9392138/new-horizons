@@ -1,0 +1,11 @@
+title=O tesouro asteca
+text.t1=Eu vi Morgan na prefeitura de #sRedmond#. Ele me disse que os espanhóis encontraram um valioso tesouro asteca perto de Vera Cruz. Ele acha que o tesouro poderia estar guardado no forte de Vera Cruz. Concordei em ajudá-lo vendo a última vez que nossa parceria foi um sucesso. (Dicas: Antes de sair da cidade, confirme se você tem comida e ouro suficientes para a missão. Depois, vá para #sisland_Khael Roa# para recarregar em Vera Cruz)
+text.t2=Não deixei meu navio entrar no Porto de Vera Cruz. Porque, se eu tiver alguns problemas, meu navio não será capturado. Agora, devo falar com o estalajadeiro.
+text.t3=Que lindo trono! Ã feito em pedras preciosas. Agora, tenho certeza de que o tesouro existe. Vamos sair do forte antes de sermos detectados.
+text.t4=Perdemos a Frota durante uma tempestade. Elting acha que ela deve ir para Havana. Vamos para Cuba!
+text.t5=Vi a Frota entrando no porto de Havana. Preciso informar Morgan e o Governador. Próxima parada: #sRedmond#.
+text.t6=Preocupado com a notícia, Morgan decidiu que deveríamos ir imediatamente para Cuba. Lá, ele me dará novas instruções.
+text.t7=Uma nova tarefa para mim e Elting. Devemos saber onde está guardado o tesouro e quantos dias ficará em Cuba. O Capitão Damski pode ser o nosso informante. Elting sabe que mora numa casa entre os portões do porto e a Igreja de Havana.
+text.t8=Conseguimos! Roubamos um tesouro fabuloso num dos melhores fortes espanhóis. Graças a esta façanha, entramos na lenda dos piratas. Sem dúvida, o Governador de #sRedmond# irá nos parabenizar.
+text.t9=Esta expedição foi muito lucrativa. Ganhei 150.000 moedas de ouro e ganharei muito mais quando o trono for vendido. Agora vou para Tortuga descansar como Morgan e Elting também estão pensando em fazer. Talvez no futuro eu veja Elting novamente.
+text.t10=Caramba! Fui detectado pelos soldados. Eles deram o alarme e tive que fugir antes que as tropas espanholas me atacassem. Não sei o que aconteceu com Elting. Mas tenho certeza que não terei nenhuma nova oportunidade de ver o tesouro asteca!

@@ -1,0 +1,2 @@
+title=Notificação - Tempos Turbulentos
+text.t1=Parece que há agitação no Caribe. As nações fazem e rompem alianças ao menor capricho. É melhor eu ficar de olho em todos os acontecimentos recentes, para não me encontrar no meio de uma guerra.

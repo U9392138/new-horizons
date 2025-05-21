@@ -1,0 +1,15 @@
+title=Itens de navegação
+text.t1=Voltarei a Charleston para encontrar uma luneta, uma bússola e um sextante.
+text.t2=A Loja fica ao lado da casa do Sr. Poe.
+text.t3=A alfaiataria fica perto da entrada de Chinatown. Vou procurar um Sr. Pym lá.
+text.t4=Pym tem um Sextante e está disposto a trocá-lo se eu abrir a Alfaiataria. Procurarei uma escada no prédio em frente ao escritório de Auguste Dupin.
+text.t5=O Sextante está na Sala da Torre.
+text.t6=Há algo escondido aqui, mas a escotilha está presa!
+text.t7=Sim, finalmente! Encontrei o Sextante.
+text.t8=Agora vá para a casa do Sr. Poe e conheça Júpiter.
+text.t9=O Sr. Pym tem uma chave reserva da alfaiataria em seu quarto.
+text.t10=Para Fort Moultrie então!
+text.t11=O Tenente G é encontrado no topo da Torre Leste, em busca de pássaros.
+text.t12=Agora vá para a casa do Sr. Poe e conheça o massa Will.
+text.t13=Tenho que encontrar uma bandeira no escritório do Tenente G e içá-la no topo da Torre Sul.
+text.t14=Temos todos os itens de navegação de que precisamos.

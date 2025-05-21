@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"Eu sou o Cavalheiro Jocard, senhor pirata do oceano Atlântico, e esta é minha plantação de escravos. Pague-me dinheiro ou vá embora.",
+"Me desculpe senhor. Eu vou embora",
+"Sou o Capitão Jack Sparrow, senhor pirata do Caribe. Você não é digno desse título, então vou privá-lo dele, esclarecido?",
+"Sim, eu sei quem você é! Você não merece o título, então vou tirá-lo de você.",
+"Você parece ter meu capitão escravo. Por favor, entregue-o.",
+"Isso não vai acontecer, espertinho? Eu não suporto traficantes de escravos presunçosos, ou qualquer traficante de escravos. Prepare-se para morrer.",
+"Sou o Cavalheiro Jocard, senhor pirata do oceano Atlântico. Você realmente acha que pode me matar?",
+"Oh, a única coisa que está faltando é reforço, meu senhor. Chefe, Gombo, ATAQUE!!",
+"Ei você! Esse navio pertence ao Cavalheiro Jocard, o líder da plantação de escravos!",
+"Sim, é... AH NãO!",
+"Você roubou ou matou ele e pegou. Esse é um ato de pirataria cuja pena é a morte. Você será enforcado ao amanhecer!",
+"Caramba!",
+"",
+};

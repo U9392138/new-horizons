@@ -1,0 +1,5 @@
+title=Exame para Tenente
+text.t1=Recebi ordens de navegar para #sisland_Redmond# pelo Capitão Foster.
+text.t2=Devo me encontrar com o Capitão Pellew nos portões da Residência.
+text.t3=O Capitão Pellew disse-me que o Archie foi capturado pelos espanhóis. Agora devo ir fazer meu exame de tenente.
+text.t4=Um navio de bombeiros está se aproximando do porto. Precisamos chegar ao porto e ver o que podemos fazer a respeito.

@@ -1,0 +1,3 @@
+title=Começando como contrabandista em #sisland#
+text.t1=Ã uma pena que não tenha nenhum produto comercial honesto a bordo. Temos alguns reparos caros pela frente e a única maneira de gerar os fundos necessários é entrar em contato com um agente contrabandista na taverna #stown#. Embora eu seja amigo do governo desta cidade, eles podem não aceitar minhas ações. Ã melhor eu ter cuidado!
+text.t2=Bem, aqui estamos na #stown# com um porão cheio de contrabando. Temos alguns reparos caros pela frente e a única maneira de gerar os fundos necessários é entrar em contato com um agente contrabandista na taverna local. O governador provavelmente me enforcaria como contrabandista ou pirata, por isso atraquei sob uma bandeira falsa. Ã melhor eu ter cuidado!

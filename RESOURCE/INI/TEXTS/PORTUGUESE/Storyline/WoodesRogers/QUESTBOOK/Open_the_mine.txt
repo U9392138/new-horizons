@@ -1,0 +1,6 @@
+title=Abra a mina
+text.t1=O contramestre Sr. Pope exige ouro puro para abrir a mina.
+text.t2=Há um baú - mas como faço para chegar até ele?
+text.t3=Sim! Está aberto agora, mas não consigo mais ver o baú...
+text.t4=Ele também me disse que há Rum na Food Cellar.
+text.t5=

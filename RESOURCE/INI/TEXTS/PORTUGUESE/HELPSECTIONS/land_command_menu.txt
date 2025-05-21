@@ -1,0 +1,11 @@
+land_commands_title
+{
+Condição da festa
+}
+
+land_commands_info
+{
+    O personagem do jogador e sua condição de grupo podem ser vistos no canto inferior esquerdo da tela enquanto caminha em terra firme (Fig.1). O jogador vê os rostos de seu personagem e de seus oficiais, e duas listras acima deles. A faixa azul representa o estado de carregamento da pistola do personagem (se ele tiver uma), e a vermelha é a saúde do personagem.
+    Recarregar a pistola e reabastecer a saúde levam tempo.
+    Também aqui há um menu de comando, muito parecido com o menu do ícone de comando do navio. O menu pode ser aberto com a tecla de ommando. A partir desse menu você pode usar o comando Fast Travel para alguns locais (fig.2). Esses locais estão listados na figura 3. São (da esquerda para a direita significa de cima para baixo) loja, estaleiro, taverna, residência do governador e porto onde está o navio do jogador. Usar este menu é absolutamente o mesmo que usar o menu Ícone de comando do navio.
+}

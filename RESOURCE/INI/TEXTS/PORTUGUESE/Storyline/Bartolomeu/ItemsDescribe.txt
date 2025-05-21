@@ -1,0 +1,243 @@
+Potion parameters{Remédio Médico}
+health value{Saúde}
+weapon blade parameters{Arma: dmg.min/max #ddmg_min#/#ddmg_max#, piercing #dpiercing#%, bloco #dblock#%.}
+weapon gun parameters{Arma: dmg.min/max #ddmg_min#/#ddmg_max#, tempo de recarga #dchargespeed#sec, precisão #daccuracy#%.}
+weapon armor parameters{Armadura: Cobertura #dcoverage#%, Chance de parar / Porcentagem de dano recebido se não for interrompido, para: Espada #dbladestop#% / #dbladefrac#%, Arma #dgunstop#% / #dgunfrac#%.}
+
+itmname_Letter_Governor	{Carta ao Governador #sDouwesen#}
+itmdescr_Letter_Governor
+{
+Esta carta escrita pelo Governador de #sConceicao# tem como objetivo pedir ajuda aos holandeses num possível ataque a Cartagena.
+}
+
+itmname_Letter_King	{Carta ao Governador de Cartagena}
+itmdescr_Letter_King
+{
+Carta escrita pelo rei espanhol pedindo para informar o enviado sobre a situação de Cartagena em vários aspectos.
+}
+
+itmname_darien_idol	{Ídolo Darien}
+itmdescr_darien_idol
+{
+Este ídolo dourado pertence a uma tribo de canibais. Representa seu deus da guerra. Quem roubar estará em grandes apuros.
+}
+
+itmname_navy_papers	{Documentos da Marinha}
+itmdescr_navy_papers
+{
+Estes documentos confirmam que trabalha para a Marinha Portuguesa e obtém a sua protecção contra os piratas e inimigos de Portugal.
+}
+
+itmname_Letter_Spy	{Carta para o espião}
+itmdescr_Letter_Spy
+{
+Graças a esta carta, o espião de San Juan irá ajudá-lo em sua busca.
+}
+
+itmname_Fort_Keys	{Chaves do Forte}
+itmdescr_Fort_Keys
+{
+As chaves da prisão. Você pode encontrar a prisão lá embaixo.
+}
+
+itmname_muerte_map	{Mapa Isla de Muerte}
+itmdescr_muerte_map
+{
+Este é o mapa de uma ilha chamada Isla de Muerte. A ilha fica muito ao sul de Cayman.
+}
+
+itmname_Animist_cloth		{Hábito de monge}
+itmdescr_Animist_cloth
+{
+Uma roupa de Monge no mesmo estilo que a minha. Perfeito para Elting quando escaparmos deste lugar horrível.
+}
+
+itmname_key3			{Chave Grande}
+itmdescr_key3
+{
+É a chave para abrir o portão?
+}
+
+itmname_key4			{Chave pequena}
+itmdescr_key4
+{
+Esta chave parece ser adequada para abrir uma cela neste local.
+}
+
+itmname_Montejo_Book {Livro Secreto de Montejo}
+itmdescr_Montejo_Book
+{
+Este antigo livro pertenceu ao famoso conquistador Francisco de Montejo y Alvarez que tentou conquistar o oeste de Yucatán.
+}
+
+itmname_skull_ring		{Anel de caveira}
+itmdescr_skull_ring
+{
+O Anel parece malvado, ele lhe dará poder extra ou o contrário?
+}
+
+itmname_moccasins		{Mocassins}
+itmdescr_moccasins
+{
+Os Mocassins já pertenceram ao The Bounding Elk. Eles podem ser úteis para você?
+}
+
+itmname_mayan_compass		{Bússola Maia}
+itmdescr_mayan_compass
+{
+Que segredos este disco de pedra gravado revelará?
+}
+
+itmname_filled_pipe		{Tubo Cheio}
+itmdescr_filled_pipe
+{
+O tubo de espiga de milho é preenchido com cogumelos secos e pulverizados.
+}
+
+itmname_dried_mushrooms		{Cogumelos Secos}
+itmdescr_dried_mushrooms
+{
+É um Fly Agaric e dois King Bolete?
+}
+
+itmname_pulverized_mushrooms	{Cogumelos Pulverizados}
+itmdescr_pulverized_mushrooms
+{
+Os cogumelos estão prontos para o cachimbo.
+}
+
+
+
+itmname_bladecannon_ball	{Bala de canhão}
+itmdescr_bladecannon_ball
+{
+Este é muito pesado!
+}
+
+itmname_bladeclockkey		{Chave}
+itmdescr_bladeclockkey
+{
+Ai, ainda está quente.
+}
+
+itmname_bladelever		{Alavanca}
+itmdescr_bladelever
+{
+Hmm, onde devo colocá-lo?
+}
+
+itmname_bladefire_irons		{Ferros de fogo}
+itmdescr_bladefire_irons
+{
+OK? Para a lareira então.
+}
+
+
+
+itmname_bladeacid		{Ácido}
+itmdescr_bladeacid
+{
+Uma garrafa de ácido com uma cor muito venenosa. Só Deus sabe para que o sacerdote usou isso.
+}
+
+itmname_bladepclub203		{Clube de pistola}
+itmdescr_bladepclub203
+{
+Uma pistola pesada pode ser usada como porrete. Causa mais dano do que seus punhos.
+}
+
+itmname_pistol203 		{Pistola}
+itmdescr_pistol203
+{
+Uma arma pesada que parece ter sido usada como porrete.
+}
+
+itmname_pistolmaquahuitl	{Maquahuitl}
+itmdescr_pistolmaquahuitl
+{
+Este Maquahuitl está amaldiçoado e pode invocar o deus do trovão Chaac.
+}
+
+itmname_halberd			{Alabarda Enferrujada}
+itmdescr_halberd
+{
+Uma arma antiga, mas poderosa - ou era antes de a ferrugem assumir o controle.
+}
+
+itmname_bladeflint		{pedra}
+itmdescr_bladeflint
+{
+Combinado com um Aço você pode fazer fogo.
+}
+
+itmname_pistolsteel		{Aço}
+itmdescr_pistolsteel
+{
+Combinado com uma pederneira você pode fazer fogo.
+}
+
+itmname_empty_pipe		{Tubo Vazio}
+itmdescr_empty_pipe
+{
+Um cachimbo de espiga de milho vazio.
+}
+
+itmname_calabash		{Cabaça com antídoto}
+itmdescr_calabash
+{
+Este líquido desconhecido cura veneno.
+}
+
+itmname_herbs			{Saco de Ervas}
+itmdescr_herbs
+{
+Uma mistura de ervas que cura feridas leves.
+}
+
+itmname_blowgun			{Zarabatana}
+itmdescr_blowgun
+{
+Os maias usavam a zarabatana para caçar pássaros e pequenos animais. Um tubo para dardos envenenados está preso ao tubo.
+}
+
+itmname_arrows2			{Dardos Envenenados}
+itmdescr_arrows2	
+{
+Algumas culturas mergulham a ponta dos dardos em curare ou outros venenos para paralisar o alvo.
+}
+
+itmname_shield_hand		{Escudo}
+itmdescr_shield_hand	
+{
+Este escudo de madeira pode protegê-lo contra muitas armas. Especialmente útil quando atacado por Flechas.
+}
+
+itmname_shield_back		{Escudo}
+itmdescr_shield_back	
+{
+Este escudo de madeira pode protegê-lo contra muitas armas. Especialmente útil quando atacado por Flechas.
+}
+
+itmname_pistolrocket	{Lançador de foguetes}
+itmdescr_pistolrocket
+{
+Basicamente, um cilindro de metal em uma vara de bambu. Causa muitos danos a um grupo de inimigos, mas também a você mesmo se estiver muito perto.
+}
+
+itmname_rockets			{Foguetes}
+itmdescr_rockets
+{
+Munição para o lançador de foguetes. Você também precisará de pólvora para disparar esses projéteis.
+}
+
+itmname_rocketbag		{Bolsa para Foguetes}
+itmdescr_rocketbag
+{
+Com o Rocket Bag equipado você pode carregar oito Rockets e apenas dois.
+}
+
+itmname_pistolwhip		{Chicote}
+itmdescr_pistolwhip
+{
+Chicote de cauda única, feito de couro trançado, projetado como ferramenta para trabalhar com gado. Use-o para desarmar seus inimigos.
+}

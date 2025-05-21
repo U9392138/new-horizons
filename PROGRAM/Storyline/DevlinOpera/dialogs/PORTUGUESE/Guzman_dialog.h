@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"Você não quer me informar sobre algum crime?",
+"Não, só quero saber se o seu nome é Guzman. E se for, preciso que você devolva o livro de põesia que pegou emprestado do seu superior, Toni Haraldo.",
+"Emprestado? Oh não! Eu... entendi mal, pensei que o livro fosse um presente do senhor Haraldo.",
+"Sinto muito, não foi. E ele precisa disso de volta.",
+"Ah, não... receio que, ehm, tenha vendido o livro. Não achei que ele precisaria disso novamente. Dei ao francês Martin Jauri por cinco moedas de oito. Você tem que perguntar a ele.",
+"Um francês? O que um francês está fazendo aqui?",
+"Não sei. Coletando informações para uma futura aquisição, talvez?",
+"Uma aquisição francesa? Claro! Isso não vai acontecer nos próximos 59 anos! Onde posso encontrá-lo?",
+"Ele mora em uma pequena casa no outro extremo da cidade. Aquele com três caixas na frente da porta.",
+"Tudo bem, vou procurá-lo.",
+"Por favor, não conte ao senhor Haraldo que vendi seu livro de põesia!",
+"Eu não vou.",
+"",
+}

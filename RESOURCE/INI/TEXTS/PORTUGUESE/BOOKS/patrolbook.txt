@@ -1,0 +1,6 @@
+TEXT	{
+Esta é a versão #dversion# do cronograma de patrulhamento para #sIsland#.
+Devido à quantidade de contrabando à venda nesta ilha, foi decidido colocar a guarda costeira no #sState#.
+Isso significa que este será o cronograma:
+#sSchedule#
+}

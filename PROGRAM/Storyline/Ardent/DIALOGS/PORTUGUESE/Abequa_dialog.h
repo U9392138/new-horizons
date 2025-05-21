@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+"Olá.",
+"Olá.",
+"Eu ouço o que você diz. Lembro-me bem dos oficiais. Eles são legais comigo, me dão uma garrafa de vinho. Você é legal comigo, eu te conto tudo sobre eles",
+"Eles disseram para onde iriam a seguir?",
+"Você é legal comigo?",
+"Ah. Eu vejo onde isso vai dar. Onde eu poderia comprar uma garrafa de vinho para você?",
+"Eu também sou legal. Tome esta garrafa de bom vinho. Agora, sobre os oficiais?",
+"Que tal esta garrafa de rum de primeira qualidade?",
+"A taberna da cidade vende garrafas. Não aquele perto do porto. Aquele que não quer que os marinheiros comprem garrafas e levem de volta ao navio.",
+"Tudo bem, vou ver se consigo uma garrafa para você. Não vá embora!",
+"Obrigado! Você é realmente legal. Os oficiais eram muito legais. Todos nós vamos para o quarto, compartilhamos garrafas. Dizem que no dia seguinte o navio deles está cheio de ouro, então eles navegam para #sisland_Curacao#.\nDe lá eles navegam para #sRedmond#.",
+"Oh, bom rum de #sisland_Oxbay#, não barato de #sRedmond#! Muito legal! Eu te falo sobre oficiais. Todos nós vamos para o quarto, compartilhamos garrafas. Dizem que no dia seguinte o navio deles está cheio de ouro, então eles navegam para #sisland_Curacao#.\nDe lá eles navegam para #sRedmond#.",
+"Isso é o que eu queria saber. Aproveite sua garrafa!",
+}

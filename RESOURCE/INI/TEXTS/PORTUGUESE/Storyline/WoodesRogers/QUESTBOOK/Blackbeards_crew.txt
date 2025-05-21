@@ -1,0 +1,6 @@
+title=Tripulação do Barba Negra
+text.t1=Apenas 13 dos 14 foram enforcados. Quem sobreviveu?
+text.t2=Samuel Odel, do Smugglers Lair em La Grenade, foi julgado por pirataria em Williamsburg, Virgínia, 1718. Absolvido. Ele, se alguém, deve saber mais sobre a tripulação de Teach.
+text.t3=Teach visitou Charles Vane em outubro de 1718. Não muito antes da morte de Teach. Eu sei onde encontrar Vane!
+text.t4=O Smugglers Lair pode ser encontrado na selva em qualquer porto, costa ou cidade.
+text.t5=Talvez eu devesse começar com uma visita a Vane. Está nesta ilha!

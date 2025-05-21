@@ -1,0 +1,10 @@
+title=O aprendizado
+text.t1=Chico Cois disse durante a viagem que o verdadeiro nome do espião é Dominico Cuellar, mas na ilha ele se chama Richard Carver. Ele geralmente trabalha no forte, mas mora na casa nos arredores da cidade; Vamos lá.
+text.t2=Meu plano é simples. Esperarei pelo capitão inglês Harold Flesher perto do portão do porto e quando ele aparecer irei segui-lo e matá-lo antes que chegue ao Townhall.
+text.t3=Isso é feito! Ele acabou de se juntar aos seus ancestrais. Devo voltar para a casa de Dominico.
+text.t4=Chegou a hora de levar o relatório ao vice-almirante em #sHavana# em #sisland_Cuba#.
+text.t5=Um espião - Pelagius Lizarraga - desapareceu em #sOxbay# em #sisland_Oxbay#. Preciso encontrá-lo lá e trazê-lo de volta para #sHavana# em #sisland_Cuba#.
+text.t6=Eu o encontrei! Ele foi preso no esgoto por um grupo de bandidos. Agora vamos navegar de volta para #sHavana# em #sisland_Cuba#.
+text.t7=5.000 moedas de ouro novamente! O vice-almirante parece ter muito dinheiro. Não vou reclamar, claro.
+text.t8=O nome desse sujeito é Gabriel Brugera. Ele deve estar no Forte #sPort au Prince#. Vou fumá-lo como um salmão!
+text.t9=Feito! Ele não teve chance. Hora de voltar para #sHavana# em #sisland_Cuba#, uma bela recompensa estará me esperando.

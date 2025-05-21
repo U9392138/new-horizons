@@ -1,0 +1,6 @@
+title=O segredo da masmorra
+text.t1=Aparentemente sobrou muito vinho não utilizado da celebração do casamento de #sromance# com #svillain#. Talvez possa comprá-lo barato e depois vendê-lo em outro lugar com lucro.
+text.t2=Tanto para esse. #svillain# teve a mesma ideia.
+text.t3=Segundo a lenda, a casa do #svillain# pertencia à Inquisição Espanhola, assim como a masmorra vizinha. Pode haver algum saque da Inquisição lá embaixo!
+text.t4=Não encontrei nenhum ouro, mas encontrei #sromance#! Talvez haja uma recompensa por levar #spronoun# para casa.
+text.t5=Não haverá recompensa por levar #sromance# para casa. Mas há uma chance de um prêmio muito maior...

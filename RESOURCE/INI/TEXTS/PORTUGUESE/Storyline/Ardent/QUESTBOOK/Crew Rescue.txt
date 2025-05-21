@@ -1,0 +1,5 @@
+title=Resgate da tripulação
+text.t1=De acordo com os meus oficiais, a tripulação está detida num campo de escravos algures fora da cidade.
+text.t2=O guerreiro índio diz conhecer o caminho para o campo de escravos.
+text.t3=Two Dogs concordou em nos mostrar o caminho para o acampamento se o levarmos para casa.
+text.t4=A tripulação está livre e voltamos para #sHavana#.

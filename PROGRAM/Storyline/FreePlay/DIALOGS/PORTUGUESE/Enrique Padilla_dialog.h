@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+".....",
+".....",
+"Não se mova, #ssir#!",
+"Ele me insultou! Acabei de defender minha honra, #ssir2#!",
+"Duelo? Isso é assassinato! Você acabou de assassinar o filho de um Don muito importante!",
+"Alarme! Alarme! Os piratas fugiram!",
+"Era bom demais para ficar perfeito. #sattack#!",
+"Você vai me seguir. Alguém quer ver você.",
+"Quem? e para onde eu vou?",
+"Você saberá em breve.",
+"Você está na residência do vice-almirante. É uma honra falar com ele, então se eu perceber que você não fala com ele de maneira respeitosa, vou quebrar suas pernas. Está claro!",
+"[PENSA: Cara legal!] Perfeitamente.",
+"HOMENS, ATAQUE",
+};

@@ -1,0 +1,27 @@
+fast_commands_title
+{
+Comandos de ação rápida
+}
+
+fast_commands_info
+{
+    Os ícones de comando de ação répida aparecem no canto superior esquerdo da tela. Apenas um comando pode ser ativado por vez e será mostrado por ícone. Se não houver nenhum ícone ali, significa que nenhuma ação rápida pode ser executada neste local ou neste momento.
+
+    Existem diferentes comandos de ação quente para mar e terra.
+
+    Enquanto o jogador está no mar ele pode usar os seguintes comandos de Ação Rápida (foto 1 da esquerda para a direita):
+  - Atracar em uma costa ou cais da cidade (disponível se o navio do jogador estiver próximo de um local de atracação e não houver inimigos por perto).
+  - Iniciar embarque (disponível quando o navio inimigo está muito próximo do jogador). Comece a embarcar no navio inimigo mais próximo.
+  - Mapa mundi aberto (disponível quando não há navios inimigos por perto). Abra a tela do Mapa Mundi.
+  - Troca ou Recarga (disponível quando o navio de um companheiro está próxima da do jogador e não há inimigos por perto). Abre a tela de troca. O jogador pode trocar tripulantes, oficiais e mercadorias de um navio para outro. Além disso, ele pode substituir o capitão ou até trocar de navio.
+
+Enquanto o jogador está em terra, ele pode usar os seguintes comandos Ação Rápida (figura 2 da esquerda para a direita):
+   - Fechadura Fechada. Este ícone aparece quando o jogador está perto de uma porta ou portão fechado. Este ícone fornece apenas uma informação e nada acontece se o jogador pressionar a tecla "Ação Rápida".
+   - Fechadura aberta. Este ícone significa que o jogador está em frente a uma porta ou portão aberto e após pressionar "Ação Rápida" o jogador entrará no próximo local.
+   - Usar/Pegar item. Este ícone mostra que você pode pegar ou fazer algo neste local. Tudo será feito automaticamente após usar a tecla "Ação Rápida". Além disso, este comando é usado para colocar itens em baús ou retirá-los de baús.
+   - Olhar. O ícone mostra que você pode inspecionar o item ou personagem próximo.
+   - Falar. O ícone mostra que você pode iniciar uma conversa com um personagem parado na sua frente.
+   - Navegue para longe. O ícone mostra que aqui o jogador pode ir para seu navio e deixar esta ilha.
+   
+   O comando "Ação Rápida" pode ser executado com a tecla "Ação Rápida".
+}

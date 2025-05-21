@@ -1,0 +1,25 @@
+navios_command_title
+{
+Menu do ícone de comando do navio
+}
+
+navios_command_info
+{
+    O menu do ícone de comando do navio (Fig.1) está situado no canto inferior esquerdo da tela. Basicamente, ele mostra ícones do jogador e de suas naves companheiras (se houver). O primeiro jogador deve selecionar um navio ao qual deseja dar um comando. Use as teclas esquerda/direita para fazer isso. O navio atualmente selecionado será destacado em amarelo. Em seguida, pressione a tecla Ativar Comando para confirmar a seleção. Um número no canto superior esquerdo do ícone mostra a classe do navio (a 1ª classe é a mais poderosa). Acima do ícone do navio pode haver algumas informações gráficas sobre as condições do navio (depende do que o jogador Spyglass possui). Esta informação é representada por três listras - branca, azul e vermelha: o branco mostra o estado das velas, o azul mostra o número da tripulação e o vermelho mostra o estado do casco do navio.
+
+    Depois de selecionar o navio para o comando você verá uma lista de possíveis comandos que poderiam ser dados a esse navio (Fig.2). Todos os comandos possíveis estão listados na figura 3 da esquerda para a direita:
+   - "Atracar" (somente para o navio do jogador): pode ser usado somente quando o navio do jogador estiver próximo a alguma costa onde o jogador possa atracar. Transfere o jogador do navio para a terra;
+   - "Embarque" (somente para navio do jogador): se houver um navio inimigo próximo ao navio do jogador este comando irá inicializar a ação de embarque naquele navio;
+   - "Navegar para local/navio" (somente para navio do jogador): se possível, o navio do jogador alcançará instantaneamente algum outro navio ou navegará para algum lugar. Este comando economiza muito tempo real, principalmente se não houver nenhum inimigo por perto;
+   - "Tropas terrestres" (somente para o navio do jogador): Após o jogador destruir a maioria dos canhões do forte com tiros de canhão, ele pode desembarcar tropas naquele forte (seu navio deve estar próximo o suficiente do forte). Quando o jogador o selecionar, você iniciará uma luta corpo a corpo com a guarnição do forte (igual ao embarque) e se vencer, o forte será considerado capturado;
+   - "Mapa Mundi" (somente para o navio do jogador): Se não houver inimigos ao redor o jogador vai para a tela do Mapa Mundi;
+   - "Trocar mercadorias/tripulação" (apenas para navio do jogador): Com este comando o jogador pode trocar tripulação e mercadorias com um navio de qualquer um de seus companheiros (os navios devem estar próximos uns dos outros como para embarque);
+   - "Atacar inimigo" (somente navio do companheiro): Após esse jogador deve selecionar um alvo que deseja atacar. Então o navio companheiro escolhid0 atacará o alvo selecionado que pode ser um forte ou um navio;
+   - "Defender" (somente navio do Companheiro): O navio do Companheiro protegerá e defenderá o alvo selecionado. O alvo pode ser um navio ou forte aliado;
+   - "Navegar para longe" (apenas navio do companheiro): É uma ordem para deixar o campo de batalha e navegar para longe. Depois de receber esta ordem, o navio do companheiro tentará navegar o mais longe que puder dos navios ou fortes inimigos, mas não sairá do campo de visão do jogador;
+   - "Render-se" (somente navio do companheiro): O navio do companheiro derrubará as velas e interromperá qualquer movimento ou atividade. Tripulação deste navio considerada rendida.
+   - "Recarregar Canhões" (somente para o navio do jogador): Alterar o tipo de munição dos canhões na navio do jogador. Um dos seguintes tipos de munição pode ser selecionado (foto 4): balas de canhão, estilhaços, facas e bombas. Um número acima do ícone do tipo de rodada mostra quantas rodadas desse tipo o jogador tem a bordo.
+   - "Controle de velas" (somente para o navio do jogador): Configurar velas (foto 5): armar velas cheias, golpear velas e armar velas de batalha. As velas de batalha proporcionam velocidade média de navegação com boa manobrabilidade. Velas cheias - velocidade máxima de navegação, mas pior manobrabilidade.
+
+    Alguns comandos também requerem uma seleção de alvo. Por exemplo, o comando "Navegar para" requer a seleção de um navio, que pode ser hostil ou hostil, ou mesmo uma costa ou cidade. Quando o jogador seleciona o alvo para navegar, o minimapa centraliza no alvo selecionado, para que o jogador possa ver onde seu navio estará após confirmar o comando.
+}

@@ -1,0 +1,16 @@
+string DLG_TEXT[12] = {
+"Eu já te disse, vá embora.",
+"!!",
+"Espere, senhor! Ninguém está autorizado a entrar.",
+"Olha, não sou ladrão, só quero fazer algumas perguntas.",
+"Você não pode. A plantação está fechada para estranhos.",
+"Hmm... Mas diga-me, esta é a plantação de Bessop?",
+"Não, não mais. Uma vez que pertenceu à família Bessop. Agora siga em frente!",
+"Ainda há aqui escravos do período Bessop?",
+"Acho que sim. Agora você sai em paz ou temos que ..?",
+"Tudo bem, tudo bem. Voltemos a Charleston Júpiter.",
+"Tem alguém aqui?!",
+"Ah, ah...",
+"",
+"",
+};

@@ -1,0 +1,9 @@
+Prepare-se para a derivaClock_Weather_title
+{
+Indicador de data e clima
+}
+
+Clock_Weather_info
+{
+     O indicador de data e clima é colocado no canto superior direito da tela do Mapa Mundi. Os números mostram a data atual do jogo, e o clima atual e a hora do dia são mostrados com uma imagem em uma janela redonda.
+}

@@ -1,0 +1,499 @@
+CtrlPress{Pressione "Ctrl" para adicionar }
+AltPress{"Alt" para adicionar}
+ShiftPress{"Shift" para adicionar}
+
+SettingsDefault{AVISO!}
+SettingsDefaultinfo{
+
+Todas as configurações de compilação serão redefinidas para o padrão.
+Você perderá todas as suas preferências pessoais.
+Continuar?}
+
+profile_name{Nome do perfil do jogo}
+settingprofile_name1
+{
+Nome padrão do perfil de jogo
+}
+settingprofile_name2
+{
+#Todos os jogos salvos serão armazenados com este nome de perfil e poderão ser carregados apenas com este nome de perfil
+}
+
+REALISMMODE_0{- Modo de navegação simples, direção do vento tem pouco efeito
+- Lunetas e RADAR na tela oferecem informações completas
+- Mapa Mundi navegando em navegação direta estão disponíveis
+- Navegue para e viagem rápida estão disponíveis gratuitamente
+- Pode comandar navios e recarregar armas enquanto luta}
+
+REALISMMODE_1{- O vento e a inércia afetam fortemente a navegação
+- Os dados no mar dependem dos itens que você equipou
+- Mapa Mundi navegando em navegação direta estão disponíveis
+- Viagem instantânea limitada apenas a locais descobertos
+- Navios grandes limitados, bem como recarrega durante esgrima}
+
+REALISMMODE_2{- Mapa mundi completamente desativado
+- Tamanho do Caribe aumentado para viagens precisas
+- Não há dados irrealistas disponíveis no mar
+- Navegar para completamente desativado
+- Sem melhorias de habilidade irrealistas de itens}
+
+AniOn{Animação e Texto Extra}
+
+AniOff{Sem animação ou texto}
+
+general_game{-- CONFIGURAÇÕES GERAIS DO JOGO --}
+settinggeneral_game1
+{
+# Essas são configurações que você pode ajustar com base em suas preferências pessoais, mas geralmente não estão relacionadas ao realismo ou dificuldade.
+}
+graphical{-- CONFIGURAÇÕES GRÁFICAS --}
+settinggraphical1
+{
+# Essas configurações alteram a aparência do jogo, mas não influenciam a jogabilidade.
+}
+difficulty{-- CONFIGURAÇÕES DE DIFICULDADE --}
+settingdifficulty1
+{
+#Essas configurações podem ser usadas para variar a dificuldade do jogo conforme sua preferência.
+}
+realism_character{-- CONFIGURAÇÕES DE REALISMO: PERSONAGEM --}
+settingrealism_character1
+{
+# Essas configurações de realismo estão relacionadas aos personagens, como aumentos de habilidades e armas.
+}
+realism_interface{-- CONFIGURAÇÕES DE REALISMO: INTERFACE --}
+settingrealism_interface1
+{
+# Essas configurações de realismo permitem ou não certas coisas nas interfaces do jogo.
+}
+realism_sea{-- CONFIGURAÇÕES DE REALISMO: MAR --}
+settingrealism_sea1
+{
+# Essas configurações de realismo estão relacionadas à navegação no mar, incluindo batalhas navais, bem como ao mapa mundi.
+}
+
+
+auto_skill_system{Ganho de experiência}
+settingauto_skill_system1
+{
+Distribuir manualmente os pontos de habilidade recebidos (padrão PotC)
+}
+settingauto_skill_system2
+{
+Os atos do jogador definem os aumentos de habilidade
+}
+settingauto_skill_system3
+{
+# Escolha como você ganha experiência durante o jogo.
+NOTA: Não se aplica a Habilidades.
+}
+deathrate{chance de sobrevivência}
+settingdeathrate1
+{
+Chance de Game Over após naufrágios e lutas perdidas. Se você sobreviver, 
+ficará desanimado, tornando este um desafio totalmente novo!
+1 significa sobrevivência certa, 130 significa morte certa.
+}
+enable_weaponsmod{Qualidades da arma}
+settingenable_weaponsmod1
+{
+Desligado (padrão PotC)
+}
+settingenable_weaponsmod2
+{
+As armas têm diferentes graus de qualidade: de "Desgastado" a "Excelente".
+}
+settingenable_weaponsmod3
+{
+#A qualidade da lâmina diminui com o tempo e pode quebrar.
+As armas podem ser reparadas novamente em ferreiros.
+}
+sweden_allowed{Permitir Suécia}
+settingsweden_allowed1
+{
+Desligado (Padrão PotC)
+}
+settingsweden_allowed2
+{
+A Suécia aparece como uma nação no jogo.
+}
+settingsweden_allowed3
+{
+#Permite que a Suécia seja uma nação no jogo durante as eras "O Principal Espanhol", "Era de Ouro da Pirataria" e "Poderes Coloniais".
+}
+RELATION_IGNORE_FRIENDLY{Os fortes ignoram você se forem amigáveis}
+settingRELATION_IGNORE_FRIENDLY1
+{
+Desligado - Fortes e navios lembrarão de você mesmo que você não seja hostil.
+}
+settingRELATION_IGNORE_FRIENDLY2
+{
+Ligado - Fortes e navios só lembrarão de você se você for hostil.
+}
+settingRELATION_IGNORE_FRIENDLY3
+{
+#A menos que esteja ativado, os fortes lembrarão de você mesmo que você não seja hostil. Se a nação deles mais tarde se tornar hostil à nação que eles lembram para você, eles atacarão.
+}
+wdmap_ship_show_mode{Nível de informações dos navios no mapa mundi}
+settingwdmap_ship_show_mode1
+{
+Todos os navios mostrados como modelos de navios específicos do país (padrão PotC)
+}
+settingwdmap_ship_show_mode2
+{
+Todos os navios visíveis, mas a nacionalidade está oculta, exceto os piratas
+}
+settingwdmap_ship_show_mode3
+{
+Nenhuma nação mostrada
+}
+settingwdmap_ship_show_mode4
+{
+Nenhum navio mostrado
+}
+settingwdmap_ship_show_mode5
+{
+#
+   Inglaterra: Brigue          França: Fragata
+  Holanda: Fleut          Espanha: Galeão
+Portugal: Caravela       Pirata: Escuna
+}
+national_paint_schemes{Esquemas Nacionais de Pintura}
+settingnational_paint_schemes1
+{
+A maioria dos esquemas de pintura dos navios são aleatórios (padrão PotC)
+}
+settingnational_paint_schemes2
+{
+Os esquemas de pintura dos navios dependem da sua nacionalidade
+}
+settingnational_paint_schemes3
+{
+#Esquemas de cores distintos para navios de nações específicas podem ajudar a reconhecê-los de longe
+}
+sailho_infolevel{Nível de informação Navio à vista}
+settingsailho_infolevel1
+{
+Relata apenas uma "vela estranha no horizonte"
+}
+settingsailho_infolevel2
+{
+O tipo de navio é relatado, mas nada mais
+}
+settingsailho_infolevel3
+{
+Nacionalidade e tipo de navio informado
+}
+settingsailho_infolevel4
+{
+#Esta configuração permite que você adicione alguma surpresa aos seus encontros
+}
+visit_deck{Ancoragem e resgate}
+settingvisit_deck1
+{
+Resgate de prisioneiros é feito através da Interface de Passageiros.
+}
+settingvisit_deck2
+{
+Resgate de prisioneiros é feito conversando com eles no porão do seu navio.
+}
+settingvisit_deck3
+{
+#Visite o convés do navio ao viajar entre o porto/costa e o mar.
+
+NOTA: Você pode pular esta etapa a qualquer momento usando o menu [Enter] e escolhendo "Mar" ou "Porto".
+}
+use_real_cannons{Canhões reais}
+settinguse_real_cannons1
+{
+Stock PotC: armas disparam em um arco alto, amplo deslocamento da esquerda para a direita
+}
+settinguse_real_cannons2
+{
+Fogo direto e mais realista; menos deslocamento esquerda-direita possível
+}
+extra_hit_check{Verificação de acerto extra}
+settingextra_hit_check1
+{
+Não, ataques acidentais não causarão hostilidades
+}
+settingextra_hit_check2
+{
+Sim, quando um navio é atingido, reduza a relação com você
+}
+settingextra_hit_check3
+{
+#Ative tiros perdidos em navios aliados para causar hostilidade. "Canhões reais" devem estar ativados para que esta configuração tenha efeito
+}
+cannonpowder_mod{Pólvora para canhões}
+settingcannonpowder_mod1
+{
+Não é necessária pólvora para armas de navio (padrão PotC)
+}
+settingcannonpowder_mod2
+{
+Você deve ter pólvora em seu PORÃO DE CARGA para carregar os canhões dos navios
+}
+settingcannonpowder_mod3
+{
+#Não confundir com a pólvora ITEM PESSOAL para armas portáteis.
+}
+food_on{Rações alimentares}
+settingfood_on1
+{
+Desligado (padrão PotC)
+}
+settingfood_on2
+{
+A tripulação precisa de comida e rum para se manter viva e feliz
+}
+settingfood_on3
+{
+#Meia ração alimentar diminui o moral. Rações duplas de rum podem aumentar o moral. Até a tripulação ficar bêbada, claro.
+}
+sy_rpg_style{Disponibilidade do navio no estaleiro}
+settingsy_rpg_style1
+{
+Todos os tipos de navios podem ser vendidos (padrão PotC)
+}
+settingsy_rpg_style2
+{
+Os estaleiros não venderão navios muito acima do nível do jogador.
+}
+settingsy_rpg_style3
+{
+#Se estiver ativado, o preço de venda dos navios depende de como você adquiriu o navio. Um navio pirata não é vendido por tanto ouro quanto um navio comprado anteriormente.
+}
+realistic_ship_purchase{Compra realista de navio}
+settingrealistic_ship_purchase1
+{
+Sem limites adicionais na compra de navios (stock PotC)
+}
+settingrealistic_ship_purchase2
+{
+Nenhum navio maior que fragatas pode ser comprado, mas precisa ser capturado
+}
+settingrealistic_ship_purchase3
+{
+#Se você quiser comprar navios grandes, precisa ser amigável com as nações que os vendem. Na maioria dos casos, você precisará até mesmo ter uma classificação nessa nação. Classificação mais alta significa navios maiores.
+}
+it_rpg_style{Disponibilidade do item do comerciante}
+settingit_rpg_style1
+{
+Os jogadores podem comprar itens MUITO bons no início do jogo
+}
+settingit_rpg_style2
+{
+Os comerciantes não terão itens bons demais para o jogador
+}
+settingit_rpg_style3
+{
+#Leve em consideração o nível do jogador para itens disponíveis nos fornecedores
+}
+persuasion_tags{Tags de persuasão}
+settingpersuasion_tags1
+{
+Tags de persuasão não aparecem nas caixas de diálogo (padrão PotC)
+}
+settingpersuasion_tags2
+{
+Tags de Persuasão aparecem nas caixas de diálogo
+}
+settingpersuasion_tags3
+{
+#Ativar ou desativar [Tags de Persuasão] em diálogos influenciados pela habilidade ou sorte do personagem
+}
+salary_multiplier{multiplicador de salário}
+settingsalary_multiplier1
+{
+Multiplicador para salário de tripulantes e oficiais. 1 é o padrão PotC. \nOpção 4 e superiores tornam o jogo mais interessante e desafiador.
+}
+kb_tuneships{navios sintonizadores}
+settingkb_tuneships1
+{
+Stock PotC: Os navios não podem ser atualizados
+}
+settingkb_tuneships2
+{
+Atualizar navios é possível em estaleiros
+}
+enable_ammomod{munição e pólvora}
+settingenable_ammomod1
+{
+Não é necessária munição para armas portáteis (padrão PotC)
+}
+settingenable_ammomod2
+{
+Pólvora e tipo certo de munição são necessários para armas PORTÁTEIS.
+}
+settingenable_ammomod3
+{
+# Não confundir com pólvora para CANHÕES de navios
+NOTA: Munição necessária para certas histórias.
+}
+corpsemode{cadáveres saqueáveis}
+settingcorpsemode1
+{
+Sem corpos por aí, sem capacidade de saque (padrão PotC)
+}
+settingcorpsemode2
+{
+Os cadáveres persistirão, mas não poderão ser saqueados manualmente
+}
+settingcorpsemode3
+{
+O cadáver persiste e pode ser saqueado manualmente
+}
+settingcorpsemode4
+{
+O cadáver persiste, pode ser saqueado manualmente e não obstrui a caminhada
+}
+settingcorpsemode5
+{
+#AVISO: Na opção 3, o corpo criará um obstáculo intransponível até ser saqueado!
+}
+autoloot_on{Saque automático}
+settingautoloot_on1
+{
+Sem saque automático de personagens mortos
+}
+settingautoloot_on2
+{
+Lâmina/Arma/Dinheiro dos inimigos mortos serão movidos para seu inventário.
+}
+settingautoloot_on3
+{
+#Isso pode ser combinado com a configuração 'Corpos saqueáveis', já que quaisquer itens que não sejam saqueados automaticamente serão deixados no cadáver.
+}
+dialog_camera{Câmera de diálogo}
+settingdialog_camera1
+{
+0.0: A câmera permanece bloqueada atrás do personagem (padrão PotC)
+}
+settingdialog_camera2
+{
+0,1 a 1,0: A câmera será movida para o lado dos personagens
+}
+settingdialog_camera3
+{
+#NOTA: Valor máximo não adequado para todos os locais
+}
+enable_brothel{Acesso ao bordel}
+settingenable_brothel1
+{
+Completamente desativado (padrão PotC)
+}
+settingenable_brothel2
+{
+Localização acessível
+}
+settingenable_brothel3
+{
+#Um pouco explícito, mas apenas em PALAVRAS.
+NOTA: Obrigatório para certas histórias.
+}
+enable_buildingset{BuildingSet}
+settingenable_buildingset1
+{
+Não há edifícios adicionais em nenhum local. Construir sozinho não é possível.
+}
+settingenable_buildingset2
+{
+Edifícios adicionais em alguns novos locais. Você pode construir seus próprios \nedifícios em terra para diversos fins.
+}
+settingenable_buildingset3
+{
+#Esses edifícios são necessários para que as histórias adicionadas façam sentido.
+NOTA: Os edifícios podem parecer claros à noite e permitir que você atravesse as paredes devido às limitações do mecanismo de jogo.
+}
+no_theft{Batedores de carteiras}
+settingno_theft1
+{
+Agora você pode escolher bolsos. Mas isso é arriscado, e outros ladrões também podem roubar o SEU bolso. Quanto maior esse valor, mais seguro você estará contra batedores de carteira. Acima de 30 ninguém pega no SEU bolso, acima de 60 você mesmo não tem chance de roubar
+}
+lock_open{Baú Trancado}
+settinglock_open1
+{
+Você precisa de alguma habilidade para arrombar a fechadura de um baú. E alguns podem estar armadilhados! Acima de 33 você não vai mais se machucar, acima de 66 os baús estão sempre abertos.
+}
+GENERATE_STORMS{Tempestades}
+settinggenerate_storms1
+{
+Tempestades não serão geradas no mapa mundi
+}
+settinggenerate_storms2
+{
+Tempestades serão geradas no mapa mundi (padrão PotC)
+}
+loc_camera{Câmera de porta}
+settingloc_camera1
+{
+A visão da câmera permanecerá bloqueada no jogador por trás
+}
+settingloc_camera2
+{
+A câmera girará para focar no personagem do jogador (padrão PotC)
+}
+settingloc_camera3
+{
+#Comportamento da câmera conforme o jogador se aproxima de uma porta
+}
+onsea_compass{Aparência da bússola}
+settingonsea_compass1
+{
+Rosa dos ventos azul simples (padrão PotC)
+}
+settingonsea_compass2
+{
+Bússola transparente laranja
+}
+settingonsea_compass3
+{
+Bússola histórica de latão
+}
+settingonsea_compass4
+{
+#Mostrado na interface de batalha no mar
+}
+default_sails{Velas Nacionais}
+settingdefault_sails1
+{
+Padrão PotC: Todos os navios têm velas brancas comuns, com emblemas
+}
+settingdefault_sails2
+{
+Padrão de construção: Os navios têm velas desgastadas, apenas emblemas precisos
+}
+settingdefault_sails3
+{
+Todos os navios resistiram às velas, com emblemas
+}
+settingdefault_sails4
+{
+Todos os navios têm velas brancas puras, apenas emblemas precisos
+}
+settingdefault_sails5
+{
+Todos os navios têm velas brancas puras, com emblemas
+}
+settingdefault_sails6
+{
+#Emblemas podem ajudá-lo a reconhecer nacionalidades de navios à distância
+}
+pirates_black_sails{Velas piratas}
+settingpirates_black_sails1
+{
+Os piratas usam as mesmas velas das Velas Nacionais (configuradas acima)
+}
+settingpirates_black_sails2
+{
+Piratas usam velas pretas simples
+}
+settingpirates_black_sails3
+{
+Piratas usam velas pretas com emblema
+}
+settingpirates_black_sails4
+{
+#Velas Negras podem ajudá-lo a reconhecer piratas de longe
+}

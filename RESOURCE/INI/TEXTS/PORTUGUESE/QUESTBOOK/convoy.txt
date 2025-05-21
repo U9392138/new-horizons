@@ -1,0 +1,6 @@
+title=Missão Genérica - Escolte um comerciante até #sisland#.
+text.t1=Devo escoltar um navio mercante até #sisland#. O armador vai me pagar #dmoney# por isso. Devo me encontrar com ele em #sdestination#.
+text.t2=Mil demônios! Esta tempestade... Minha "bolsa à vela" foi para o armário de Davy Jones.
+text.t3=Não me importo com minha reputação quando minha tripulação quer comer e exige dinheiro, então traí meu empregador. Ele não chegará mais ao seu destino.
+text.t4=Maldição! Este #sattacker# era um canalha hábil! Meu empregador morreu, então devo procurar uma nova fonte de lucro.
+text.t5=Falha!

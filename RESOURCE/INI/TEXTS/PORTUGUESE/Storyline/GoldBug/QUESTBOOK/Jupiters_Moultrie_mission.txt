@@ -1,0 +1,12 @@
+title=Missão Moultrie de Júpiter
+text.t1=
+text.t2=Compre alguns jornais na vila de Fort Moultrie.
+text.t3=Pegue o Gold-Bug de volta do Tenente G no Forte.
+text.t4=Eu tenho o Bug Dourado.
+text.t5=Eu tenho os papéis.
+text.t6=Agora é só encher a garrafa com conhaque do barril do restaurante!
+text.t7=Tenho certeza de que há uma garrafa vazia em algum lugar do restaurante.
+text.t8=Sim, o hotel está disposto a trocar papel por roupa de cama.
+text.t9=A loja aceita bebidas alcoólicas e não comida.
+text.t10=O Tenente G foi visto a caminho do restaurante.
+text.t11=O Tenente G está lá embaixo no restaurante.

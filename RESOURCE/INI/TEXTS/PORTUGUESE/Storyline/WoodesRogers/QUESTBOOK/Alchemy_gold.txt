@@ -1,0 +1,6 @@
+title=Alquimia - abra a fechadura dourada
+text.t1=Tenho que encontrar algo que dissolva o Ouro
+text.t2=Tenho Aqua Regia â é um termo em latim que significa "Ãgua Régia" ou "Ãgua Real" em português. Ã uma mistura altamente corrosiva e oxidante de ácido nítrico (HNO3) e ácido clorídrico (HCl), geralmente na proporção de uma parte de ácido nítrico para três partes de ácido clorídrico. Ã uma das poucas substÃ¢ncias que pode dissolver os metais nobres como ouro e platina, razão pela qual recebeu o nome de "Ãgua Régia", pois pode "dissolver os reis dos metais". Devido à sua natureza perigosa, deve ser manuseada com extrema cautela.
+text.t3=
+text.t4=
+text.t5=

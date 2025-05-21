@@ -1,0 +1,8 @@
+title=Caixa de coleção
+text.t1=Tenho que colocar algumas moedas (as certas!?) na caixa de coleta. Isso me ajudará a encontrar uma maneira de sair daqui?
+text.t2=As moedas são todas de nações diferentes.
+text.t3=O número de moedas de ouro é dois.
+text.t4=Use apenas moedas redondas.
+text.t5=Existe uma única moeda de cobre.
+text.t6=Deveria haver sete moedas na caixa, nem mais nem menos.
+text.t7=Uma pomba me trouxe uma carta - vou ver o que pode ser.

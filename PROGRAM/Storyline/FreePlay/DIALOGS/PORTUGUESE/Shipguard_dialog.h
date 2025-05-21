@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+".....",
+".....",
+"Boa noite, padres, o que vocês estão fazendo aqui tão tarde? Vejo que você trouxe o Padre Gerardo com você?",
+"Si, queremos sair da cidade, tornou-se muito perigoso para nós, padres. Aqueles piratas fugitivos deveriam ser enforcados.",
+"Sim, todos os outros estão tentando pegá-los, mas parecem não conseguir encontrá-los. Então padres, embarquem no navio e boa viagem para todos vocês.",
+"Deus te abençoe, te abençoe! Adeus!",
+"Há um navio contrabandista inglês atracado na Bahia de San Antonio. Com um pouco de sorte, a maior parte de sua tripulação ficará bêbada nas tavernas.",
+"Não há tempo a perder então! Vamos.",
+"Aí está, #scaptain#, o 'Cavalo Marinho'.",
+"Bom, a tripulação está pronta?",
+"Todos estão prontos.",
+"#sattack#!",
+"Capitão",
+"Ataque",
+};

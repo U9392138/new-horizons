@@ -1,0 +1,10 @@
+title=Carvão
+text.t1=Produzi carvão.
+text.t2=
+text.t3=Preciso de uma concha para retirar o carvão da lareira.
+text.t4=Vai levar tempo - enquanto isso farei outra coisa.
+text.t5=1 Serre as toras
+text.t6=2 Pique a madeira.
+text.t7=3 Coloque-o na lareira.
+text.t8=4 Acenda o fogo.
+text.t9=5 Quando estiver queimado até virar carvão, está pronto, retire-o da lareira.

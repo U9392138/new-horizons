@@ -1,0 +1,580 @@
+HelpChooser {Escolha de Ajuda}
+MainInterface {Interface Principal}
+DialogControls {Diálogo}
+WorldMapControls {Mapa Mundi}
+BattleInterfaceControls {Menu de Interface}
+Sailing1Pers {Navegação em Primeira Pessoa}
+Sailing3Pers {Navegação em Terceira Pessoa}
+FightModeControls {Modo de Combate}
+PrimaryLand {Terra Primária}
+
+
+
+ChrCamTurnV
+{
+Vertical character camera movement
+
+}
+ChrCamTurnH
+{
+Horizontal character camera movement
+
+}
+ChrCamCameraSwitch
+{
+Mude a câmera para o modo de visão em primeira/terceira pessoa
+
+}
+ChrCamNormalize
+{
+Defina a visualização da câmera para a posição padrão
+
+}
+
+Sulan_ArchipelagoMap
+{
+Mostrar mapa do arquipélago (se tiver um)
+
+}
+
+ShipCamera_Turn_V
+{
+Movimento vertical da câmera do navio
+
+}
+ShipCamera_Turn_H
+{
+Movimento Horizontal da câmera do navio
+
+}
+ShipCamera_Forward
+{
+Aumentar zoom da câmera do navio
+
+}
+ShipCamera_Backward
+{
+Reduzir zoom da câmera do navio
+
+}
+
+
+
+
+
+
+
+DeckCamera_Turn_V
+{
+Olhe para cima/para baixo no convés do navio
+
+}
+DeckCamera_Turn_H
+{
+Vire à esquerda/direita no convés do navio
+
+}
+DeckCamera_Forward
+{
+Avance no convés do navio
+
+}
+DeckCamera_Backward
+{
+Mova-se para trás no convés do navio
+
+}
+DeckCamera_Left
+{
+Deslocamento lateral para a esquerda no convés do navio
+
+}
+DeckCamera_Right
+{
+Deslocamento lateral para a direita no convés do navio
+
+}
+
+
+
+
+
+
+
+ChrTurnH
+{
+Turn character
+
+}
+ChrTurnV
+{
+Andar com o personagem
+
+}
+ChrTurnHL
+{
+Vire o personagem para a esquerda
+
+}
+ChrTurnHR
+{
+Vire o personagem para a direita
+
+}
+ChrAction
+{
+Execute uma ação
+
+}
+ChrForward
+{
+Mover-se para frente
+
+}
+ChrForward1
+{
+Mover-se para frente
+
+}
+ChrBackward
+{
+Mover-se para trás
+
+}
+ChrBackward1
+{
+Mover-se para trás
+
+}
+ChrRun
+{
+Correr
+
+}
+ChrRunStick
+{
+Correr
+
+}
+ChrBlock
+{
+Bloqueio
+
+}
+ChrAttackFast
+{
+Atacar
+
+}
+ChrRecoil
+{
+Evadir
+
+}
+ChrFightMode
+{
+Desembainhar/embainhar espada
+
+}
+ChrFire
+{
+Disparar pistola
+
+}
+
+
+
+
+
+
+Ship_TurnLeft
+{
+Vire o navio à esquerda
+
+}
+Ship_TurnRight
+{
+Vire o navio à direita
+
+}
+Ship_SailUp
+{
+Içar velas
+
+}
+Ship_SailDown
+{
+Arriar velas
+
+}
+Ship_Fire
+{
+Disparar canhões
+
+}
+Aimed_Ship_Fire
+{
+Disparar tiro mirado manualmente
+
+}
+Sea_CameraSwitch
+{
+Alternar entre o modo No Convés e Câmera flutuante
+
+}
+TelescopeIn
+{
+Ligar/desligar uma luneta
+
+}
+
+
+
+
+
+WMapTurnH
+{
+Gire a câmera ao redor do navio no Mapa Mundi
+
+}
+WMapTurnV
+{
+Gire a câmera sobre o navio no Mapa Mundi
+
+}
+WMapCameraRotate
+{
+Ativar deslizamento e rotação da câmera
+
+}
+WMapForward
+{
+Aumentar zoom o mapa mundi
+
+}
+WMapBackward
+{
+Reduzir zoom no mapa mundi
+
+}
+WMapCameraSwitch
+{
+Alterar modo de câmera
+
+}
+WMapShipSailUp
+{
+Navegar para frente
+
+}
+WMapShipSailDown
+{
+Navegar para trás
+
+}
+WMapShipTurnLeft
+{
+Vire à esquerda
+
+}
+WMapShipTurnRight
+{
+Vire à direita
+
+}
+WMapCancel
+{
+Sair do mapa mundi
+
+}
+
+
+
+
+
+
+Interface
+{
+Abrir tela de status do jogador
+
+}
+MainMenu
+{
+Abrir menu principal
+
+}
+Help
+{
+Abrir seleção de tópicos de ajuda
+
+}
+
+
+
+
+
+BICommandsActivate
+{
+Abra o menu do ícone de comando
+
+}
+LICommandsActivate
+{
+Abra o menu do ícone de comando
+
+}
+BICommandsConfirm
+{
+Ativar ícone de comando selecionado
+
+}
+BICommandsCancel
+{
+Cancelar menu do ícone de comando atual
+
+}
+BICommandsLeft
+{
+Role para a esquerda no menu do ícone de comando
+
+}
+BICommandsRight
+{
+Role para a direita no menu do ícone de comando
+
+}
+MiniMapZoomIn
+{
+Aumentar zoom no Minimapa
+
+}
+MiniMapZoomOut
+{
+Reduzir zoom no  Minimapa
+
+}
+BIFastCommand
+{
+Execute o comando "Ação Rápida"
+
+}
+
+
+
+
+
+HelpChooser_Cancel
+{
+Sair da seleção de tópicos de ajuda
+
+}
+HelpChooser_Action
+{
+Ver tópico de ajuda no elemento de tela selecionado
+
+}
+HelpChooser_Next
+{
+Ver próximo tópico de ajuda
+
+}
+HelpChooser_Prev
+{
+Ver tópico de ajuda anterior
+
+}
+HelpChooser_Left
+{
+Selecione o tópico que está à esquerda
+
+}
+HelpChooser_Right
+{
+Selecione o tópico que está à direita
+
+}
+HelpChooser_Up
+{
+Selecione o tópico que está acima
+
+}
+HelpChooser_Down
+{
+Selecione o tópico abaixo
+
+}
+
+
+
+
+
+
+
+DlgAction
+{
+Escolha uma resposta no diálogo
+
+}
+DlgUp
+{
+Selecione a resposta anterior no diálogo
+
+}
+DlgDown
+{
+Selecione a próxima resposta no diálogo
+
+}
+DlgScrollUp
+{
+Rolar o texto do diálogo para baixo
+
+}
+DlgScrollDown
+{
+Rolar o texto do diálogo para cima
+
+}
+
+// NK configurable modded controls
+BI_ChargeCannonballs
+{
+Recarregar com balas de canhão
+
+}
+
+BI_ChargeGrapes
+{
+Recarregue com uva
+
+}
+
+BI_ChargeKnippels
+{
+Recarregar com tiro de corrente
+
+}
+
+BI_ChargeBombs
+{
+Recarregue com bombas
+
+}
+
+NK_NameChange
+{
+Mude o nome do jogador para aquele em BuildSettings.h
+
+}
+
+NK_AlwaysRunToggle
+{
+Alternar a direção de sempre corrida / "Clubhauling" (estibordo ou bombordo)
+
+}
+
+NK_LogsToggle
+{
+Alternar informações extras de registro
+
+}
+
+NK_Re-init
+{
+Reinicialize o jogo
+
+}
+
+SCHEFFNOW_RUSH
+{
+Iniciar o modo pressa
+
+}
+
+BOAL_Control
+{
+Acelere o tempo em etapas de 1x a 3x, 10x e 30x
+
+}
+
+BOAL_Control2
+{
+Informações do personagem, correção de bugs. Jogo travado, recarregue e pressione aqui.
+
+}
+
+BOAL_Control0
+{
+Desacelere tempo em etapas de 30x a 10x, 3x e 1x
+
+}
+
+BOAL_UsePotion
+{
+Beba uma poção de cura
+
+}
+TIH_FireDrill
+{
+Tente apagar um incêndio em seu navio
+
+}
+
+DCH_Quicksave
+{
+Tecla de atalho de salvamento rápido
+
+}
+DCH_Quickload
+{
+Tecla de atalho de carregamento rápido
+
+}
+
+Sidestep_left_on
+{
+Passo para a esquerda
+
+}
+
+Sidestep_right_on
+{
+Passo para direita
+
+}
+
+Equip
+{
+Equipar rapidamente
+
+}
+
+NK_Pause
+{
+Pausar jogo
+
+}
+
+NK_DialogStart
+{
+Saquear Cadáver
+
+}
+
+straif_weapon_left
+{
+Salto para a esquerda
+
+}
+
+straif_weapon_right
+{
+Salto para a direita
+
+}
+
+ScreenCleaning
+{
+Remove ícones e mensagens de log
+
+}

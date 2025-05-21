@@ -1,0 +1,2 @@
+title=A vida como corsário
+text.t1=Chegamos a #sTortuga# porque quase não existem outros portos amigáveis no Caribe. Embora os piratas estejam dispostos a aceitar a minha presença aqui, é minha tarefa tornar a vida o mais difícil possível para todos os inimigos do meu país. E talvez eu possa até capturar algumas colônias para eles também! O emissário na mansão do governador será meu ponto de contato.

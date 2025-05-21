@@ -1,0 +1,17 @@
+title=Devolva a coleção de arte nativa ao Governador Silehard.
+text.t1=O governador me contou que os piratas sob o comando de Alistair Garcilaso capturaram o navio que entregava uma coleção de artefatos nativos para #sRedmond# em #sisland_Redmond#. A toca do pirata fica na ilha #sisland_Douwesen#. Tenho a missão de encontrar a coleção e entregá-la em #sRedmond# em #sisland_Redmond#. Este é um desafio difícil, mas serei bem pago. Primeiro preciso descobrir exatamente onde fica o covil do pirata e depois procederei de acordo com as circunstâncias.
+text.t2=Um velho taverneiro raposa me apresentou a um sujeito estranho que diz saber onde fica o covil do pirata. Esse sujeito se ofereceu para explicar como chegar lá ou me mostrar o caminho. Pedi a ele apenas que me explicasse como chegar lá.
+text.t3=Um velho taverneiro raposa me apresentou a um sujeito estranho que diz saber onde fica o covil do pirata. Esse sujeito se ofereceu para explicar como chegar lá ou me mostrar o caminho. Pedi a ele que me mostrasse o caminho.
+text.t4=O pirata que concordou em me mostrar o caminho para a toca dos piratas me atacou na selva. Eu rapidamente o despachei. Agora duvido que seja muito fácil entrar furtivamente na toca.
+text.t5=Eu sabia. Assim que o primeiro sentinela me avistou, deu o alarme.
+text.t6=Minha reputação desagradável me ajudou a entrar na cova do pirata sem lutar.
+text.t7=Pela minha conversa com o líder pirata, descobri que as estatuetas estão no navio pirata, exceto uma estatueta que foi comprada por uma garota. Eu poderia tentar entrar furtivamente no navio agora com meus companheiros enquanto não há tripulação a bordo, ou poderia retornar ao meu navio e então embarcar no navio pirata - mas temo que isso possa ser mais difícil porque os piratas estarão a bordo fazendo pronto para ir para o mar.
+text.t8=Entrei furtivamente na barca pirata com meus oficiais. Havia mais alguns guardas do que eu pensava, mas vencemos a luta. Já estou com a coleção e vou devolver ao governador.
+text.t9=Embarquei na barca pirata e tive sorte. Na cabine do Capitão encontrei a coleção de arte nativa, além de uma estatueta que aparentemente foi comprada por uma garota. Agora que o tenho, posso voltar ao governador para receber a recompensa.
+text.t10=Durante o combate, afundei a barca pirata. Felizmente, ele afundou em águas rasas e deveremos conseguir retirar a carga de seu porão.
+text.t11=Minha tripulação passou o dia inteiro recuperando as mercadorias do porão do navio pirata afundado. Conseguiram recuperar todo o acervo e agora é hora de navegar até o governador.
+text.t12=Hum. Parece que Silehard ficou muito chateado porque falta um único ídolo da coleção - aquele ídolo comprado por uma garota desconhecida. Mas talvez eu esteja enganado... ele não reclamou especificamente comigo sobre isso.
+text.t13=Acabei de comprar a coleção dos piratas. Infelizmente, tive que pagar uma quantia considerável de dinheiro por isso. Agora vou reportar a Silehard.
+text.t14=Alistair Garsilaso, chefe pirata de #sisland_Douwesen#, revelou-se um covarde miserável. Eu apenas me apoiei um pouco nele e ele me entregou a coleção imediatamente.
+text.t15=Como não encontrei a coleção na casa do Alistair, provavelmente ela ainda está no navio dele. Agora só preciso encontrar o navio. Provavelmente o encontrarei em alguma baía próxima.
+text.t16=Alistair recusou-se a cooperar comigo. Só espero que a coleção de ídolos ainda esteja no navio pirata. Suspeito que esteja na baía perto da toca do pirata.

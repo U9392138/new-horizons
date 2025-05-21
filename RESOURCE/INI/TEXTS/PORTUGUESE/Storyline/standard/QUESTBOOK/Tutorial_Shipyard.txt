@@ -1,0 +1,3 @@
+title=Tutorial - Reparar os danos causados ao meu navio por uma tempestade
+text.t1=O casco e o cordame estão danificados, por isso devo consertá-los no estaleiro antes de sair da ilha.
+text.t2=Feito!

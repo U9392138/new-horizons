@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+"Ah! Beatriz... Pequena Beatriz. Eu reconheceria esses olhos em qualquer lugar, como você cresceu. Você recebeu a carta do seu pai então?",
+"Tio Manny! Quase não te reconheci. Faz muito tempo que não vejo você. O que você está fazendo aqui? ",
+"Ah! Eu estava com medo dessa parte. É uma longa história, mas para ser breve, quando você nasceu você tinha uma irmã gêmea. Seu pobre pai, entretanto, passou por tempos difíceis, tempos muito difíceis, e não tinha condições de manter vocês dois. Então concordei em criar sua irmã como minha própria filha.",
+"Uma irmã gêmea! Mas, por que ninguém me contou? Qual o nome dela? Onde ela está? O que ela esta fazendo?",
+"Vá devagar, vá devagar. Entrei para a Marinha para melhorar e, quando você tinha cerca de três anos, fui enviado para o Caribe, onde estou desde então, e é claro que trouxe sua irmã, Bonnie, comigo. Ela sabe sobre você. Eu disse a ela há um ou dois anos.",
+"Bonnie, então esse é o nome dela. Onde ela está agora?",
+"Um passo de cada vez, um passo de cada vez. Quando seu pai faleceu, sua sorte havia melhorado muito. Ele recebeu um mapa de um vasto tesouro, que ele me enviou. Ele quer que você e Bonnie compartilhem isso porque ele sente que decepcionou vocês dois quando crianças.",
+"Ele não me decepcionou. Só escolhi ir para o mar porque gosto de aventura.",
+"É bom ouvir isso. De qualquer forma, aqui está o mapa, algum dinheiro e alguns outros itens que você pode achar úteis. Uma luneta e uma bússola para se orientar no mar, e algumas armas decentes para se defender em terra, caso seja necessário\nBonnie você encontrará no porto. Ela está te observando desde que você desembarcou, e se eu a conheço, ela trouxe algumas roupas para ter o mesmo estilo que você! Vá encontrar a Beatrice dela e depois pegue o tesouro. Está tudo marcado no mapa, com algumas anotações na margem.",
+"Ha Ha! Você deveria, eu já bati em você no meu joelho algumas vezes. Não reconhecer seu tio Emmanuel, irmão de seu pai. Seja qual for o próximo!",
+"Tio Manny! Mas eu era apenas uma criança, lembro-me de você, é claro. Mas, o que você está fazendo aqui? E o que significa a carta do meu pai? 'Irmã'. Eu não tenho irmã.",
+"Precisarei pensar sobre tudo isso, mas poderei fazer isso depois de conhecer Bonnie. Obrigado tio Manny... e adeus.",
+"O que você está esperando, Beatriz? Sua irmã e a herança de sua família estão esperando!",
+"Estou a caminho, tio!",
+};

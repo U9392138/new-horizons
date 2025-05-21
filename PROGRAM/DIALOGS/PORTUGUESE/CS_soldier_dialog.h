@@ -1,0 +1,15 @@
+string DLG_TEXT[13] = {
+"Deixe-me em paz, estou de folga",
+"Ah, não se preocupe comigo",
+"Você se importa se eu me juntar a você? Talvez eu possa pegar uma bebida para você?",
+"Isso é bom da sua parte. Se você está comprando, certamente pode se juntar a mim!",
+"Barman! Duas canecas de rum, por favor!",
+"Então, amigo, o que o traz até aqui?",
+"Vários negócios. E você? Você não faz parte da guarnição de #sCartagena#, não é?",
+"Não, amigo. Somos da Frota Tierra Firme. Estamos presos aqui até a nossa carga chegar.",
+"Que tipo de carga?",
+"Ah, você não gostaria de saber? Bem, mesmo se eu lhe dissesse que é toda a prata deste continente, não lhe faria bem nenhum! Nenhum pirata jamais desafia nossa frota e vive!",
+"Tenho certeza disso! Enfim, há quanto tempo você está preso aqui?",
+"Eu não faço ideia. Amanhã, na próxima semana, no próximo mês... só os nossos oficiais sabem. E eles não vão beber com pessoas como nós!\nUm deles até foi até a cidade até a outra taverna só para evitar estar no mesmo lugar que nós, a escória comum. Bastardos!",
+"Sim, eu conheço o tipo. Aqui, tome outra bebida por minha conta. Mas agora preciso ir.",
+}

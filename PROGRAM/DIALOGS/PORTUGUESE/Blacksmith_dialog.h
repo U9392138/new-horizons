@@ -1,0 +1,45 @@
+/*
+ * Blacksmith_dialog.h
+ *
+ * ferreiro de Kralendijk, Bonaire
+ */
+
+string DLG_TEXT[37] = {
+"Olá capitão, prazer em conhecê-lo. Sou #sfullname#, o ferreiro local.",
+"Um ferreiro, hein? Então, o que exatamente você faz? Você pode consertar alguma coisa para mim?",
+"Ah sim, claro que posso, #ssir#! Posso consertar qualquer espada que você trouxer para mim. Basta equipar a espada que precisa ser consertada e eu consertarei para você. O preço varia para cada tipo de espada e nível de dano, mas posso consertar todas as espadas em um dia.",
+"Bom, vamos ao que interessa!",
+"Obrigado, vou manter isso em mente! Adeus.",
+"Uau, seu ",
+" está em péssimas condições! TENHO que consertar isso!",
+"Hum, sua ",
+" está em muito mau estado. Você quer que eu conserte isso?",
+"Bem, tua ",
+" está em condições razoáveis, mas será bem mais letal e causará muito mais estragos depois de um bom polimento e refinamento no gume!",
+"Ótima ",
+"! Eu diria para afiar um pouco mais, polir ela... O que você me diz?",
+"Ha! E o que exatamente você gostaria que eu fizesse com o seu ",
+"? Brincadeirinha, posso polir ela para você, se quiser.",
+"... Que ",
+" é incrível! Uma verdadeira obra-prima! Eu não ousaria fazer nada com medo de destruí-la!",
+"Quero que você faça desta a melhor espada do Arquipélago, mesmo que isso me custe ",
+"Faça dela uma lâmina da qual se orgulhar, eu te darei ",
+"Uma espada decente é tudo que preciso. Você pode consertá-la para, digamos ",
+"Estou com muito pouco dinheiro, então dê uma olhada rápida nela ",
+"Muito bem...",
+"Deixa para lá. Isso pode ser um pouco caro demais para o meu bolso.",
+"Pronto, terminei. Espero vê-lo novamente quando precisar dos meus serviços.",
+"Obrigado, saberei onde encontrar você!",
+"Se você quiser meus serviços, por favor, equipe uma lâmina, uma lâmina adequada, antes de falar comigo.",
+"Deixe-me ver o que você tem em estoque.",
+" moedas de ouro.",
+"Eu trouxe comigo muitas lâminas. Você seria capaz de colocá-los todos em melhores condições?",
+"Pareço um deus indiano com vários braços? Não perco meu tempo consertando os garfos e porretes da sua tripulação para que eles possam quebrá-los na cabeça de alguém novamente. Mas meus aprendizes poderiam ajudá-lo.",
+"Peça-lhes que reparem as lâminas mais danificadas, para que cada uma tenha pelo menos qualidade média. Leve estes ",
+"Se eles pudessem deixar as lâminas com boa qualidade, eu pagaria a você ",
+"Espero que seus aprendizes conheçam seu ofício. Só aceitarei qualidade superior. Aqui está o seu ",
+"Não tenho certeza de quais lâminas você está falando.",
+"Desculpe, não importa.",
+"O que exatamente você quer que eu faça com essa antiguidade enferrujada!?!? Nenhum ferreiro em todo o Caribe poderia consertá-lo, infelizmente.",
+"Só há uma qualidade que é boa o suficiente para mim: excelente. Pegue o seu ",
+};

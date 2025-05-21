@@ -1,0 +1,8 @@
+title=Tripulação de Woodes Rogers
+text.t1=Tal como pensei, eles estão atrás do Pistolbelt. Talvez seja melhor voltar para Port Royale e a família de Rogers.
+text.t2=Eles mataram o Governador! Vou seguir Caroline até ele.
+text.t3=Continuarei ajudando Caroline e cuidando dos policiais.
+text.t4=Nossa última chance é conseguir ajuda de Charles Vane. Selkirk abre para mim...
+text.t5=A tripulação é derrotada, mas alguns dos oficiais ainda estão vivos.
+text.t6=Matamos o último membro da tripulação, mas Courtney, Cook, Dampier e Dover conseguiram escapar!
+text.t7=

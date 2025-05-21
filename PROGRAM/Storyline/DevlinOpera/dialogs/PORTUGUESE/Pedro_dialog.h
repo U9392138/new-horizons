@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+"Psiu, estou me escondendo aqui do lojista!",
+"Chega dessa bobagem mulherenga, Pedro! Volte para o seu navio imediatamente!",
+"Já é tão tarde? A esposa do lojista realmente tem talento para fazer esquecer o tempo!",
+"*balançando a cabeça* - VAI!",
+"Espere aí! Onde você está indo? Se identifique!",
+"Só vou dar um passeio à beira-mar. Existe algum problema?",
+"Procuramos o navegador do nosso navio, Rocoso Balboa. O capitão suspeita que ele possa estar perambulando.",
+"O navegador Balboa? Mas acabei de vê-lo perto da taverna. Ele estava prendendo algumas mulheres.",
+"Prender mulheres? O que você está falando?",
+"Sim, ele estava prendendo um bando de prostitutas por não usarem roupas adequadas. Na verdade, eles não usavam nenhuma roupa. Não havia guardas da cidade por perto, então o oficial Balboa sentiu que era seu dever acabar com essa vulgaridade.",
+"Você ouviu isso, Juan? Sem roupas! Rápido, talvez ainda possamos dar uma olhada!",
+"...",
+"Pediram-me para trazer este pobre sujeito aqui para o barco de quarentena. Ele está muito doente.",
+"Doente? Qual o problema com ele?",
+"A temida lugia. Altamente contagioso. Eu aconselho você a manter distância. A capa médica impede a propagação apenas até certo ponto.",
+"Você ouviu isso, Juan? Nós todos vamos morrer! CORRER!",
+}

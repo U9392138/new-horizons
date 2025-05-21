@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+"Que bom ver você aqui, capitão!",
+"Mundo pequeno, não é?",
+"Olá! Eu sou ",
+". Você tem algo que eu quero: uma caveira de cristal âmbar, para ser mais preciso. Entregue-o, por favor.",
+"Eu sou ",
+" e isso é ",
+". Acabamos de matar uma gangue, provavelmente a sua. Então, por que lhe daríamos a caveira agora?",
+"Porque tenho um canhão lá fora. A tripulação tem ordens de que se eu não sair ileso, carregando a caveira de âmbar, eles derrubarão esta caverna sobre suas cabeças. Em seguida, escavaremos a caverna e retiraremos os crânios de seus corpos mutilados.",
+"E devemos acreditar na sua palavra de que você tem um canhão?",
+"Vocês são lutadores competentes. Como você disse, você derrotou meu grupo de busca. Eu estaria aqui sozinho se não tivesse esse seguro?",
+"Tudo bem, digamos que acreditamos em você. Como sabemos que você não vai atirar assim que sair da caverna?",
+"Dinheiro, querido #sperson#. Tiros de canhão não são baratos.\nAlém disso, há muita terra não utilizada por lá. Se as autoridades #snationdesc# não quiserem explorar isso, talvez eu possa.",
+"Pontos justos.",
+"Uma decisão sábia. Agora seja sábio novamente e não tente sair da caverna por pelo menos 10 minutos. Adeus.",
+"Até nos encontrarmos novamente, capitão ",
+" Aqui está o crânio.",
+}

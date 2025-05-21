@@ -1,0 +1,12 @@
+title=Matança de escravos.
+text.t1=Em #sOranjestad# em #sisland_Aruba# vi dois homens brigando na rua. Decidi intervir. Depois de matar o agressor, descobri que o homem que salvei era traficante de escravos.
+text.t2=Decidi que ele se juntasse à minha tripulação como oficial, na esperança de que ele me levasse a libertar os escravos.
+text.t3=Esse sujeito ofereceu seus serviços como oficial, mas tenho minhas reservas sobre ele e ele me levar para libertar os escravos, então eu disse a ele que tinha uma tripulação completa.
+text.t4=Quando cheguei em #sDouwesen# em #sisland_Douwesen#, o traficante de escravos me contou uma estranha história sobre um naufrágio atrás de uma cachoeira. Talvez eu queira dar uma olhada.
+text.t5=O ouro estava lá! Agora sei que a localização da Plantação com os escravos fica em #sisland_Eleuthera#. A próxima parada é tentar libertá-los.
+text.t6=O traficante de escravos seguiu em frente até a plantação e provavelmente até a casa do chefe. Eu deveria segui-lo até lá.
+text.t7=O chefe da plantação é um senhor pirata! Eu não posso lutar com ele.
+text.t8=Lutei e matei o senhor pirata e todos os seus homens. Os escravos agora estão livres. Eu também tenho o pedaço dele de 8, talvez eu devesse ir ver Nathan Kell no #sisland_Turks# sobre um novo e digno Senhor Pirata.
+text.t9=Nathan Kell sugeriu que eu fosse ao forte e entregasse a moeda 8 ao Capitão Drow.
+text.t10=Dei a moeda de 8 ao Capitão Drow, em troca roubei um anel que estava na mesa dele.
+text.t11=Lutei e matei o senhor pirata e todos os seus homens. Os escravos agora estão livres. Dei a peça 8 de Jocard ao líder deles - ele agora é o novo Cavalheiro Jocard, senhor pirata do AtlÃ¢ntico.

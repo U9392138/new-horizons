@@ -1,0 +1,10 @@
+title=Missão Secundária - O Colecionador
+text.t1= Conheci um sujeito suspeito no porto #sGreenford#. Ele me contou sobre algumas oportunidades. Se eu estiver interessado, devo encontrá-lo na taverna.
+text.t2= Não consegui encontrar o sujeito a tempo. Acho que essa oportunidade passou por mim.
+text.t3= Encontrei-me com o contrabandista na taberna e ele me disse que um de seus contatos era um colecionador de armas indígenas. Parece que este colecionador está procurando 10 arcos.
+text.t4= Recusei a oferta, algo não parece certo aqui.
+text.t5= Aceitei o acordo, o contrabandista me disse para reportar a ele assim que receber os arcos. Eles devem ser entregues antes de dois meses, então devo me apressar um pouco porque não tenho ideia de onde devo entregá-los depois de recebê-los.
+text.t6= Não consegui entregar as armas nativas a tempo. Acho que os contrabandistas não vão gostar disso...
+text.t7= Consegui coletar todas as armas, o contrabandista me disse para encontrar #sname# em #slocation# em #sisland#. Lá receberei meu pagamento.
+text.t8= Encontrei-me com o comprador, embora ele não pudesse oferecer muito dinheiro pelos arcos, ele tinha outra coisa que despertou meu interesse, então fiz o acordo com ele.
+text.t9= Voltarei ao boticário em #sGreenford# agora.

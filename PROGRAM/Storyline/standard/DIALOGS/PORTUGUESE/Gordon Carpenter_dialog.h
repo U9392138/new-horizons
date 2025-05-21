@@ -1,0 +1,15 @@
+string DLG_TEXT[12] = {
+"Olá.",
+"Olá, meu amigo! Faz um tempo que não vejo você. Como vai você?",
+"Eu estou bem. Que tal uma caneca?",
+"Não se importe se eu fizer isso",
+"Você sabe, estou ouvindo histórias. Alguém viu um barco com velas pretas perto da ilha. O navio conhecido como 'Pérola Negra'.",
+"Sim, eu também vi. O que há de tão especial nisso?",
+"O 'Pérola Negra' é um navio terrível. Muitos dos meus amigos entraram em conflito com ele e acabaram mortos.\nDizem que seu capitão é o próprio diabo e que sua tripulação é formada por esqueletos vivos. Se foi visto por aqui, é uma grave notícia para #sFalaise de Fleur#.",
+"Tu podes estar certo. O que mais eles dizem sobre isso?",
+"Bem, ouvi dizer que há um raio de esperança. Dizem que esta fragata negra é quase invencível - mas não totalmente. Há uma coisa que até o capitão teme, assim como você e eu tememos a morte...\nAlgum artefato encantado, supostamente encontrado na selvagem selva inca. Dizem que torna o seu dono imparável.",
+"E quem são eles'? Os mesmos 'eles' que veem sereias no mar?",
+"Alguns deles, sim. Mas muitas pessoas sóbrias e confiáveis também passaram a acreditar nessas histórias. Cada vez mais homens procuram esse artefato. ",
+"Bem, essa é uma história muito divertida e agradeço por ela. Mas agora preciso ir. Talvez eu te veja novamente. ",
+"",
+};

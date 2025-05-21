@@ -1,0 +1,6 @@
+title=Missão Secundária - Ajude a Senhora
+text.t1=Conheci Doña Estrella de Alençar na igreja em #sIsla Muelle# em #sisland_Isla Muelle#. Bela moça! E que história. Ela tem um amante pirata e me contratou para descobrir se ele ainda está vivo. Tenho que navegar para #sisland_Quebradas Costillas# e falar com o estalajadeiro no #sQuebradas Costillas# para encontrar Armand Delacroix.
+text.t2=Delacroix está louco por tentar passar furtivamente pela Marinha Espanhola. Não posso arriscar minha vida assim, então disse não a ele.
+text.t3=Diaz me avisou que Delacroix poderia me matar, mas Armand é um sujeito raro, perigoso e charmoso ao mesmo tempo. Me lembra de mim mesmo, na verdade! Ele me convenceu a ajudá-lo em um esquema maluco para tirar Doña Estrella de #sisland_Isla Muelle#. Tenho que navegar até Oyster Beach e ir até a cidade contar a ela sobre nosso plano. Isso será perigoso, mas esperançosamente recompensador.
+text.t4=Estrella irá me encontrar do lado de fora da taverna à meia-noite, usando um disfarce. Espero que ela consiga arranjar alguma coisa para se passar por homem, ou estaremos em apuros.
+text.t5=Bem, eles se foram. Sentirei falta de Armand, ele era um bom sujeito para um pirata cruel e sanguinário. E a bela e corajosa senhora! Eu me pergunto se algum dia terei notícias deles. (nenhuma carta está em #sQuebradas Costillas# - AINDA! Continua!)

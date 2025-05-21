@@ -1,0 +1,14 @@
+title=O incidente de Natividad
+text.t1=Recebi ordens de me reportar ao QG Naval #sGreenford#. Lá, aparentemente receberei novos pedidos.
+text.t2=#sbriefing_officer# ordenou que eu levasse uma remessa de mosquetes e munições para um grupo de rebeldes liderados por Don Julian Alvarado. A base dos rebeldes é o forte perto de Playa de Sabana em #sisland_Cuba#.
+text.t3=O "almirante" de Don Julian, José Hernandez, me levará ao forte. Não confio inteiramente nem nele nem em Don Julian, que agora se autodenomina "El Supremo". Caso eu não retorne, instruí o tenente Bush a assumir o comando.
+text.t4=O 'Natividad', um navio de guerra espanhol de 60 armas, está a caminho daqui. Don Julian quer que eu a capture e entregue a ele.
+text.t5=Nossa remessa de armas está a caminho de Don Julian. Em troca, negociei provisões para o nosso navio, que já foi entregue.
+text.t6=Conseguimos capturar a 'Natividad' embarcando nela enquanto sua tripulação estava de folga durante a noite. Ordenei que seus oficiais fossem trazidos para o '#sour_ship#'. Don Julian Alvarado certamente os executaria se eu os deixasse aos seus cuidados.
+text.t7=Entregou 'Natividad' a Don Julian Alvarado na crença de que as circunstâncias o justificavam. Navegando para #sisland_Isla Muelle#.
+text.t8=Encontrei um lugre espanhol sob uma bandeira de trégua. A Espanha mudou de lado e agora é aliada da Gran-Bretanha. Isto significa que Don Julian é agora nosso inimigo. Não tenho escolha senão tentar afundar a 'Natividad'. A chegada de Lady Barbara Wellesley é uma complicação adicional.
+text.t9=Depois de uma dura batalha, derrotamos 'Natividad'. Lady Barbara Wellesley insistiu em ajudar a cuidar dos feridos, mas não conseguiu salvar o aspirante Longley. Meu dever agora é levar Sua Senhoria para #sGreenford#.
+text.t10=Contra-almirante Sir Rodney Leighton nos encontrou e acompanhou Lady Barbara Wellesley para fora do navio. Devo reportar-me ao QG Naval.
+text.t11=Recebi o comando de um navio maior, o 'Sutherland'. Minha tripulação do '#sold_ship#' também será transferida para o 'Sutherland'.
+text.t12=Contra-almirante Sir Rodney Leighton nos encontrou e acompanhou Lady Barbara Wellesley para fora do navio. Minha esposa provavelmente está esperando notícias minhas, então devo ir para casa.
+text.t13=Recebi uma notícia muito triste quando voltei para casa. Minha esposa, Maria, morreu no parto. Porém, a criança sobreviveu - eu tenho um filho! A Sra. Mason cuidará dele enquanto eu estiver fora. Agora devo me reportar ao QG Naval aqui em #sGreenford#.

@@ -1,0 +1,11 @@
+title=A missão de Charles Vane
+text.t1=Eu me 'ofereci' para outra missão: ir a Port Royal e pegar o tesouro que os piratas exigiram.
+text.t2=A única coisa que os piratas querem é uma caixa de remédios cheia!!
+text.t3=É hora de entregar esses itens para Charles Vane.
+text.t4=Os itens medicinais são entregues. Charles Vane e seus capitães se ofereceram para me ensinar algumas habilidades novas!
+text.t5=Lá vamos nós de novo, outra missão: conseguir para os piratas Charles Vane algumas roupas de monge, assim como os Coastbrothers fizeram! Mas primeiro tenho que tirar os prisioneiros daqui.
+text.t6=Sim! Tenho roupas suficientes para um monastério menor. Hope Vane mantém sua palavra sobre ajudar...
+text.t7=As roupas vermelhas são entregues. Agora temos que encontrar a saída deste lugar.
+text.t8=Vane fica de olho em todas as minhas cinco pistolas até eu voltar!
+text.t9=Padre Bernard está disposto a trocar algumas roupas de Monk por ouro. Ele também sugeriu que eu fosse tocar uma música na sala do coral... Ok?
+text.t10=Charles Vane pode estar no sótão.

@@ -1,0 +1,83 @@
+itmname_chest	{Baú do McDorey}
+itmdescr_chest
+{
+Um pequeno baú que Oweyn McDorey pediu para você entregar a Charles Windem em #sisland_Redmond#.
+}
+
+itmname_coins	{Moedas Amaldiçoadas}
+itmdescr_coins
+{
+Grandes moedas de ouro com representação de uma caveira. Você não gosta da aparência deles.
+}
+
+itmname_gov_letter	{Carta do governador}
+itmdescr_gov_letter
+{
+Uma carta do Governador Silehard que ele encarregou você de entregar a Isenbrandt Jurcksen em #sisland_Quebradas Costillas#.
+}
+
+itmname_incas_idol	{Ídolo de ouro}
+itmdescr_incas_idol
+{
+Um ídolo dourado de Hurukacelitipochtli, o deus inca da morte.
+}
+
+itmname_incas_collection	{Coleção de tesouros incas}
+itmdescr_incas_collection
+{
+Uma coleção de tesouros incas.
+}
+
+itmname_piece_of_legend	{Tábua}
+itmdescr_piece_of_legend
+{
+Um pedaço de uma tábua de argila coberta com antigos caracteres incas
+}
+
+itmname_notes_of_legend	{Texto da legenda}
+itmdescr_notes_of_legend
+{
+Texto da antiga lenda inca, escrito em papel.
+}
+
+itmname_copyes_of_legend	{Cópia do texto da legenda}
+itmdescr_copyes_of_legend
+{
+Uma cópia do antigo texto da lenda inca.
+}
+
+itmname_rheims_journal	{Diário de Rheims}
+itmdescr_rheims_journal
+{
+Diário do capitão Rheims.
+}
+
+itmname_compramat_to_domigues	{Documentos comprometedores}
+itmdescr_compramat_to_domigues
+{
+Documentos que desacreditam completamente o Padre Domingues.
+}
+
+itmname_rheims_letter	{Carta de Rheims}
+itmdescr_rheims_letter
+{
+Uma carta do Capitão Rheims ao governador de #sRedmond# em #sisland_Redmond#, Robert Christopher Silehard.
+}
+
+itmname_massoni_papers	{Documentos de Valentin Massoni}
+itmdescr_massoni_papers
+{
+Esses documentos dizem que a barca de abastecimento está em #sFalaise de Fleur# na #sisland_Falaise de Fleur# neste momento, esperando por um navio-comboio.
+}
+
+itmname_artefact	{Artefato}
+itmdescr_artefact
+{
+O misterioso artefato que você encontrou no antigo templo. Há uma sensação de formigamento nas mãos quando você o segura.
+}
+
+itmname_story_gramota	{Documentos}
+itmdescr_story_gramota
+{
+Estes documentos dão permissão para escoltar o navio 'Oiseau' e devem ser apresentados ao capitão do porto.
+}

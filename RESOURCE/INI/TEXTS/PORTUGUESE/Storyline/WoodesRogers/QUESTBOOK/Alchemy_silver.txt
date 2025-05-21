@@ -1,0 +1,6 @@
+title=Alquimia - abra a fechadura prateada
+text.t1=Tenho que encontrar algo que dissolva a Prata.
+text.t2=Tenho Aqua Fortis - é uma expressão em latim que significa "água forte" em português. Também conhecido como ácido nítrico (HNO3), um líquido incolor e altamente corrosivo, que pode reagir com metais, exceto ouro e platina, formando nitratos metálicos solúveis. Devido à sua natureza perigosa deve ser manuseado com extrema cautela.
+text.t3=
+text.t4=
+text.t5=

@@ -1,0 +1,12 @@
+title=Ataque em #sisland_Antigua#.
+text.t1=Sir Arthur Wellesley ordenou-me que cuidasse da defesa dos arredores de #sSt John's#.
+text.t2=Vamos à praia ver se conseguimos atrair os franceses para fora do esconderijo.
+text.t3=Devemos voltar aos arredores de #sSt John's# para organizar uma defesa.
+text.t4=Derrotámos os franceses, mas a outra metade da Companhia não regressou. Devo apresentar-me a Sir Arthur na cidade.
+text.t5=Recebi documentos para levar ao QG Naval. em #sGreenford# em #sisland_Oxbay#.
+text.t6=Foi assinado um tratado de paz com a França e já não tenho navio. Encontrei acomodação com a Sra. Mason e sua filha Maria.
+text.t7=Maria me disse que há alguns fuzileiros esperando para me ver na Taverna.
+text.t8=Precisamos ir para Lighthouse Bay e procurar o Tenente Quelp.
+text.t9=Os franceses estavam mortos quando chegamos e nenhum sinal de Hunter. Eu deveria voltar para a casa da Sra. Mason.
+text.t10=.
+text.t11=.

@@ -1,0 +1,7 @@
+title=Abra o baú
+text.t1=O nicho permanece aberto agora, mas como posso chegar ao Baú?
+text.t2=Acho que vou seguir aquele Powdermonkey.
+text.t3=Vou vasculhar este novo poço minuciosamente na maré baixa!
+text.t4=O que há de errado com as luzes - o Macaco as apagou?
+text.t5=Me pergunto o que devo fazer com esse Saw?
+text.t6=Eu tenho uma prancha, talvez eu possa usá-la de forma semelhante à caveira??

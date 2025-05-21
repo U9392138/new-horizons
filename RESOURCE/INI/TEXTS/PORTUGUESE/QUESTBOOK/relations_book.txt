@@ -1,0 +1,4 @@
+title=Tutorial - Lidando com Relações Internacionais
+text.t1=Parece que minha última ação no mar teve algumas consequências importantes. Como não quero fazer inimigos por acidente, é melhor descobrir como lidar com as diversas nações que encontrarei no mar. Talvez eu consiga convencer um dos governadores da cidade a me dar alguns conselhos. Enquanto isso, talvez eu queira agir com mais cuidado.
+text.t2=Corro o risco de perder minha Licença de Comerciante se fizer algo assim novamente.
+text.t3=Recebi um livro contendo vários detalhes sobre relações nacionais. Isso deve me ajudar a evitar ser considerado pirata. Se eu escolher, isso é...

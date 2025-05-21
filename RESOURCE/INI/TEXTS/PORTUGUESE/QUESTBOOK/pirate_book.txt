@@ -1,0 +1,3 @@
+title=Tutorial - Sob o Jolly Roger
+text.t1=Eu cometi um flagrante ato de pirataria, então sou um pirata. As marinhas do mundo estarão atrás de mim. É melhor eu aprender os truques do negócio se quiser evitar o laço do carrasco.
+text.t2=Adquiri um livro com todo tipo de dicas úteis. Isso, juntamente com um bom navio, uma tripulação leal e uma garrafa de rum, deveria manter-me um passo à frente dos caçadores de piratas.

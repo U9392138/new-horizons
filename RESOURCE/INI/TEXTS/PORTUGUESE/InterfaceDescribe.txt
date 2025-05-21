@@ -1,0 +1,46 @@
+ALeadership_Header	{Liderança}
+ALeadership_Descr	{Liderança indica o quão fortemente você influencia as pessoas ao seu redor e quão bem você é capaz de atingir seus objetivos.}
+ALeadership_Img		{ícone de habilidade de liderança}
+AFencing_Header		{Corpo a corpo}
+AFencing_Descr		{A habilidade de Esgrima é importante para qualquer capitão, pois sua sobrevivência geralmente depende de quão bem você consegue manejar uma lâmina.}
+AFencing_Img		{ícone de habilidade de esgrima}
+ASailing_Header		{Navegação}
+ASailing_Descr		{A navegação indica quão bom você é no controle de seu navio. Influencia a velocidade e capacidade de manobra do seu navio.}
+ASailing_Img		{ícone de habilidade de navegação}
+ACannons_Header		{Canhões}
+ACannons_Descr		{Esta habilidade controla a velocidade de recarga de seus canhões e o agrupamento de seus tiros.}
+ACannons_Img		{ícone de habilidade de canhões}
+AAccuracy_Header	{Precisão}
+AAccuracy_Descr		{A habilidade de cronometrar o momento em que uma salva infligirá dano máximo ao inimigo. Quanto maior for essa habilidade, mais precisos serão seus artilheiros.}
+AAccuracy_Img		{ícone de habilidade de precisão}
+AGrappling_Header	{Abordagem}
+AGrappling_Descr	{A habilidade de escolher a distância, ângulo e velocidade ideais para embarcar em navios, bem como manter seu grupo de embarque unido.}
+AGrappling_Img		{ícone de habilidade de luta}
+ADefence_Header		{Defesa}
+ADefence_Descr		{O nível de conforto, higiene dos quartéis da tripulação e a capacidade de curar os feridos ajudam a reduzir as perdas em batalhas acaloradas.}
+ADefence_Img		{ícone de habilidade de defesa}
+ARepair_Header		{Reparar}
+ARepair_Descr		{O conhecimento íntimo de seu navio e de sua construção permite que você utilize melhor suas equipes de reparos, melhorando a eficiência de seu trabalho.}
+ARepair_Img		{ícone de habilidade de reparo}
+ACommerce_Header	{Comércio}
+ACommerce_Descr		{Habilidade em pechinchar, avaliar o valor de mercadorias e fazer contatos comerciais. Ajuda você a fechar melhores acordos comerciais.}
+ACommerce_Img		{ícone de habilidade comercial}
+ASneak_Header		{Sorte}
+ASneak_Descr		{Sorte, precognição ou senso de perigo - como quer que você chame, quanto mais você melhora essa habilidade, mais sorte você terá.}
+ASneak_Img		{ícone de habilidade furtiva}
+AFacePict_Descr		{Este é o personagem #sname#}
+change_outfit_Header	{Escolher um traje}
+change_outfit_Descr	{Este botão permite que você altere a sua aparência e de seus oficiais.}
+Ranks_Header		{Informações de status}
+Ranks_Descr		{Estas colunas descrevem o status atual e a classificação de #sPChar# para uma determinada nação. Texto verde claro significa aguardando promoção.}
+Relations_Header	{Relações entre nações}
+Relations_Descr		{Esta tabela mostra as relações internacionais conhecidas entre as nações.}
+Attitude_Header		{Atitude das nações}
+Attitude_Descr		{Esta coluna mostra a atitude das nações em relação ao #sPChar#.}
+Nation_Descr		{Este #sColumn_Row# mostra as relações de #sNationOf# com outras nações.}
+RelFlag_Header		{Relação baseada na bandeira}
+RelFlag_Descr		{Esta coluna mostra a atitude das nações em relação à bandeira atual de #sPChar#.}
+Checkbox_nation_Header	{Bandeira de içar}
+Checkbox_nation_Descr	{Clique aqui para içar a bandeira #sFlagOf#.}
+Change_Flag_Header	{Selecione a bandeira}
+Change_Flag_Descr	{Clique aqui para selecionar outro sinalizador #sFlagOf#.}

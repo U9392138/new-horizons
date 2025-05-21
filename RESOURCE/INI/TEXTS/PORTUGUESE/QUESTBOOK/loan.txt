@@ -1,0 +1,16 @@
+title=Missão Genérica - Dinheiro emprestado do agiota.
+text.t1=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t2=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t3=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t4=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t5=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t6=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t7=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t8=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t9=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t10=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t11=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t12=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t13=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t14=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.
+text.t15=Peguei emprestado #dammount# ouro do #sloanshark# o agiota em #stown# em #sisland# e preciso pagá-lo até o #sdeadline#.

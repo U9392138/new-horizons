@@ -1,0 +1,6 @@
+title=Repare o mecanismo de Ã¢ncora
+text.t1=Há algo errado com a Ã¢ncora do Corvette.
+text.t2=Estou procurando uma roda e alguns pinhões.
+text.t3=Sim! Eu consertei isso. Agora, para o problema da porta da cozinha...
+text.t4=
+text.t5=

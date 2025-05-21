@@ -1,0 +1,16 @@
+string DLG_TEXT[14] = {
+"......",
+"......",
+"Suponho que você seja o capitão dele?",
+"Sim. Por que você o prendeu, ele estava bêbado?",
+"Não, ele não estava bêbado, você não conhece as regras desta ilha. Estas regras devem ser obedecidas por todos e as penalidades são severas para aqueles que não o fazem.",
+"Que regras?",
+"Quase toda a ilha é uma área militar. Você ou seus homens estão confinados apenas ao porto, vocês deveriam ter sido avisados disso antes de assumirem a missão.",
+"Mas, eu tenho um passe livre",
+"Eu sei que você tem. Já conversei com o senhor Blecher, o administrador do porto. Mas a sua estadia está limitada ao porto, não indo ao forte como o seu oficial tentou fazer.",
+"Sinto muito, não conhecíamos todas essas restrições. Esta missão foi dada apenas quando o mercador deveria navegar e não fomos informados.",
+"Hum... Bem, seu oficial está livre para ir com você agora. Lembre-se que a acusação é de espionagem, a pena é a morte.",
+"Espionagem, senhor? Porque alguém estava passeando...",
+"Exatamente. Fui tolerante apenas porque esta é sua primeira viagem à ilha. Você foi avisado. Adeus capitão!",
+"Informarei minha tripulação para ficar no porto e somente lá. Obrigado",
+};

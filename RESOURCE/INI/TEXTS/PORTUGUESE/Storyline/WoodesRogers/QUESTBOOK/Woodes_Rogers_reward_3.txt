@@ -1,0 +1,9 @@
+title=Terceira recompensa de Woodes Rogers
+text.t1=Tenho que passar pelo escritório dos Agiotas para encontrar a terceira (sim) pistola.
+text.t2=Eu tenho uma chave que leva para onde?
+text.t3=E adivinha o que encontrei?! Mas esta pistola pertenceu ao famoso caçador de piratas Hornigold. Talvez valha algum dinheiro?
+text.t4=O Governador insinua que perdi alguma coisa - preciso verificar o porão novamente.
+text.t5=Dave me contou sobre Selkirk - acho que já ouvi falar dele, o que ele está fazendo aqui? Ele pode ser encontrado no Bootyroom de Rogers.
+text.t6=Caroline está de volta segundo o amigo de Selkirk. Vou procurar o quarto dela.
+text.t7=Deveria haver um cadeado velho com chave no quarto de Caroline.
+text.t8=Também tenho que procurar uma maneira de destrancar a porta do quarto de Rogers.

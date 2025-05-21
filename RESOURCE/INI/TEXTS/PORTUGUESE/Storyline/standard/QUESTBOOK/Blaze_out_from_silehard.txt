@@ -1,0 +1,4 @@
+title=Aguarde novos pedidos de Silehard.
+text.t1=Silehard ordenou que eu participasse da libertação de #sOxbay# em #sisland_Oxbay#. Infelizmente, não tenho escolha; todas as entradas da cidade estão bloqueadas. A única coisa que posso fazer é aguardar suas ordens na taverna.
+text.t2=Que diabo! Os soldados ingleses atacaram #sDanielle# e a mim! #sDanielle#, claro, desapareceu imediatamente após a luta - suponho que #spronoun# esteja escondendo algo de mim. Pobre #skid#, #spronoun# quase enlouqueceu - #spronoun3# contramestre Ralph foi morto. Isso é lamentável; Ralph era um bom homem. De qualquer forma, preciso descobrir o que está acontecendo aqui.
+text.t3=Eu deveria ter ouvido #sDanielle# e saído daquela taverna. Assim que #sDanielle# saiu, os soldados entraram na taberna e me disseram para depor as armas. Eram quatro, então as probabilidades estavam a seu favor e fui forçado a ceder. O que diabos está acontecendo?

@@ -1,0 +1,7 @@
+title=Procurando nas margens
+text.t1=Tenho que encontrar e pegar as quatro galinhas do pântano que matamos.
+text.t2=Procurarei conchas na próxima margem. Há lugar para pelo menos seis nos meus bolsos.
+text.t3=Um Escaravelho Dourado! Mas ainda não o capturei.
+text.t4=Precisarei de uma folha, ou algo parecido, para segurar o Escaravelho Dourado.
+text.t5=Um pedaço de papel - posso usá-lo para pegar o escaravelho.
+text.t6=Tenho uma coleção completa de conchas. É hora de continuar para a próxima margem.

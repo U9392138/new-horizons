@@ -1,0 +1,17 @@
+title=Missão Secundária - Uma garota ganhou um jogo de cartas.
+text.t1=Numa taberna conheci um homem que me propôs um jogo de dados. Fiquei surpreso quando descobri que ele planejava apostar em uma garota que havia ganhado em um jogo de cartas.
+text.t2=Eu ganhei, então a garota é minha.
+text.t3=A oferta deste sujeito foi ofensiva. Então eu o matei.
+text.t4=Essa garota é realmente linda. Ela diz que é uma nobre. A julgar pelo nome, ela é francesa e posso acreditar na história dela, mas isso não vai me impedir se decidir vendê-la.
+text.t5=Eu conheci um sujeito estúpido que me ofereceu dinheiro pela garota, mas a oferta foi muito pequena. Talvez o governador de #sFalaise de Fleur# ofereça mais.
+text.t6=A menina me contou que é descendente de uma família muito nobre da França, e que veio aqui para encontrar seu amante, um marinheiro em #sisland_Falaise de Fleur#. Tudo estava indo bem até os piratas aparecerem.
+text.t7=Eu decidi que é certo ajudar Virginie a encontrar seu ente querido.
+text.t8=É uma história romântica, mas acho que agora, uma vez libertada, Virginia pode lidar bem com seu destino sem minha ajuda.
+text.t9=Que ironia! Chegamos a #sFalaise de Fleur# em #sisland_Falaise de Fleur# e encontramos o sujeito que Virginie procurava, mas ele acabou se revelando um verdadeiro canalha. Ele falou com ela de forma desrespeitosa e depois a deixou com o coração partido.
+text.t10=Virginie disse que vai voltar para casa, mas quer me fazer um favor em troca e me levar ao governador do #snation#.
+text.t11=Não acho que seja uma boa ideia porque somos inimigos da #nação#, mas Virginie me garantiu que me protegerá.
+text.t12=A palavra de uma nobre é uma boa garantia, mas não confio nas autoridades da #nação# e recusei o favor de Virginie.
+text.t13=Ela estava certa. É claro que o governador não ficou nada feliz em me ver, mas me deu uma recompensa e, mais do que isso, me perdoou pelos meus crimes contra o governo da #nação#.
+text.t14=A #snation# me recompensou generosamente por devolver Virginie.
+text.t15=Foi um assunto bastante arriscado, mas agora acabou. O governador me deu 7.000 ouro para a garota.
+text.t16=Na taverna, um sujeito estranho veio até mim e comprou a garota.

@@ -1,0 +1,2 @@
+title=Falha
+text.t1=Vá em frente! Não cumpri o limite de tempo. Devo evitar o vice-almirante e quaisquer espanhóis de agora em diante.

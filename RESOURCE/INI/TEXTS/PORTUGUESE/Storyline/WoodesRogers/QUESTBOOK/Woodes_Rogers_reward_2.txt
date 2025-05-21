@@ -1,0 +1,4 @@
+title=Segunda recompensa de Woodes Rogers
+text.t1=Há outra pistola para eu encontrar. Devo também procurar a chave da Cozinha - talvez deva começar a procurar na Residência.
+text.t2=Eu tenho uma chave - agora só falta a cozinha. Tenho que explorar mais de perto a Residência e o Quarto.
+text.t3=Encontrei outra pistola, marcada como 'CSAR'. O que há de tão fantástico nessas armas? Perguntarei a Rogers quando voltar para a Residência.

@@ -1,0 +1,5 @@
+title=Destilador
+text.t1=Sem rum, sem melaço, sem nada - ainda.
+text.t2=Posso encontrar madeira e garrafas com melaço no escritório.
+text.t3=Eles querem que eu acenda o fogo. Mas não tenho nenhum kit de fogo, talvez pudesse usar minha pistola?
+text.t4=Ã isso! Fiz Rum e encontrei a chave. Agora só preciso descobrir onde usar a chave.

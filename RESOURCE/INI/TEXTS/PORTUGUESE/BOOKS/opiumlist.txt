@@ -1,0 +1,4 @@
+TEXT	{
+Estas são as pessoas agora conhecidas por comprar ópio:
+#sOpiumList#
+}

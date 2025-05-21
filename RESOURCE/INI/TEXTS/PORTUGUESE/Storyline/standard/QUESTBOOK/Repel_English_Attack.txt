@@ -1,0 +1,2 @@
+title=Repelir o esquadrão inglês que está atacando #sGreenford#.
+text.t1=Aparentemente, Silehard não gostou de capturarmos sua colônia. Fui informado por um marinheiro que o governador reuniu tropas e a esquadra inglesa está a caminho de #sGreenford#. Esperamos uma batalha terrível. #sDanielle# comandará o forte e eu enfrentarei o inimigo do meu tombadilho, como sempre.

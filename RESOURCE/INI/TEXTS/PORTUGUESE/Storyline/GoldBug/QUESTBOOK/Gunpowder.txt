@@ -1,0 +1,7 @@
+title=Pólvora
+text.t1=Itens da direita: F3 + F3, itens da esquerda: F3 + pistola de fogo.
+text.t2=Pólvora Padrão: 6 partes de Salitre, 1 parte de Carvão e Enxofre cada.
+text.t3=Pólvora de queima lenta para fogos de artifício: 4 partes de Salite, 2 partes de carvão e enxofre cada.
+text.t4=O cuidado mais importante ao moer pólvora é adicionar um pouco de água.
+text.t5=Lembre-se sempre de misturar Carvão com Salitre para Fuligem de Salitre e Enxofre com Salitre para Fuligem de Enxofre. Faça isso antes de moer e você estará seguro.
+text.t6=Não, não sei como continuar. Tenho que visitar o restaurante.

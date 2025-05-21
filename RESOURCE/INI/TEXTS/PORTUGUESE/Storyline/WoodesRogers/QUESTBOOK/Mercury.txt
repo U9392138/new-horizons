@@ -1,0 +1,6 @@
+title=Um remédio para curar a sífilis
+text.t1=Tenho que encontrar este medicamento.
+text.t2=Onde posso encontrar garrafas vazias numa cidade baseada em rum e marinheiros bêbados?
+text.t3=Peguei os frascos vazios, agora ao médico novamente.
+text.t4=Feito!
+text.t5=O médico está experimentando roupas novas - onde?

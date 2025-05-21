@@ -1,0 +1,7 @@
+title=Alquimia - tutorial
+text.t1=Então o champanhe pode ser transformado em conhaque! Primeiro devo verificar se o aparelho está pronto.
+text.t2=Há uma foto no quarto de Rogers.
+text.t3=Tenho que misturar esse álcool puro com água antes de beber.
+text.t4=Feito! Agora sei destilar e misturar líquidos na mesa.
+text.t5=O líquido que desejo destilar deve ser colocado na retorta.
+text.t6=Tenho que ter cuidado com o oxigênio. Dois passos nessa prancha são suficientes.

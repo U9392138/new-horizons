@@ -1,0 +1,11 @@
+title=Corveta careen
+text.t1=A escotilha no teto provavelmente leva à cabine do capitão. Mas vou precisar de uma ferramenta longa para abri-lo.
+text.t2=Eu encontrei um caminho (trancado) até os escravos.
+text.t3=Há um forcado! Mas como faço para chegar a isso?
+text.t4=Vou procurar o Depósito de Pólvora.
+text.t5=Há alguns prisioneiros aqui. Esperançosamente, a próxima porta é para o compartimento dos escravos.
+text.t6=Devo me apressar e bloquear aquela porta antes que alguém entre.
+text.t7=
+text.t8=
+text.t9=
+text.t10=

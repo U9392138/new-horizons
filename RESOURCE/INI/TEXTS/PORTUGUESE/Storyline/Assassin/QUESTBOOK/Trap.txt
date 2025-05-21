@@ -1,0 +1,13 @@
+title=A armadilha de Bartolomeu
+text.t1=Tive que aceitar uma nova missão, apesar de não estar motivado depois do que aconteceu em Oranjestad. O meu próximo alvo é Bartolomeu o Português, o famoso pirata português. O capitão Butcher já está procurando por ele. Devo vê-lo em #sIsla Muelle#.
+text.t2=Uma pista, finalmente. O capitão Butcher acha que só precisamos ver um amigo de Charles Baxter no assentamento pirata de #sisland_Quebradas Costillas# para termos sorte e encontrar Bartolomeu.
+text.t3=O capitão Butcher estava certo. Encontrámos um ex-tripulante do Baxter no assentamento pirata. Ele disse que Bartolomeu trabalhava para o governador de #sisland_Conceicao#. Certamente encontraremos mais informações em #sConceicao#. Vou começar minha busca lá conversando com o taverneiro.
+text.t4=Capturei o oficial do Bartolomeu, Emílio Soares. Porém, não sei onde está Bartolomeu. Voltemos a Havana e sigamos o conselho do vice-almirante Benavides.
+text.t5=O vice-almirante me deu uma informação essencial. Roxanne Lalliere, sua melhor amiga, está em missão na cidade de Alice. Porém, antes de ir para lá, devo ver o governador de Puerto la Cruz. Sua ajuda pode ser útil.
+text.t6=O Governador sugeriu que eu falasse com William Cotter, um oficial inglês que trabalhava para ele. Ele poderia nos ajudar no sequestro dos Lalliere. Eu deveria encontrá-lo patrulhando as ruas da cidade de Alice.
+text.t7=Uma noite, enquanto estava no forte de Eleuthera, vi Bartolomeu tentando libertar Roxanne Lalliere da prisão. Depois de aceitar sua oferta de parceria, saímos discretamente do forte. Infelizmente, encontramos Padilla e seus homens pouco depois na selva. Eles foram mortos em uma briga. Agora podemos ir para a cidade de Alice.
+text.t8=Próxima parada, Havana. Emilio está preso lá. Desembarcaremos primeiro na Bahia de San Antonio.
+text.t9=Depois de libertar Emílio Soares, matei o vice-almirante Benavides quando ele entrou na sua residência. Vamos para #sRedmond# decidir nosso futuro.
+text.t10=Roxanne voltou para #sFalaise de Fleur# enquanto Bartolomeu partiu para novas aventuras. No meu caso, decidi começar uma nova vida em #sisland_Douwesen#.
+text.t11=Uma noite, enquanto estava no forte de Eleuthera, vi Bartolomeu tentando libertar Roxanne Lalliere da prisão. Ele não me convenceu a deixar o serviço militar espanhol e tive que matá-lo. Pouco depois chegou o capitão Padilla e decidiu que deveríamos voltar a Havana o mais rápido possível.
+text.t12=Finalmente, sou um homem livre! O pesadelo acabou e posso administrar minha vida como quiser.

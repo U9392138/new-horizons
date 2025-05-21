@@ -1,0 +1,11 @@
+title=Vingança
+text.t1=Estamos saindo pela Caverna Azul - tenho que mostrar o caminho para a Mina.
+text.t2=O inimigo mudou-se para os navios, mas a única maneira de sair da mina parece ser através de uma janela no quarto de sexta-feira - assustador, é o que eu penso!
+text.t3=Tenho que levantar o elevador para que o grupo de Vane possa atacar. Selkirk já está revistando o Corvette.
+text.t4=O Galeão está afundando!
+text.t5=Eu fiz minha escolha: não vou me juntar aos Piratas! Em vez disso, voltarei ao escritório de Rogers.
+text.t6=
+text.t7=
+text.t8=
+text.t9=
+text.t10=

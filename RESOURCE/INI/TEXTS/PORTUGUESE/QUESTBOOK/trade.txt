@@ -1,0 +1,4 @@
+title=Missão Genérica - Entregar carga para #stown#.
+text.t1=Tenho que entregar #squantity# cwt de #scargo# para #stown# em #sisland# antes de #sdeadline#, para o dono da loja #sstore_owner#.
+text.t2=O tempo para esta entrega expirou. No entanto, é melhor ainda entregar a mercadoria se quiser poder fazer isso novamente.
+text.t3=Alguma carga que eu deveria entregar desapareceu! Precisarei comprar mais para substituí-lo, e rapidamente se quiser cumprir o prazo.

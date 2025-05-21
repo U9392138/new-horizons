@@ -1,0 +1,4 @@
+title=Missão Secundária - Uma vida de contrabandista para mim.
+text.t1=Parece que as histórias são verdadeiras. Os contrabandistas estão por toda parte no Caribe!
+text.t2=Conheci um contrabandista em uma taverna. Ele me deu um livro sobre contrabando.
+text.t3=Preciso ter cuidado. Parece que os contrabandistas mantêm contacto próximo entre si. Quando eu faço algo errado, isso afetará meu relacionamento com eles.

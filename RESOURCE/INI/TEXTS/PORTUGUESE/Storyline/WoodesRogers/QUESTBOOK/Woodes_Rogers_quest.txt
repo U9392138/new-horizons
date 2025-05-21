@@ -1,0 +1,8 @@
+title=Missão de Woodes Rogers
+text.t1=O governador me ofereceu uma missão (e uma bela recompensa): sua filha foi feita prisioneira por piratas âem algum lugar a nordeste de Guadalupeâ. Tenho que consultar um Mapa do Arquipélago!
+text.t2=Ao norte de Guadalupe - seria Nevis com seu assentamento pirata! Não há tempo a perder.
+text.t3=Eles a venderam para o bordel!
+text.t4=.
+text.t5=Eu a encontrei! Conheci essa linda garota no bordel. Ela precisa da minha ajuda para escapar.
+text.t6=Prometeu ajudar a garota. Este poderia ser um novo tipo de aventura. O nome dela é Caroline K.
+text.t7=De alguma forma, ainda estou vivo - e Caroline K também! Agora, para Woodes Rogers em Port Royale e a recompensa que espera...

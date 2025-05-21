@@ -1,0 +1,9 @@
+title=Obtenha detalhes do governador.
+text.t1=#sDanielle# propôs usar uma baía secreta escondida atrás dos recifes para chegar a #sRedmond# em #sisland_Redmond#. #sPronoun_upper# disse que #spronoun# sabe como chegar lá através da grande fenda nas rochas.
+text.t2=Decidimos entrar furtivamente na casa de Silehard à noite.
+text.t3=O canalha Silehard escapou. Infelizmente, não obtivemos as informações que procurávamos. Pior ainda, ele sem dúvida enviará um mandado de prisão contra nós. Os portos ingleses não serão mais seguros para nós, por isso é melhor fugirmos rapidamente para os nossos navios enquanto ainda podemos!
+text.t4=Decidimos nos separar. #sDanielle# navegará para #sIsla Muelle# em #sisland_Isla Muelle# para encontrar o original da lenda, enquanto eu navegarei para #sGreenford# em #sisland_Oxbay# e tentarei obter informações dos soldados sobre o ídolo que deveria estar na casa do falecido navegador de Rheims.
+text.t5=Cheguei em #sGreenford# e conversei com o soldado. Aprendi que algum capitão tem o ídolo. Posso encontrar esse capitão na prisão.
+text.t6=Pela conversa com o taverneiro, descobri que algum capitão está com o ídolo. Posso encontrar o capitão na prisão.
+text.t7=Silehard está um passo à minha frente. O ídolo está em um navio e o capitão da guarda tem ordem de prender todos os interessados no ídolo. Preciso correr até o porto e tentar pegar o navio inglês com o ídolo a bordo.
+text.t8=Foi uma batalha quente! Não é tarefa fácil tomar uma fragata inglesa protegida por um forte! Estou muito satisfeito com minha vitória e com meu prêmio - o ídolo. Agora devo ir encontrar #sDanielle# no farol.

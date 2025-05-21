@@ -1,0 +1,12 @@
+title=Motim.
+text.t1=Fui transferido para o RENOWN. Devo encontrar Archie na Taverna e depois ir para o QG Naval. em #sGreenford#.
+text.t2=O aspirante Wellard juntou-se ao navio e Sharpe foi nomeado sargento.
+text.t3=O capitão Sawyer derrotou Wellard. Há algo errado com o capitão, mas ainda não posso falar.
+text.t4=Conhecemos o capitão Sawyer. Ele parece ter mudado, e não para melhor.
+text.t5=O Tenente Bush juntou-se ao navio. Devo chegar ao comando.
+text.t6=O Capitão caiu no porão e agora está incapaz de comandar o navio. O Tenente Buckland assumiu o comando.
+text.t7=Vamos tentar capturar o forte espanhol onde Archie e eu estávamos presos.
+text.t8=Os prisioneiros espanhóis capturaram a fama. Devemos abordá-la e recuperá-la.
+text.t9=Temos o navio de volta. Agora vamos para #sRedmond# ver o que nos espera lá.
+text.t10=.
+text.t11=.

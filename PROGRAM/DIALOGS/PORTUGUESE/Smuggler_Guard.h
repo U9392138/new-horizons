@@ -1,0 +1,15 @@
+string DLG_TEXT[14] = {
+"Ei você! Espere aí! Não podemos permitir que você carregue as mercadorias que está transportando. Devolva-os agora e pague uma multa de ",
+"Desculpe, eu não sabia que isso não era permitido. Muito bem então, aqui está o seu dinheiro.",
+"Eu sei algo melhor. Que tal eu não entregar a mercadoria, mas pagar o dobro do dinheiro que você está pedindo. Parece bom para você?",
+"Droga, acho que isso vai ser sangrento, afinal.",
+"Lembre-se de que esses produtos não lhe farão bem. Você faria bem em se livrar deles enquanto ainda pode. Agora siga seu caminho!",
+"Sim.",
+"Você realmente acha que pode me subornar? Prepare-se para morrer!",
+"Isso me parece um plano razoável.",
+"Aqui você vai.",
+"Por favor, olhe para isso.",
+"Oh, desculpe #ssir#, siga em frente!",
+"Obrigado, agora por favor vá embora rapidamente.",
+" ouro.",
+};

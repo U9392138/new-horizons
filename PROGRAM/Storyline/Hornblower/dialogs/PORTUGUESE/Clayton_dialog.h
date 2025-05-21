@@ -1,0 +1,17 @@
+string DLG_TEXT[15] = {
+"Outro dia antes do mastro.",
+"Foi para isso que nos inscrevemos.",
+"",
+"",
+"",
+"",
+"Horácio, espere! Ainda estamos presos ao valentão Simpson. Não sei por quanto tempo mais poderei agüentá-lo.",
+"Todos nós sentimos o mesmo Clayton.",
+"Você está bem ",
+"? Foi um grande soco e, como sempre, ele fugiu antes que você pudesse responder.",
+"Estou bem Clayton. Acho que a única maneira de lidar com ele é desafiá-lo para um duelo. Então ele não poderá fugir, mas este não é o lugar certo nem a hora certa. Vamos para o estaleiro e depois voltamos a bordo.",
+"Não, Horácio! ...Simpson! Eu desafio você para um duelo. Aqui agora!",
+"Clayton!",
+"Desculpe Horácio.. ",
+"O que!",
+}

@@ -1,0 +1,22 @@
+TEXT	{
+Então você quer aprender sobre pirataria? Este livro lhe dirá tudo o que você precisa saber sobre a bela arte da pilhagem.
+
+Você provavelmente se tornou um pirata ao destruir navios que não deveria. Um comerciante gordo é um bom alvo, mas os únicos tipos que o atacarão serão as marinhas inimigas,
+corsários e piratas inimigos. Se você não tem uma comissão na marinha de alguém nem uma Carta de Marca de um governador então você é um pirata - arr!
+
+Ou você pode ter escolhido ser pirata logo no início de sua carreira.
+
+Todas as nações sejam suas inimigas - você pode estar odiando uma mais do que outra e preferir atacar os navios de uma nação, ou deixar sua nação favorita em paz, mas isso não impedirá tudo.
+as chamadas nações civilizadas de atacar vocês à primeira vista. Então você vai querer fazer bom uso de bandeiras falsas. Uma bandeira falsa pode fazer um navio pensar que você é amigo dela, certo
+até você deixá-la cair, levante sua bandeira pirata e dê-lhe um ataque. Alguns verdadeiros vilões não se preocupam com a bandeira pirata, mas apenas a pior escória dispara enquanto ainda finge
+para ser amigo da vítima, então use sua bandeira de pirata, é para isso que serve. Além disso, se você quiser navegar para o porto, precisará de uma bandeira amigável para que o forte não o atinja.
+madeira flutuante e os lojistas não mandam você se perder. Embora se você for famoso, você pode ser reconhecido pelo pirata que você é de qualquer maneira.
+
+Onde você pode ter certeza de que será bem-vindo são os portos administrados por outros piratas. E se você se juntar à nossa Irmandade, poderá vender seu saque por mais do que conseguiria em qualquer outro lugar. vós
+também pode subir na hierarquia como se estivesse em uma dessas marinhas e construir um nome verdadeiro para si mesmo.
+
+Claro, você pode decidir deixar de ser pirata. Vá rastejando de joelhos até algum governador rico, pague-lhe um pouco do seu dinheiro suado e ele o perdoará. Você pode até então
+pague ainda mais e consiga uma Carta de Marca, o que significa que em vez de atacar qualquer navio que você quiser, você só pode atacar os navios que ele quiser. Porque se você acertar o
+navio errado, você estará voltando a ser um pirata novamente. Arr!
+
+}

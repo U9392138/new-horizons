@@ -1,0 +1,12 @@
+title=Missão Genérica - Contrabando para o Governador de #cidade#.
+text.t1=O governador #sgovernor# de #stown# me pediu para investigar o contrabando em #sisland#. Para me ajudar a fazer contato com os contrabandistas, #spronoun# me deu #samount# unidades de #scargo#. Devo reportar a #spronoun2# quando descobrir alguma coisa, e logo, para que #spronoun# não suspeite que roubei carga ou dinheiro de #spronoun3#! #spronoun1U# também me deu um documento com essas ordens. Este documento pode me tirar de algumas situações difíceis.
+text.t2=Eu fiz uma transação bem-sucedida com os contrabandistas e anotei como eles funcionam. Eu deveria relatar isso ao governador.
+text.t3=O governador ficou satisfeito ao ver o relatório, mas #spronoun# acha que há mais para aprender, então irei investigar mais a fundo.
+text.t4=Vou tentar prender os contrabandistas.
+text.t5=A gangue de contrabandistas tentou resistir à prisão então os matei. O governador deveria estar satisfeito!
+text.t6=A gangue de contrabandistas era muito forte para mim e tive que me retirar. Pelo menos ainda posso entregar meu relatório.
+text.t7=O Governador #sgovernor# queria que eu devolvesse o #samount# #scargo# que ele me deu, mas eu não o tinha. Devo adquirir essa carga e devolvê-la ao governador até #sdeadline# ou #snation# me considerará um fora-da-lei.
+text.t8=O governador #sgovernor# queria que eu devolvesse o #smoney# ouro que recebi dos contrabandistas, mas eu não o tinha. Devo devolver tanto dinheiro ao governador até #sdeadline# ou #snation# me considerará um fora-da-lei.
+text.t9=Já faz um mês desde que aceitei aquele trabalho de contrabando. #sgovernor# provavelmente já perdeu a paciência, e #snation# provavelmente me considera um contrabandista.
+text.t10=O prazo para devolução da carga ao governador #sgovernor# expirou.
+text.t11=O prazo para devolução do dinheiro ao governador #sgovernor# expirou.

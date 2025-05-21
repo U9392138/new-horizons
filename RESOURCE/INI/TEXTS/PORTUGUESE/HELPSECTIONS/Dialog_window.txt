@@ -1,0 +1,12 @@
+Dialog_window_title
+{
+Janela de diálogo
+}
+Dialog_window_info
+{
+    A janela de diálogo aparece quando você pressiona o botão "Ação" ficando na frente de algum personagem. Ou os personagens podem iniciá-lo sozinhos, se quiserem falar com o personagem do jogador.
+    No canto superior esquerdo da janela de diálogo você vê o rosto de um personagem com quem está falando. E à direita o jogador pode ver o nome desse personagem.
+    Na parte inferior da tela há uma janela de texto. Aqui o jogador vê o que o personagem lhe diz e também uma lista de frases do jogador que ele pode dizer ao personagem. As palavras do personagem são douradas e as respostas do jogador aparecem em azul. A resposta do jogador atualmente selecionado é destacada em azul brilhante (figura 2).
+    Às vezes, nem todo o texto ou respostas cabem na janela de texto. Neste caso o jogador vê setas verdes para cima e para baixo na parte direita da janela de texto (figura 3). E se houver algumas linhas de texto abaixo, a seta para baixo será destacada em verde brilhante. O mesmo acontece com a seta para cima - ela será destacada se houver texto acima.
+    A seleção da resposta do jogador pode ser realizada com botões de seleção de diálogo, e a ativação da resposta selecionada pode ser realizada com a tecla "ação" do diálogo.
+}

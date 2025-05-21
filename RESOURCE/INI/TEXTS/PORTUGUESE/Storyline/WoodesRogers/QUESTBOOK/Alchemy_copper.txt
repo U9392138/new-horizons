@@ -1,0 +1,6 @@
+title=Alquimia - abra a fechadura de cobre
+text.t1=Tenho que encontrar algo que dissolva o Cobre.
+text.t2=Eu tenho Ãcido Sulfúrico Diluído - e ele pode dissolver o Cobre!!
+text.t3=
+text.t4=
+text.t5=

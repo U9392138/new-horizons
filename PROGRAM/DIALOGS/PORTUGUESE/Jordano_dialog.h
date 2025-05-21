@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+"Sim?",
+"...",
+"Você trouxe novidades do Professor? Ele disse que enviaria seus homens. Todos nós estávamos esperando.",
+"Sim, ele me enviou. Mas não anuncie para toda a cidade!",
+"Desculpe, #stitle#. Vou manter isso baixo. Mas onde está o seu medalhão? Disseram-me para perguntar sobre o seu medalhão.",
+"Então você não esqueceu do medalhão, né? Aqui está.",
+"Não não! Eu não esqueceria! Nunca! Bom, vou contar aos outros. Quando zarpamos?",
+"Você não sabe? Aposto que você nem sabe para onde estamos indo, não é?",
+"Não. O Mestre não nos contou.",
+"Isso é inteligente. É melhor assim. Sussurros sujos estão por aí, como dizem. E onde está o próprio Mestre? Não podemos partir sem ele.",
+"Ele foi para #sGreenford#, em #sisland_Oxbay#, por alguns dias. Agora que penso nisso, porém, ele deveria ter voltado ontem. Ele ainda não voltou.",
+"Estranho. Suponho que nossa viagem será atrasada, então.",
+"O que? Por que?",
+"Você não acha seriamente que iríamos sem ele, não é? Tenho que ir buscá-lo, ou pelo menos descobrir o que aconteceu com ele. Só então poderemos navegar. Enquanto isso, fique longe de problemas e não vá longe.",
+"Sim #stitle#. Terei todos nós prontos para partir quando você voltar.",
+"Bom rapaz. Com certeza mencionarei seu bom trabalho ao Professor.",
+};

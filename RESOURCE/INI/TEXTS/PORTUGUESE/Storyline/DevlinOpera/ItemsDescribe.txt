@@ -1,0 +1,23 @@
+itmname_a_letter	{Carta Misteriosa}
+itmdescr_a_letter
+{
+Uma carta com a letra do seu pai: 'Encontre sua irmã Bonnie e seu irmão Blaze. Juntos, o mapa irá guiá-lo até El Dorado'.
+}
+
+itmname_first_part_map	{Parte de um mapa do tesouro}
+itmdescr_first_part_map
+{
+Parte de um mapa do tesouro com a nota âpergunte a Short Jack Gold sobre a neve sujaâ.
+}
+
+itmname_key_haraldo	{Chave de Haraldo}
+itmdescr_key_haraldo
+{
+Uma chave estava no vaso!
+}
+
+itmname_jauri_note	{Nota na porta}
+itmdescr_Jauri_note
+{
+'Querida Jaqueline, fui fazer compras.'
+}

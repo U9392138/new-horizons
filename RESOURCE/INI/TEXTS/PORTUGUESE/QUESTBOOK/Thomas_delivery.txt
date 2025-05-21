@@ -1,0 +1,5 @@
+title=Missão Secundária - Carga para #sThomas O'Reily#
+text.t1=Bem, apenas uma quantia irrisória de ouro para entregar uma carga de #samount# de #scargo# para a cidade #snation# de #sFalaise de Fleur# em #sisland_Falaise de Fleur# e um #sArnaud Matton#. #sThomas# foi mesquinho, mas estou aceitando este pedido porque tenho a sensação de que pode haver mais por vir no futuro se eu o fizer...
+text.t2=#sArnaud# tinha certeza de que #sThomas# o havia traído, com toda a hostilidade entre #snationF# e #snationR#. Bem, agora devo voltar e receber minha recompensa de Thomas, e depois ver o que está por vir!
+text.t3=Bem, isso foi bastante fácil! #sThomas# ficou feliz que seus produtos chegaram a #sFalaise de Fleur#, mas terei que conversar com ele sobre outro trabalho mais tarde. Acho que pode haver algo interessante na manga dele!
+text.t4=#sArnaud# tinha certeza de que #sThomas# o havia traído, com todos os piratas atacando navios de #snation#. Bem, agora vou voltar e receber minha recompensa de #sThomas#, depois ver o que está por vir!

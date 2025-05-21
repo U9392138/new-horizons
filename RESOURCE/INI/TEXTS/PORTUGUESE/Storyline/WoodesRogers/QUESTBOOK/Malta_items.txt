@@ -1,0 +1,3 @@
+title=Itens de Maltains
+text.t1=Há seis livros e documentos que preciso encontrar para o Escriturário. Ele falou sobre nove celas para abrir. Também sobre o item mais precioso deles - uma relíquia. Muito valioso.
+text.t2=Eu tenho todos os seis livros e documentos agora!

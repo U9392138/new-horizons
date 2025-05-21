@@ -1,0 +1,7 @@
+title=Entregue um baú fechado.
+text.t1=Oweyn MacDorey, proprietário do estaleiro #sOxbay# em #sisland_Oxbay#, me pediu para entregar um baú fechado para #sRedmond# em #sisland_Redmond#. Não tenho reservas em fazer esse favor a um homem que acabou de salvar Tobias e a mim da prisão.
+text.t2=Quando me aproximei da taverna, dois estranhos me abordaram e exigiram o baú de Oweyn.
+text.t3=Eu dei o baú para estranhos. Eles me informaram que Oweyn deve ter armado uma armação para mim, se foi Oweyn quem me pediu para entregar este baú em particular para #sRedmond# em #sisland_Redmond#. Tenho que perguntar a Oweyn sobre o que eles poderiam estar falando.
+text.t4=Tentei me livrar dos estranhos e eles sacaram as armas. Mas demônios, eu não conseguia nem arranhá-los!
+text.t5=Oweyn não é o idiota que parecia ser. Ele já conhece essa lenda sobre piratas esqueletos e moedas amaldiçoadas. Ele queria que eu entregasse essas moedas amaldiçoadas ao seu inimigo em #sRedmond# em #sisland_Redmond#. Não é uma piada de mau gosto... mas os piratas estragaram tudo. Aparentemente o sujeito que sabe tudo sobre esse negócio mora em #sFalaise de Fleur# na #sisland_Falaise de Fleur#.
+text.t6=Henry Peat me contou muito sobre o navio amaldiçoado chamado 'Pérola Negra'. Agora só preciso descobrir mais alguns detalhes sobre aquele navio e uma forma de destruí-la.

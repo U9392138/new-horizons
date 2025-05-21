@@ -1,0 +1,7 @@
+title=Batalha sangrenta
+text.t1=O Téméraire foi afundado. Agora partiremos para #sCharlestown# antes que o resto dos franceses cheguem aqui. O Justiniano irá para #sisland_Antigua#, então estamos por nossa conta.
+text.t2=Uma promoção, Tenente Interino! Isso é bom, mas estou tão cansado. Irei dormir na taverna, depois procurarei o Sr. Hunter, um aspirante, e descobrirei como estão os feridos.
+text.t3=Navegando para #sGreenford#. Pelo menos é um porto amigável.
+text.t4=O 'Indy' e os outros grandes navios vão para #sisland_Antigua#. Devo ficar aqui e reagrupar a tripulação. Preciso encontrar o Sr. Hunter.
+text.t5=Precisamos encontrar 'Smug' Larr. Ele tem uma casa perto da ponte.
+text.t6=O túnel para a Academia fica na sala dos fundos, subindo as escadas. Também leva ao acampamento pirata. Eu me pergunto o que encontraremos primeiro.

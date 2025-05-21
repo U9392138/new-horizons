@@ -1,0 +1,11 @@
+title=Diário de bordo - Casa Vermelha
+text.t1=A Casa Vermelha está situada em algum lugar na selva.
+text.t2=Há uma saída na selva do centro de Kristiania. Mas não aquele que leva à Torre do Barba Negra.
+text.t3=Um diário de bordo é vendido para a 'Casa Vermelha'. Huh?
+text.t4=A selva é como um labirinto e os índios podem ser hostis.
+text.t5=Para encontrar um caminho seguro para a Casa Vermelha através da selva: Nunca direita - direita ou esquerda - esquerda um após o outro.
+text.t6=Eu tenho o diário de bordo.
+text.t7=Tenho os nomes dos tripulantes voluntários do 'La Concorde'.
+text.t8=
+text.t9=
+text.t10=

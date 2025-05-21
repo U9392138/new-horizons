@@ -1,0 +1,18 @@
+string DLG_TEXT[16] = {
+".....",
+".....",
+"Capitão Bartolomeu, preciso falar com você?",
+"Eu te conheço?",
+"Sou Serafino Masarenhas, enviado do Governador Português. Eu estava procurando por você.",
+"Procurando por mim? O que você quer, senhor?",
+"O governador Barreto quer ver você. Ele tem uma missão para você.",
+"Que missão?",
+"Não sei os detalhes, mas é uma missão importante. O governador conta com você para ajudá-lo.",
+"Tudo bem, não posso recusar. Acho que tenho que ir para #sConceicao# agora?",
+"Desculpe, mas no momento tenho outros planos urgentes. Diga a ele que não posso fazer nada por ele no momento.",
+"Sim agora. Vou acompanhá-lo durante a viagem. Vamos!",
+"Estou decepcionado com sua resposta, mas você tem o direito de se recusar a ajudá-lo. Adeus capitão!",
+"Adeus!",
+"Finalmente estamos em #sConceicao#. Vou avisar o Governador da sua chegada.",
+"Excelente. Estarei aí em alguns minutos.",
+};

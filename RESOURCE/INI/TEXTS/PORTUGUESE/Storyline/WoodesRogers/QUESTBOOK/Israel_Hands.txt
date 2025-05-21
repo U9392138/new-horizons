@@ -1,0 +1,17 @@
+title=Mãos de Israel
+text.t1=(também conhecido como Mãos de Basílica). Mestre de vela do Teach e Capitão do saveiro âAventuraâ. Após a morte de Teach Hands foi capturado em Bath, Carolina do Norte.
+text.t2=Ele foi julgado por pirataria em Williamsburg em 1718 e condenado, mas foi perdoado no último momento. Ele ainda poderia estar vivo em algum lugar?
+text.t3=As mãos podem estar vivas! Ele foi visto como um mendigo em Willemstad, Curaçao, há algum tempo.
+text.t4=O Major Stede Bonnet roubou o mapa de Hands. Ele foi enforcado em Charleston em 1718 pelo governador Sir William Stapelton.
+text.t5=Bonnet passou algum tempo na prisão em Antígua antes do julgamento. Uma Prisão no Mar muito assustadora localizada nos arredores do Forte. Um de seus oficiais ainda pode estar lá!
+text.t6=Bonnet subornou o oficial Tookerman para sair da prisão com "um papel". O mapa ainda pode estar no escritório de Took!
+text.t7=Tenho que procurar uma saída nesta parte da prisão. A água corrente é uma ideia.
+text.t8=Sim! Tenho o mapa que Stede Bonnet roubou de Israel Hands.
+text.t9=Eu encontrei a saída! Agora só preciso me livrar da água.
+text.t10=Preciso de ferramentas aqui!
+text.t11=A água desacelerou â agora está mais transparente.
+text.t12=Agora é mais fácil revistar o quarto de Took sem o bêbado.
+text.t13=Posso ver uma letra R, mas nenhuma porta marcada. Está manchado de sangue.
+text.t14=Posso ver as letras R e I. Uma porta marcada brilha através do sangue. No extremo leste da Ilha Cayman.
+text.t15=O governador está visitando os Maltains. Os guardas antiquados mostram o caminho.
+text.t16=O Maltains só abre à noite.
